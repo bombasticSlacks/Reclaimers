@@ -36,7 +36,7 @@ jobs:
           repository: bombasticSlacks/jekylSite
           path: Jekyl
       - name: copy config files
-        run: cp -rv /home/runner/work/Aspirant/Aspirant/Jekyl/* ./Game 
+        run: cp -rv /home/runner/work/Reclaimers/Reclaimers/Jekyl/* ./Game 
       - name: remove core files with conflicts
         run: rm ./Game/Core/Home.md ./Game/Core/README.md ./Game/Core/CONTRIBUTING.md ./Game/Core/CODE_OF_CONDUCT.md
       - name: manipulate anchors
