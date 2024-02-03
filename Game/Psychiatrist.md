@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 
+title: Psychiatrist
 has_children: false
-parent: 
+parent: Creating-A-Reclaimer
 grand_parent: 
 nav_order: 0
 ---
-# TITLE
+# Psychiatrist
 {: .no_toc }
