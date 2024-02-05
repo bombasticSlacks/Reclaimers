@@ -136,6 +136,7 @@ Requisition 0
 *A backpack, duffle bag or other container. It holds what you would need to survive for up to 72 hours. Gas Mask with 1 40mm filter designed to last between 1–24 hours depending on the density of particles. Food and water in the form of 8 litres of Water (2 per day with 2 for cleaning), a sealable thermos, 3 MRE's and water purification tablets. Medical supplies in the form of any personal medication, basic medication for headaches, nausea and diarrhea, feminine sanitation products (if necessary), hand sanitizer. Extra pairs of underwear, socks and a spare jumpsuit as well as an emergency blanket and hammock. Basic tools including a lighter, flashlight, small power supply, pocket knife, cord, glue, wire, trash bags. As well, the GO bag contains your identification papers and a few small personal items of your choice (makeup, hand mirror, handheld game console, book, cigarettes, amphetamines).*
 
 * Your character can live out of a GO bag comfortably for up to 3 days.
+
 ---
 
 Requisition 0
@@ -152,7 +153,7 @@ Requisition 0
 ### Jumpsuit
 *Most government and space station employees wear a standardized jumpsuit made of advanced synthetic materials and sprayed with ablative foam for additional protection. In general, people wear a jumpsuit with the colour matching their occupation. Yellow engineering, brown logistics, red security, purple sanitation and maintenance, white service, light blue medical, dark blue command, grey civilian, green military, black special govt employees.*
 
-A Reclaimer can wear any colour they choose, but most prefer to wear the colour of their occupation, grey or black.
+* A Reclaimer can wear any colour they choose, but most prefer to wear the colour of their occupation, grey or black.
 
 ---
 
