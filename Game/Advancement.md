@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 
+title: Advancement
 has_children: false
-parent: 
+parent: Telling The Story
 grand_parent: 
 nav_order: 0
 ---
-# TITLE
+# Advancement
 {: .no_toc }
