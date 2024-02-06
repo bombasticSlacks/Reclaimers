@@ -48,7 +48,6 @@ Equipment readily available to you when you deploy to the field. Remember, you c
 ### Weapons (Select Up To 2)
 
 
----
 
 Requisition 1
 {: .label .label-yellow }
@@ -62,7 +61,6 @@ Weapon
 | ------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ---------------------------- | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 8                                           | 2(-3)                                               | [Piercing](Core/Injury#Piercing)          | [Short](Core/Movement#Short) | 3                              | [Two Handed](Core/Weapon-Traits#Two%20Handed), [Capacity](Core/Weapon-Traits#Capacity(X,%20Type))(8, [Dowels](Munition-Details#Dowels)), [Loading](Core/Weapon-Traits#Loading(X))(1), [Sundering](Core/Weapon-Traits#Sundering) |
 
----
 Requisition 2
 {: .label .label-yellow }
 
@@ -75,7 +73,6 @@ Weapon
 | ------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | --------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 13                                          | 3(-3)                                               | [Heat](Core/Injury#Heat)                  | [Short](Core/Movement#Short)                            | 4                              | [Two Handed](Core/Weapon-Traits#Two%20Handed), [Capacity](Core/Weapon-Traits#Capacity(X,%20Type))(5, [Energy](Munition-Details#Energy)), [Loading](Core/Weapon-Traits#Loading(X))(4), [Area](Core/Weapon-Traits#Area) |
 
----
 
 Requisition 2
 {: .label .label-yellow }
@@ -89,11 +86,9 @@ Weapon
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | 9 + STR | 2(-2 + STR) | [Rending](Core/Injury#Rending) | [Reach](Core/Movement#Reach) | 2 | [One Handed](Core/Weapon-Traits#One%20Handed), [Strength](Core/Weapon-Traits#Strength) |
 
----
 
 ### Armour (Select 1)
 
----
 
 Requisition 0
 {: .label .label-yellow }
@@ -111,7 +106,6 @@ Armour
 | [Ancillary](../Game/Core/Injury#Ancillary) | (-1)                                                | [Heat](Core/Injury#Heat)                                                            | [Impact](Core/Injury#Impact), [Rending](Core/Injury#Rending)                                                              | -    |
 | [Vitals](../Game/Core/Injury#Vitals)       | (-1)                                                     | -                                                            | [Piercing](Core/Injury#Piercing)                                                              | -    |
 
----
 
 Requisition 2
 {: .label .label-yellow }
@@ -129,11 +123,9 @@ Armour
 | [Ancillary](../Game/Core/Injury#Ancillary) | (0)                                                | [Life](Core/Injury#Life)                                                            | [Heat](Core/Injury#Heat), [Piercing](Core/Injury#Piercing)                                                              | [Sealed](Core/Armour-Traits#Sealed), [Mechanized](Core/Armour-Traits#Mechanized)    |
 | [Vitals](../Game/Core/Injury#Vitals)       | (-1)                                                     | [Life](Core/Injury#Life)                                                            | [Heat](Core/Injury#Heat), [Piercing](Core/Injury#Piercing)                                                              | [Sealed](Core/Armour-Traits#Sealed), [Mechanized](Core/Armour-Traits#Mechanized)    |
 
----
 
 ### Gear (Select Any Number)
 
----
 
 Requisition 2
 {: .label .label-yellow }
@@ -147,7 +139,6 @@ Comestible
 * When you [Attack](Core/Terminology#Attack) with this, all [Characters](Core/Terminology#Character) within a [Short](Core/Movement#Short) distance and [Eye Line](Core/Terminology#Eye%20Line) are [Stunned](Core/Effects#Stunned) and [Disoriented](Core/Effects#Disoriented). Even a [Mitigated Attack](Core/Terminology#Mitigated%20Attack) will still result in being [Disoriented](Core/Effects#Disoriented).
 
 
----
 
 Requisition 1
 {: .label .label-yellow }
@@ -161,14 +152,12 @@ Tool Kit
 * Spend 1 [Charges](Core/Gear#Charges) to remove [Defeated](Core/Effects#Defeated).
 * Spend 2 [Charges](Core/Gear#Charges) to remove [Wounded](Core/Effects#Wounded).
 
----
 
 ## Advancements
 Training military Reclaimers can take as they [Progress](Progress) their career. Remember, you can always take advancements from the [Standard-Advancements](Standard-Advancements) as well.
 
 ### Basic Advancements
 
----
 
 Cybernetic
 {: .label .label-purple }
@@ -176,7 +165,6 @@ Cybernetic
 *Nanites which distribute adrenaline upon taking injury keeping you awake and in fighting shape no matter the damage.*
 * You immediately remove the [Wounded](Core/Effects#Wounded) effect the first time it happens to you each [Scene](Core/Terminology#Scene).
 
----
 
 Modification
 {: .label .label-purple }
@@ -184,7 +172,6 @@ Modification
 *A combination of a camera to attach to your weapon and a heads-up display program. This lets you fire “blind” around corners without exposing your head.*
 * You can perform [Ranged Attacks](Core/Terminology#Ranged%20Attack) at only a (-1) penalty while [In Cover](Core/Effects#In%20Cover) and making it impossible for [Characters](Core/Terminology#Character) to target you.
 
----
 
 Cybernetic
 {: .label .label-purple }
@@ -193,7 +180,6 @@ Cybernetic
 * (+2) [Damage Bonus](Core/Weapons#Damage%20Bonus) with any weapon with the [Strength](Core/Weapon-Traits#Strength) trait.
 * (+1) to all [Athletics](Core/Strength#Athletics) skill tests.
 
----
 
 Personal
 {: .label .label-purple }
@@ -201,7 +187,6 @@ Personal
 *You have pinpoint accuracy with your weapons.*
 * No negative on [Vitals Hit](Core/Attacks#Vitals%20Hit) if you haven't [Moved](Core/Movement) during a [Combat-Turn](Core/Combat-Turn).
 
----
 
 Personal
 {: .label .label-purple }
@@ -209,11 +194,9 @@ Personal
 *You've trained extensively in all forms of combat.*
 * You receive a (+1) to all [Actions](Core/Terminology#Action) involving weapons.
 
----
 
 ### Expert Advancements
 
---- 
 
 Personal
 {: .label .label-purple }
@@ -223,7 +206,6 @@ Personal
 * Receive no negative for [Delay](Core/Combat-Turn#Delay). 
 * Can perform a number of [Overwatch](Core/Special-Combat-Actions#Overwatch) attacks on a number of unique enemies in a [Combat-Turn](Core/Combat-Turn) up to your [Agility](Core/Agility).
 
----
 
 Mods
 {: .label .label-purple }
@@ -232,7 +214,6 @@ Mods
 * Select a [Weapon](Core/Weapons) you [Deployed](Deployment) with, remove the [Capacity(X, Type)](Core/Weapon-Traits#Capacity(X,%20Type)) and [Loading(X)](Core/Weapon-Traits#Loading(X)) traits if it has them. 
 * Some narrative effects or true abuse may cause your weapon to still run out of ammo, but it should be handled with your [GM](Core/How-To-Play#GM).
 
----
 
 Personal
 {: .label .label-purple }
@@ -240,7 +221,6 @@ Personal
 *You seem unstoppable, shrugging off even the most lethal of injuries.*
 * Once per [Deployment](Deployment) you may ignore any injury as though it didn't occur.
 
----
 
 Team
 {: .label .label-purple }
@@ -248,13 +228,11 @@ Team
 *Drilling in heavy armour and gear has led your team to get much more effective in the field while wearing armour.*
 * Everyone you go on [Deployment](Deployment) with ignores any [Skill Penalty](Core/Armour#Skill%20Penalty) for their [Armour](Core/Armour).
 
----
 
 
 ### Specializations
 Specialized advancements that provide access to additional [Equipment](Core/Equipment).
 
----
 
 Specialization
 {: .label .label-purple }
@@ -281,7 +259,7 @@ Requisition 2
 
 Weapon
 {: .label .label-purple }
-#### Gauss Light Machine Gun
+##### Gauss Light Machine Gun
 *A high-powered Gauss weapon firing magnetized depleted uranium rounds capable of tearing through armour and flesh alike. Designed to destroy light armoured vehicles and support infantry teams.*
 
 | [Damage Bonus](Core/Weapons#Damage%20Bonus) | Default [Damage](Core/Weapons#Calculating%20Damage) | [Damage Type](Core/Weapons#Damage%20Type) | [Range](Core/Weapons#Range)  | [Threat](Core/Weapons#Threat) | [Weapon Traits](Core/Weapon-Traits)                                                                                                                                                                                  |
@@ -289,7 +267,6 @@ Weapon
 | 8                                           | 2(-3)                                               | [Piercing](Core/Injury#Piercing)          | [Short](Core/Movement#Short) | 4                              | [Two Handed](Core/Weapon-Traits#Two%20Handed), [Capacity](Core/Weapon-Traits#Capacity(X,%20Type))(20, [Dowels](Munition-Details#Dowels)), [Loading](Core/Weapon-Traits#Loading(X))(2), [Sundering](Core/Weapon-Traits#Sundering), [Spraying](Core/Weapon-Traits#Spraying) |
 
 
----
 
 Specialization
 {: .label .label-purple }
@@ -319,7 +296,7 @@ Integrity 4
 
 Armour
 {: .label .label-purple }
-#### POLY Maiden
+##### POLY Maiden
 *A strange suit of armour assault troopers joke about being their coffin. This grafted suit of armour is basically impossible to remove in the field without advanced lab equipment. The plating of this armour is a living compound that regrows on tearing, making this armour impossible to destroy but also making it very difficult to provide first aid or surgery to anyone wearing it.
 
 | [Locations](Core/Armour#Locations) | [Skill Penalty](Core/Armour#Skill%20Penalty) | [Weakness](Core/Armour#Weakness%20and%20Resistance) | [Resistance](Core/Armour#Weakness%20and%20Resistance) | [Armour-Traits](Core/Armour-Traits)    |
@@ -327,4 +304,3 @@ Armour
 | [Ancillary](../Game/Core/Injury#Ancillary) | (0)                                                | [Rending](Core/Injury#Rending)                                                            | [Impact](Core/Injury#Impact), [Cold](Core/Injury#Cold), [Life](Core/Injury#Life)                                                              | [Living](Core/Armour-Traits#Living), [Regenerating](Core/Armour-Traits#Regenerating)    |
 | [Vitals](../Game/Core/Injury#Vitals)       | (0)                                                     | [Rending](Core/Injury#Rending)                                                            | [Impact](Core/Injury#Impact), [Cold](Core/Injury#Cold), [Life](Core/Injury#Life)                                                              | [Living](Core/Armour-Traits#Living), [Regenerating](Core/Armour-Traits#Regenerating)    |
 
----
