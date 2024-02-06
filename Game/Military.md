@@ -10,8 +10,6 @@ nav_order: 0
 Military reclaimers specialize in using force to solve problems. Provided the best of the best when it comes to weapons and armour. 
 {: .no_toc }
 
-## Contents
-{: .no_toc }
 <details open markdown="block">
   <summary>
     Table of contents

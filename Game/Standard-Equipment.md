@@ -11,8 +11,6 @@ nav_order: 0
 
 All Reclaimers have access to a suite of basic equipment that provides them the basics they could potentially need.
 
-## Contents
-{: .no_toc }
 <details open markdown="block">
   <summary>
     Table of contents
