@@ -1,9 +1,7 @@
-Requisition X
-{: .label .label-yellow }
-
-Gear
+TAG
 {: .label .label-purple }
 #### Name
 *Description*
+* Rules
 
 ---

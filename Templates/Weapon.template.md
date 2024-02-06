@@ -1,6 +1,9 @@
 Requisition X
 {: .label .label-yellow }
-## Name
+
+Weapon
+{: .label .label-purple }
+#### Name
 *Description*
 
 | [Damage Bonus](Core/Weapons#Damage%20Bonus) | Default [Damage](Core/Weapons#Calculating%20Damage) | [Damage Type](Core/Weapons#Damage%20Type) | [Range](Core/Weapons#Range) | [Threat](Core/Weapons#Threat) | [Weapon Traits](Core/Weapon-Traits) |
