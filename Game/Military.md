@@ -3,7 +3,7 @@ layout: default
 title: Military
 has_children: false
 parent: Creating A Reclaimer
-grand_parent: 
+grand_parent: How To Play
 nav_order: 0
 ---
 # Military
@@ -11,6 +11,7 @@ Military reclaimers specialize in using force to solve problems. Provided the be
 {: .no_toc }
 
 ## Attributes
+
 | Stat (Augmented Stat)          | Skill     | Starting Ranks (Mark 7 Additional) |
 | ------------- | --------- | -------------- |
 | [Strength](Core/Strength) (+1)      | [Athletics](Core/Strength#Athletics) | (+1)               |
@@ -71,17 +72,62 @@ Requisition 2
 
 ---
 
-
 ### Armour (Select 1)
 
-| Item             | Cost |
-| ---------------- | ---- |
-| RIOT Armour      | 0    |
-| Gunsling Harness | 1    |
-| EXO Frame        | 2     |
+---
 
+Requisition 0
+{: .label .label-yellow }
+
+Integrity 4
+{: .label .label-green }
+## Assault Armour
+*Heavy armor with military grade plating for maximum protection. The maximum amount of weight a soldier could be expected to carry without mechanized support. Has a reinforced ballistic hood that can be rolled out for head protection.*
+
+| [Locations](Core/Armour#Locations) | [Skill Penalty](Core/Armour#Skill%20Penalty) | [Weakness](Core/Armour#Weakness%20and%20Resistance) | [Resistance](Core/Armour#Weakness%20and%20Resistance) | [Armour-Traits](Core/Armour-Traits)    |
+| ------------------------------------------ | ---------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------- | --- |
+| [Ancillary](../Game/Core/Injury#Ancillary) | (-1)                                                | [Heat](Core/Injury#Heat)                                                            | [Impact](Core/Injury#Impact), [Rending](Core/Injury#Rending)                                                              | -    |
+| [Vitals](../Game/Core/Injury#Vitals)       | (-1)                                                     | -                                                            | [Piercing](Core/Injury#Piercing)                                                              | -    |
+
+---
+
+Requisition 2
+{: .label .label-yellow }
+
+Integrity 6
+{: .label .label-green }
+## EXO Frame
+*Armour reinforced with a mechanized exosuit to manage the cumbersome weight. Completely sealed with front facing cameras providing HUD and vision.*
+
+| [Locations](Core/Armour#Locations) | [Skill Penalty](Core/Armour#Skill%20Penalty) | [Weakness](Core/Armour#Weakness%20and%20Resistance) | [Resistance](Core/Armour#Weakness%20and%20Resistance) | [Armour-Traits](Core/Armour-Traits)    |
+| ------------------------------------------ | ---------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------- | --- |
+| [Ancillary](../Game/Core/Injury#Ancillary) | (0)                                                | [Life](Core/Injury#Life)                                                            | [Heat](Core/Injury#Heat), [Piercing](Core/Injury#Piercing)                                                              | [Sealed](Core/Armour-Traits#Sealed), [Mechanized](Core/Armour-Traits#Mechanized)    |
+| [Vitals](../Game/Core/Injury#Vitals)       | (-1)                                                     | [Life](Core/Injury#Life)                                                            | [Heat](Core/Injury#Heat), [Piercing](Core/Injury#Piercing)                                                              | [Sealed](Core/Armour-Traits#Sealed), [Mechanized](Core/Armour-Traits#Mechanized)    |
+
+---
 
 ### Gear (Select Any Number)
-| Item | Cost |
-| ---- | ---- |
-|  |  |
+
+---
+
+Requisition 2
+{: .label .label-yellow }
+## Flash Grenades
+*Grenades designed for non-lethal takedowns and entries causing a bright light + loud explosion that is enough to cause temporary blindness and deafness*
+
+* [Throwables](Core/Comestibles#Throwables), [Deploy](Deployment) with [Munition Capacity](Additional-Attributes#Munition%20Capacity).
+* When you [Attack](Core/Terminology#Attack) with this, all [Characters](Core/Terminology#Character) within a [Short](Core/Movement#Short) distance and [Eye Line](Core/Terminology#Eye%20Line) are [Stunned](Core/Effects#Stunned) and [Disoriented](Core/Effects#Disoriented). Even a [Mitigated Attack](Core/Terminology#Mitigated%20Attack) will still result in being [Disoriented](Core/Effects#Disoriented).
+
+
+---
+
+Requisition 1
+{: .label .label-yellow }
+## IFAK
+*An "Individual First Aid Kit" providing all the materials required to keep yourself fighting even through the worst injuries.*
+
+* [Charges](Core/Terminology#Charges)(3)
+* Spend 1 [Charges](Core/Gear#Charges) to remove [Defeated](Core/Effects#Defeated).
+* Spend 2 [Charges](Core/Gear#Charges) to remove [Wounded](Core/Effects#Wounded).
+
+---

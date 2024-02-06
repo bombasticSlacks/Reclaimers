@@ -57,6 +57,7 @@ Requisition 1
 | [Damage Bonus](Core/Weapons#Damage%20Bonus) | Default [Damage](Core/Weapons#Calculating%20Damage) | [Damage Type](Core/Weapons#Damage%20Type) | [Range](Core/Weapons#Range) | [Threat](Core/Weapons#Threat) | [Weapon Traits](Core/Weapon-Traits) |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | 8 | 2(-3) | [Piercing](Core/Injury#Piercing) | [Close](Core/Movement#Close) | 3 | [Two Handed](Core/Weapon-Traits#Two%20Handed), [Capacity](Core/Weapon-Traits#Capacity(X,%20Type))(1, Ammunition), [Loading](Core/Weapon-Traits#Loading(X))(0), [Shotgun](Core/Weapon-Traits#Shotgun), [Launcher](Core/Weapon-Traits#Launcher) |
+
 You can also bring [Munition Capacity](Additional-Attributes#Munition%20Capacity) worth of [Specialty Ammo](Munition-Details#Specialty%20Ammo).
 
 ---
