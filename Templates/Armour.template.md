@@ -3,7 +3,10 @@ Requisition X
 
 Integrity Y
 {: .label .label-green }
-## Name
+
+Armour
+{: .label .label-purple }
+#### Name
 *Description*
 
 | [Locations](Core/Armour#Locations) | [Skill Penalty](Core/Armour#Skill%20Penalty) | [Weakness](Core/Armour#Weakness%20and%20Resistance) | [Resistance](Core/Armour#Weakness%20and%20Resistance) | [Armour-Traits](Core/Armour-Traits)    |
