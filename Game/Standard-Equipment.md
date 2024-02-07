@@ -38,4 +38,4 @@ All Reclaimers have access to a suite of basic equipment that provides them the 
 ![Heads-Up-Display](Game/Blocks/Heads-Up-Display)
 ![Jumpsuit](Game/Blocks/Jumpsuit)
 ![LOOT-Sack](Game/Blocks/LOOT-Sack)
-![TAC Rigging](Game/Blocks/TAC%20Rigging)
+![TAC-Rigging](Game/Blocks/TAC-Rigging)

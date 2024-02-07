@@ -19,13 +19,13 @@ nav_order: 0
 </details>
 
 ![Adrenaline-Nanites](Game/Blocks/Adrenaline-Nanites)
-![Armoured Division](Game/Blocks/Armoured%20Division)
+![Armoured-Division](Game/Blocks/Armoured-Division)
 ![Assault-Trooper](Game/Blocks/Assault-Trooper)
 ![Backpack-Ammo-Supply](Game/Blocks/Backpack-Ammo-Supply)
 ![Death-Squad-Soldier](Game/Blocks/Death-Squad-Soldier)
 ![GunCam-HUD](Game/Blocks/GunCam-HUD)
 ![Marksman](Game/Blocks/Marksman)
 ![Mega-Muscle-Implants](Game/Blocks/Mega-Muscle-Implants)
-![People's Champion](Game/Blocks/People's%20Champion)
-![Point Man](Game/Blocks/Point%20Man)
+![Peoples-Champion](Game/Blocks/Peoples-Champion)
+![Point-Man](Game/Blocks/Point-Man)
 ![Weapon-Expert](Game/Blocks/Weapon-Expert)

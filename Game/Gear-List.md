@@ -26,4 +26,4 @@ nav_order: 0
 ![IFAK](Game/Blocks/IFAK)
 ![Jumpsuit](Game/Blocks/Jumpsuit)
 ![LOOT-Sack](Game/Blocks/LOOT-Sack)
-![TAC Rigging](Game/Blocks/TAC%20Rigging)
+![TAC-Rigging](Game/Blocks/TAC-Rigging)
