@@ -8,7 +8,7 @@ dir = "Game/Blocks"
 
 for block in os.listdir(dir):
     # Skip .bak files
-    if block.find(".bak") != -1:
+    if block.find(".bak") == -1:
         address = dir + "/" + block
         name = block.strip(".md")
         print(address)
