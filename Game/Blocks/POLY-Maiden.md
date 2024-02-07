@@ -2,7 +2,7 @@
 Armour
 {: .label .label-purple }
 
-Military
+Assault Trooper
 {: .label .label-blue }
 
 Requisition 3
