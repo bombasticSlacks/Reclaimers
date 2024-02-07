@@ -11,4 +11,4 @@ nav_order: 0
 
 ## Severity
 
-![Gauss-Gun](Blocks/Gauss-Gun)
+![Gauss-Gun](Game/Blocks/Gauss-Gun)
