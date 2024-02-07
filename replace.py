@@ -15,7 +15,10 @@ for block in os.listdir(dir):
         print(name)
         f = open(address, "r")
 
-        contents = f.read()
+        # Wrap our block with some HTML
+        contents = '<div markdown="1" class="block">\n'
+        contents += f.read()
+        contents += '\n</div>'
 
         # find the relevant files
         result = subprocess.run(["grep", "-r", "-l", "--regexp=!\[.*\](\/Blocks\/.*)", "Game/"], capture_output=True, text=True)
