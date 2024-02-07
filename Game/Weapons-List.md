@@ -19,7 +19,10 @@ nav_order: 0
 </details>
 
 ![Break-Action-Driver](Game/Blocks/Break-Action-Driver)
+![Chem-Thrower](Game/Blocks/Chem-Thrower)
 ![Gauss-Gun](Game/Blocks/Gauss-Gun)
+![Gauss-Light-Machine-Gun](Game/Blocks/Gauss-Light-Machine-Gun)
+![Grav-Fist](Game/Blocks/Grav-Fist)
 ![Handgun](Game/Blocks/Handgun)
 ![OE-Laser-Rifle](Game/Blocks/OE-Laser-Rifle)
 ![Polymer-Weapon](Game/Blocks/Polymer-Weapon)

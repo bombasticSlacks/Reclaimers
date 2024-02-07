@@ -22,4 +22,5 @@ nav_order: 0
 ![EXO-Frame](Game/Blocks/EXO-Frame)
 ![Hardsuit](Game/Blocks/Hardsuit)
 ![Plate-Carrier](Game/Blocks/Plate-Carrier)
+![POLY-Maiden](Game/Blocks/POLY-Maiden)
 ![Slash-Mesh](Game/Blocks/Slash-Mesh)
