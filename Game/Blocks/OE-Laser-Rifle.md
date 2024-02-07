@@ -1,12 +1,12 @@
 
-Requisition 2
-{: .label .label-yellow }
+Weapon
+{: .label .label-purple }
 
 Military
 {: .label .label-blue }
 
-Weapon
-{: .label .label-purple }
+Requisition 2
+{: .label .label-yellow }
 #### OE Laser Rifle
 *A devastating weapon used to destroy armoured vehicles while liquifying the passengers. Releases devastating blasts of pure energy that disintegrates victims and can cause fires. It should not be fired in small rooms.*
 

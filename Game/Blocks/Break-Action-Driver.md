@@ -1,12 +1,12 @@
 
-Requisition 1
-{: .label .label-yellow }
+Weapon
+{: .label .label-purple }
 
 General
 {: .label .label-blue }
 
-Weapon
-{: .label .label-purple }
+Requisition 1
+{: .label .label-yellow }
 #### Break Action Driver
 *A destructive break action launcher which can load standard micro fléchette rounds, specialized rounds, or any type of grenade. Designed for portability while still having excellent damage potential.*
 

@@ -1,17 +1,16 @@
 
-Integrity 4
-{: .label .label-green }
-
-Requisition 0
-{: .label .label-yellow }
+Armour
+{: .label .label-purple }
 
 Military
 {: .label .label-blue }
 
-Armour
-{: .label .label-purple }
+Requisition 0
+{: .label .label-yellow }
 #### Combat Armour
 *Heavy armour with military grade plating for maximum protection. The maximum amount of weight a soldier could be expected to carry without mechanized support. Has a reinforced ballistic hood that can be rolled out for head protection.*
+
+Integrity: 4
 
 | [Locations](Core/Armour#Locations) | [Skill Penalty](Core/Armour#Skill%20Penalty) | [Weakness](Core/Armour#Weakness%20and%20Resistance) | [Resistance](Core/Armour#Weakness%20and%20Resistance) | [Armour-Traits](Core/Armour-Traits)    |
 | ------------------------------------------ | ---------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------- | --- |

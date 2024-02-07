@@ -1,12 +1,12 @@
 
-Requisition 0
-{: .label .label-yellow }
+Gear
+{: .label .label-purple }
 
 General
 {: .label .label-blue }
 
-Gear
-{: .label .label-purple }
+Requisition 0
+{: .label .label-yellow }
 #### Earpiece
 *An in ear shortwave communication/intranet connected device your team can use to talk to one another. Communications are encrypted using reclaimer-specific keys.*
 

@@ -1,12 +1,12 @@
 
-Requisition 1
-{: .label .label-yellow }
+Gear
+{: .label .label-purple }
 
 Military
 {: .label .label-blue }
 
-Gear
-{: .label .label-purple }
+Requisition 1
+{: .label .label-yellow }
 #### IFAK
 *An "Individual First Aid Kit" providing all the materials required to keep yourself fighting even through the worst injuries.*
 

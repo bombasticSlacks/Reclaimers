@@ -1,11 +1,12 @@
-Modification
-{: .label .label-green }
+
+Expert
+{: .label .label-purple }
 
 Military
 {: .label .label-blue }
 
-Expert
-{: .label .label-purple }
+Modification
+{: .label .label-green }
 ### Backpack Ammo Supply
 *You have a massive backpack ammo supply, providing one of your weapons with an almost unending amount of ammo.*
 * Select a [Weapon](Core/Weapons) you [Deployed](Deployment) with, remove the [Capacity(X, Type)](Core/Weapon-Traits#Capacity(X,%20Type)) and [Loading(X)](Core/Weapon-Traits#Loading(X)) traits if it has them. 

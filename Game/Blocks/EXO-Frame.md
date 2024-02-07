@@ -1,17 +1,16 @@
 
-Integrity 6
-{: .label .label-green }
-
-Requisition 2
-{: .label .label-yellow }
+Armour
+{: .label .label-purple }
 
 Military
 {: .label .label-blue }
 
-Armour
-{: .label .label-purple }
+Requisition 2
+{: .label .label-yellow }
 #### EXO Frame
 *Armour reinforced with a mechanized exosuit to manage the cumbersome weight. Completely sealed with front facing cameras providing HUD and vision.*
+
+Integrity: 6
 
 | [Locations](Core/Armour#Locations) | [Skill Penalty](Core/Armour#Skill%20Penalty) | [Weakness](Core/Armour#Weakness%20and%20Resistance) | [Resistance](Core/Armour#Weakness%20and%20Resistance) | [Armour-Traits](Core/Armour-Traits)    |
 | ------------------------------------------ | ---------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------- | --- |

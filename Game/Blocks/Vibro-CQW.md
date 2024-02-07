@@ -1,12 +1,12 @@
 
-Requisition 2
-{: .label .label-yellow }
+Weapon
+{: .label .label-purple }
 
 Military
 {: .label .label-blue }
 
-Weapon
-{: .label .label-purple }
+Requisition 2
+{: .label .label-yellow }
 #### Vibro CQW
 *A traditional close quarters weapon lovingly crafted using standardized military technology to vibrate the striking edge at a speed that will allow it to easily break through or disrupt the integrity of even modern military armour and flesh.*
 

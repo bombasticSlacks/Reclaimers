@@ -1,11 +1,12 @@
-Specialization
-{: .label .label-green }
+
+Basic
+{: .label .label-purple }
 
 Military
 {: .label .label-blue }
 
-Basic
-{: .label .label-purple }
+Specialization
+{: .label .label-green }
 ### Assault Trooper
 *"Death is a state of mind". You've trained as a frontline soldier specialized in pushing enemy lines no matter the risk.*
 * If you are the tagged archetype, you get +1 [Sway](Additional-Attributes#Sway).

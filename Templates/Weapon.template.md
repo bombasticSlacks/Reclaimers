@@ -1,12 +1,12 @@
 
-Requisition X
-{: .label .label-yellow }
+Weapon
+{: .label .label-purple }
 
 Arch
 {: .label .label-blue }
 
-Weapon
-{: .label .label-purple }
+Requisition X
+{: .label .label-yellow }
 #### Name
 *Description*
 

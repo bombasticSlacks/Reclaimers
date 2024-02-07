@@ -1,12 +1,12 @@
 
-Requisition 2
-{: .label .label-yellow }
+Weapon
+{: .label .label-purple }
 
 Death Squad Soldier
 {: .label .label-blue }
 
-Weapon
-{: .label .label-purple }
+Requisition 2
+{: .label .label-yellow }
 #### Chem Thrower
 *Promethium fuelled weapon of mass destruction. Releases torrents of metal melting flame that seem to stick to anyone targeted.*
 

@@ -1,12 +1,12 @@
 
-Requisition X
-{: .label .label-yellow }
+Gear
+{: .label .label-purple }
 
 ARCH
 {: .label .label-blue }
 
-Gear
-{: .label .label-purple }
+Requisition X
+{: .label .label-yellow }
 #### Name
 *Description*
 

@@ -1,12 +1,12 @@
 
-Personal
-{: .label .label-green }
+Expert
+{: .label .label-purple }
 
 Military
 {: .label .label-blue }
 
-Expert
-{: .label .label-purple }
+Personal
+{: .label .label-green }
 ### Point Man
 *You're always at the ready and can respond to movement in your field of view with lightning fast reflexes.*
 * You have no penalty on [Overwatch](Core/Special-Combat-Actions#Overwatch).

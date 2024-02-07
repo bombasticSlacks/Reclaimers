@@ -1,17 +1,16 @@
 
-Integrity X
-{: .label .label-green }
-
-Requisition X
-{: .label .label-yellow }
+Armour
+{: .label .label-purple }
 
 ARCH
 {: .label .label-blue }
 
-Armour
-{: .label .label-purple }
+Requisition X
+{: .label .label-yellow }
 #### Name
 *Description*
+
+Integrity: X
 
 | [Locations](Game/Core/Armour#Locations) | [Skill Penalty](Game/Core/Armour#Skill%20Penalty) | [Weakness](Game/Core/Armour#Weakness%20and%20Resistance) | [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) | [Armour-Traits](Game/Core/Armour-Traits)    |
 | ------------------------------------------ | ---------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------- | --- |
