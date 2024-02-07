@@ -7,7 +7,7 @@ Death Squad Soldier
 
 Requisition 2
 {: .label .label-yellow }
-##### Gauss Light Machine Gun
+#### Gauss Light Machine Gun
 *A high-powered Gauss weapon firing magnetized depleted uranium rounds capable of tearing through armour and flesh alike. Designed to destroy light armoured vehicles and support infantry teams.*
 
 | [Damage Bonus](Core/Weapons#Damage%20Bonus) | Default [Damage](Core/Weapons#Calculating%20Damage) | [Damage Type](Core/Weapons#Damage%20Type) | [Range](Core/Weapons#Range)  | [Threat](Core/Weapons#Threat) | [Weapon Traits](Core/Weapon-Traits)                                                                                                                                                                                  |
