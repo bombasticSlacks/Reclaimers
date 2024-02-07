@@ -32,7 +32,7 @@
     "Vibro"
   ],
   "showLineNumber": false,
-  "newLinkFormat": "relative",
+  "newLinkFormat": "absolute",
   "pdfExportSettings": {
     "includeName": false,
     "pageSize": "Letter",
