@@ -22,8 +22,6 @@ Military reclaimers specialize in using force to solve problems. Provided the be
 
 ## Attributes
 
-[Strength](Game/Core/Strength)
-
 | Stat (Augmented Stat)          | Skill     | Starting Ranks (Mark 7 Additional) |
 | ------------- | --------- | -------------- |
 | [Strength](Core/Strength) (+1)      | [Athletics](Core/Strength#Athletics) | (+1)               |
