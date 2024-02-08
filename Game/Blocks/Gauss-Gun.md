@@ -1,11 +1,11 @@
 
-Weapon
+[Weapons](Game/Core/Weapons)
 {: .label .label-purple }
 
-Military
+[Military](Game/Military)
 {: .label .label-blue }
 
-Requisition 1
+[Requisition](Game/Deployment#Requisition) 1
 {: .label .label-yellow }
 #### Gauss Gun
 *A high-powered Gauss weapon firing magnetized depleted uranium rounds capable of tearing through armour and flesh alike. Designed to minimize lethality while maximizing armour penetration for military takedowns.*
