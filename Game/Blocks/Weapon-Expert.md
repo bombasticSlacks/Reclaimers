@@ -1,11 +1,11 @@
 
-Basic
+[Basic](Game/Progress#Basic)
 {: .label .label-purple }
 
-Military
+[Military](Game/Military)
 {: .label .label-blue }
 
-Modification
+[Training](Game/Progress#Training)
 {: .label .label-green }
 ### Weapon Expert
 *You've trained extensively in all forms of combat.*

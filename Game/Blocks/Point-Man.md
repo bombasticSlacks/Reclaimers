@@ -1,11 +1,11 @@
 
-Expert
+[Expert](Game/Progress#Expert)
 {: .label .label-purple }
 
-Military
+[Military](Game/Military)
 {: .label .label-blue }
 
-Personal
+[Training](Game/Progress#Training)
 {: .label .label-green }
 ### Point Man
 *You're always at the ready and can respond to movement in your field of view with lightning fast reflexes.*

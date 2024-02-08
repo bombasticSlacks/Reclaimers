@@ -1,11 +1,11 @@
 
-Weapon
+[Weapons](Game/Core/Weapons)
 {: .label .label-purple }
 
-General
+[Standard Equipment](Game/Standard-Equipment)
 {: .label .label-blue }
 
-Requisition 0
+[Requisition 0](Game/Deployment#Requisition)
 {: .label .label-yellow }
 #### Handgun
 *A reliable sidearm for military and non-military personnel. Reclaimers usually prefer either rapid firing semi-automatic pistols, or higher calibre slower fire rate revolvers, though either provides similar overall damage potential.*

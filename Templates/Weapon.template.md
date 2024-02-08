@@ -1,11 +1,11 @@
 
-Weapon
+[Weapons](Game/Core/Weapons)
 {: .label .label-purple }
 
 Arch
 {: .label .label-blue }
 
-Requisition X
+[Requisition X](Game/Deployment#Requisition)
 {: .label .label-yellow }
 #### Name
 *Description*

@@ -1,11 +1,11 @@
 
-Gear
+[Gear](Game/Core/Gear)
 {: .label .label-purple }
 
-General
+[Standard Equipment](Game/Standard-Equipment)
 {: .label .label-blue }
 
-Requisition 0
+[Requisition 0](Game/Deployment#Requisition)
 {: .label .label-yellow }
 #### Clothing
 *Many people wear accessories and over wear above their jumpsuits. Engineers wear safety vests, janitors overalls, security combat vests and doctors/scientists lab coats.* 

@@ -1,11 +1,11 @@
 
-Basic
+[Basic](Game/Progress#Basic)
 {: .label .label-purple }
 
-Military
+[Military](Game/Military)
 {: .label .label-blue }
 
-Specialization
+[Specialization](Game/Progress#Specialization)
 {: .label .label-green }
 ### Assault Trooper
 *"Death is a state of mind". You've trained as a frontline soldier specialized in pushing enemy lines no matter the risk.*

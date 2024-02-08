@@ -1,11 +1,11 @@
 
-Basic
+[Basic](Game/Progress#Basic)
 {: .label .label-purple }
 
-Military
+[Military](Game/Military)
 {: .label .label-blue }
 
-Modification
+[Modification](Game/Progress#Modification)
 {: .label .label-green }
 ### GunCam HUD
 *A combination of a camera to attach to your weapon and a heads-up display program. This lets you fire “blind” around corners without exposing your head.*

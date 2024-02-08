@@ -1,11 +1,11 @@
 
-Armour
+[Armour](Game/Core/Armour)
 {: .label .label-purple }
 
-Military
+[Military](Game/Military)
 {: .label .label-blue }
 
-Requisition 2
+[Requisition 2](Game/Deployment#Requisition)
 {: .label .label-yellow }
 #### EXO Frame
 *Armour reinforced with a mechanized exosuit to manage the cumbersome weight. Completely sealed with front facing cameras providing HUD and vision.*

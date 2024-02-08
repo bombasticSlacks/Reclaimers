@@ -1,11 +1,11 @@
 
-Armour
+[Armour](Game/Core/Armour)
 {: .label .label-purple }
 
-General
+[Standard Equipment](Game/Standard-Equipment)
 {: .label .label-blue }
 
-Requisition 1
+[Requisition 1](Game/Deployment#Requisition)
 {: .label .label-yellow }
 
 #### Hardsuit

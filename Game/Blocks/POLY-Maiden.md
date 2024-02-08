@@ -1,11 +1,11 @@
 
-Armour
+[Armour](Game/Core/Armour)
 {: .label .label-purple }
 
-Assault Trooper
+[Assault-Trooper](Game/Blocks/Assault-Trooper)
 {: .label .label-blue }
 
-Requisition 3
+[Requisition 3](Game/Deployment#Requisition)
 {: .label .label-yellow }
 #### POLY Maiden
 *A strange suit of armour assault troopers joke about being their coffin. This grafted suit of armour is basically impossible to remove in the field without advanced lab equipment. The plating of this armour is a living compound that regrows on tearing, making this armour impossible to destroy but also making it very difficult to provide first aid or surgery to anyone wearing it.

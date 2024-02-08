@@ -1,11 +1,11 @@
 
-Weapon
+[Weapons](Game/Core/Weapons)
 {: .label .label-purple }
 
-General
+[Standard Equipment](Game/Standard-Equipment)
 {: .label .label-blue }
 
-Requisition 0
+[Requisition 0](Game/Deployment#Requisition)
 {: .label .label-yellow }
 #### Polymer Weapon
 *A small 3d-printed melee weapon made of hardened polymers. Standard issue and useful for survival. This weapon comes in many styles such as a shovel, hatchet, baton, knife, machete.*

@@ -1,11 +1,11 @@
 
-Comestible
+[Comestibles](Game/Core/Comestibles)
 {: .label .label-purple }
 
-Military
+[Military](Game/Military)
 {: .label .label-blue }
 
-Requisition 2
+[Requisition 2](Game/Deployment#Requisition)
 {: .label .label-yellow }
 #### Flash Grenades
 *Grenades designed for non-lethal takedowns and entries causing a bright light + loud explosion that is enough to cause temporary blindness and deafness*

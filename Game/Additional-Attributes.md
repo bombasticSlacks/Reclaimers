@@ -30,4 +30,4 @@ A stat tracking how much pull you have when requisitioning equipment for a missi
 Sway is equal to [Communication](Core/Communication), but will be modified by [Severity](Deployment#Severity).
 
 ## Completed Missions
-Tracks the number of missions you have completed, informs what [Advancement](Advancement) you can select after each mission.
+Tracks the number of missions you have completed, informs what [Advancements](Game/Progress#Advancements) you can select after each mission.

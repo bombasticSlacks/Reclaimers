@@ -1,11 +1,11 @@
 
-Armour
+[Armour](Game/Core/Armour)
 {: .label .label-purple }
 
-Military
+[Military](Game/Military)
 {: .label .label-blue }
 
-Requisition 0
+[Requisition 0](Game/Deployment#Requisition)
 {: .label .label-yellow }
 #### Combat Armour
 *Heavy armour with military grade plating for maximum protection. The maximum amount of weight a soldier could be expected to carry without mechanized support. Has a reinforced ballistic hood that can be rolled out for head protection.*

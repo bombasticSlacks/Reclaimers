@@ -1,11 +1,11 @@
 
-Armour
+[Armour](Game/Core/Armour)
 {: .label .label-purple }
 
-General
+[Standard Equipment](Game/Standard-Equipment)
 {: .label .label-blue }
 
-Requisition 0
+[Requisition 0](Game/Deployment#Requisition)
 {: .label .label-yellow }
 #### Slash Mesh
 *A lightweight weave of flexible carbon tubing worn as an undershirt and leggings. This weave helps to mitigate energy as well as stopping most basic bladed weapons from causing any serious damage.*

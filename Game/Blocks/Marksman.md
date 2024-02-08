@@ -1,11 +1,11 @@
 
-Basic
+[Basic](Game/Progress#Basic)
 {: .label .label-purple }
 
-Military
+[Military](Game/Military)
 {: .label .label-blue }
 
-Personal
+[Training](Game/Progress#Training)
 {: .label .label-green }
 ### Marksman
 *You have pinpoint accuracy with your weapons.*
