@@ -11,7 +11,7 @@
 *A high-powered Gauss weapon firing magnetized depleted uranium rounds capable of tearing through armour and flesh alike. Designed to minimize lethality while maximizing armour penetration for military takedowns.*
 
 | [Damage Bonus](Game/Core/Weapons#Damage%20Bonus) | 8 |
-| ---- | ---- |
+| :---- | :---- |
 | Default [Damage](Core/Weapons#Calculating%20Damage) | 2(-3) |
 | [Damage Type](Core/Weapons#Damage%20Type) | [Piercing](Core/Injury#Piercing) |
 | [Range](Core/Weapons#Range) | [Short](Core/Movement#Short) |
