@@ -17,4 +17,3 @@
 | [Range](Core/Weapons#Range) | [Short](Core/Movement#Short) |
 | [Threat](Core/Weapons#Threat) | 3 |
 | [Weapon Traits](Core/Weapon-Traits) | [Two Handed](Core/Weapon-Traits#Two%20Handed), [Capacity](Core/Weapon-Traits#Capacity(X,%20Type))(8, [Dowels](Munition-Details#Dowels)), [Loading](Core/Weapon-Traits#Loading(X))(1), [Sundering](Core/Weapon-Traits#Sundering), [Advanced](Game/Core/Weapon-Traits#Advanced), [Targeted](Game/Core/Weapon-Traits#Targeted) |
-
