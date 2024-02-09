@@ -4,7 +4,7 @@ title: Telling The Story
 has_children: true
 parent: 
 grand_parent: 
-nav_order: 0
+nav_order: 2
 ---
 # Telling The Story
 {: .no_toc }

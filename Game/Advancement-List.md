@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Gear List
+title: Advancement List
 has_children: false
-parent: Advancement
+parent: Progress
 grand_parent: Telling The Story
 nav_order: 0
 ---
