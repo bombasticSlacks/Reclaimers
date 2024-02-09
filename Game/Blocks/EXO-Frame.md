@@ -10,10 +10,14 @@
 #### EXO Frame
 *Armour reinforced with a mechanized exosuit to manage the cumbersome weight. Completely sealed with front facing cameras providing HUD and vision.*
 
-Integrity: 6
+| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 6 |
+| :---- | :---- |
+| [Armour-Traits](Game/Core/Armour-Traits) | [Sealed](Game/Core/Armour-Traits#Sealed), [Mechanized](Game/Core/Armour-Traits#Mechanized) |
 
-| [Locations](Core/Armour#Locations) | [Skill Penalty](Core/Armour#Skill%20Penalty) | [Weakness](Core/Armour#Weakness%20and%20Resistance) | [Resistance](Core/Armour#Weakness%20and%20Resistance) | [Armour-Traits](Core/Armour-Traits)    |
-| ------------------------------------------ | ---------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------- | --- |
-| [Ancillary](Game/Core/Injury#Ancillary) | (0)                                                | [Life](Core/Injury#Life)                                                            | [Heat](Core/Injury#Heat), [Piercing](Core/Injury#Piercing)                                                              | [Sealed](Core/Armour-Traits#Sealed), [Mechanized](Core/Armour-Traits#Mechanized)    |
-| [Vitals](Game/Core/Injury#Vitals)       | (-1)                                                     | [Life](Core/Injury#Life)                                                            | [Heat](Core/Injury#Heat), [Piercing](Core/Injury#Piercing)                                                              | [Sealed](Core/Armour-Traits#Sealed), [Mechanized](Core/Armour-Traits#Mechanized)    |
+|  | [Ancillary](Game/Core/Injury#Ancillary) | [Vitals](Game/Core/Injury#Vitals) |
+| ---- | ---- | ---- |
+| [Skill Penalty](Game/Core/Armour#Skill%20Penalty) | (0) | (-1) |
+| [Weakness](Game/Core/Armour#Weakness%20and%20Resistance) | [Life](Game/Core/Injury#Life) | [Life](Game/Core/Injury#Life) |
+| [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) | [Heat](Game/Core/Injury#Heat), [Piercing](Game/Core/Injury#Piercing) | [Heat](Game/Core/Injury#Heat), [Piercing](Game/Core/Injury#Piercing) |
+
 
