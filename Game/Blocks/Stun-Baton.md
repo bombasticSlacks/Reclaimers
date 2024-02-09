@@ -10,6 +10,10 @@
 #### Stun Baton
 *A classic tool for space security forces. A non-collapsible baton with a notable power supply, providing additional weight to the head. When making contact with something, it discharges a large burst of electricity.*
 
-| [Damage Bonus](Game/Core/Weapons#Damage%20Bonus) | Default [Damage](Game/Core/Weapons#Calculating%20Damage) | [Damage Type](Game/Core/Weapons#Damage%20Type)                   | [Range](Game/Core/Weapons#Range)  | [Threat](Game/Core/Weapons#Threat) | [Weapon Traits](Game/Core/Weapon-Traits)                                                                                                                                                                                                             |
-| ------------------------------------------------ | -------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4 + [Strength](Game/Core/Strength)               | 1(-2) + STR                                                    | [Impact](Game/Core/Injury#Impact) | [Reach](Game/Core/Movement#Reach) | 2                                  | [One Handed](Game/Core/Weapon-Traits#One%20Handed), [Strength](Game/Core/Weapon-Traits#Strength), [Striking](Game/Core/Weapon-Traits#Striking), [Stunning](Game/Core/Weapon-Traits#Stunning) |
+| Default [Damage](Core/Weapons#Calculating%20Damage) | 1(-2 + [Strength](Game/Core/Strength)) |
+| :--- | :--- |
+| [Damage Bonus](Game/Core/Weapons#Damage%20Bonus) | 4 + [Strength](Game/Core/Strength) |
+| [Damage Type](Core/Weapons#Damage%20Type) | [Impact](Game/Core/Injury#Impact) |
+| [Range](Core/Weapons#Range) | [Reach](Game/Core/Movement#Reach) |
+| [Threat](Core/Weapons#Threat) | 2 |
+| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Weapon-Traits#One%20Handed), [Strength](Game/Core/Weapon-Traits#Strength), [Striking](Game/Core/Weapon-Traits#Striking), [Advanced](Game/Core/Weapon-Traits#Advanced), [Stunning](Game/Core/Weapon-Traits#Stunning) |

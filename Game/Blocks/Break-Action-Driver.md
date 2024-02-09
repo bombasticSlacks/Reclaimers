@@ -16,6 +16,6 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | [Piercing](Game/Core/Injury#Piercing) |
 | [Range](Core/Weapons#Range) | [Close](Game/Core/Movement#Close) |
 | [Threat](Core/Weapons#Threat) | 3 |
-| [Weapon Traits](Core/Weapon-Traits) | [Two Handed](Game/Core/Weapon-Traits#Two%20Handed), [Capacity](Game/Core/Weapon-Traits#Capacity(X,%20Type))(1, [Shells](Game/Munition-Details#Shells)), [Loading](Game/Core/Weapon-Traits#Loading(X))(0), [Shotgun](Game/Core/Weapon-Traits#Shotgun), [Launcher](Game/Core/Weapon-Traits#Launcher), [Targeted](Game/Core/Weapon-Traits#Targeted) |
+| [Weapon Traits](Core/Weapon-Traits) | [Two Handed](Game/Core/Weapon-Traits#Two%20Handed), [Capacity](Game/Core/Weapon-Traits#Capacity(X,%20Type))(1, [Shells](Game/Munition-Details#Shells)), [Loading](Game/Core/Weapon-Traits#Loading(X))(0), [Shotgun](Game/Core/Weapon-Traits#Shotgun), [Launcher](Game/Core/Weapon-Traits#Launcher), [Advanced](Game/Core/Weapon-Traits#Advanced), [Targeted](Game/Core/Weapon-Traits#Targeted) |
 
 * You can also bring [Munition Capacity](Additional-Attributes#Munition%20Capacity) worth of [Specialty Ammo](Munition-Details#Specialty%20Ammo).

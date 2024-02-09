@@ -11,10 +11,13 @@
 #### Hardsuit
 *A fully enclosed hard suit protecting you from chemicals, lack of environment and pressure damage. It is designed to seal automatically on detecting a loss in pressure.*
 
-Integrity: 3
+| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 3 |
+| :---- | :---- |
+| [Armour-Traits](Game/Core/Armour-Traits) | [Sealed](Game/Core/Armour-Traits#Sealed) |
 
-| [Locations](Game/Core/Armour#Locations) | [Skill Penalty](Game/Core/Armour#Skill%20Penalty) | [Weakness](Game/Core/Armour#Weakness%20and%20Resistance) | [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) | [Armour-Traits](Game/Core/Armour-Traits)    |
-| ------------------------------------------ | ---------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------- | --- |
-| [Ancillary](Game/Core/Injury#Ancillary) | (0)                                                | [Rending](Game/Core/Injury#Rending)                                                            | [Heat](Game/Core/Injury#Heat), [Cold](Game/Core/Injury#Cold)                                                              | [Sealed](Game/Core/Armour-Traits#Sealed)    |
-| [Vitals](Game/Core/Injury#Vitals)       | (-1)                                                     | [Rending](Game/Core/Injury#Rending)                                                            | [Heat](Game/Core/Injury#Heat), [Cold](Game/Core/Injury#Cold)                                                              | [Sealed](Game/Core/Armour-Traits#Sealed)    |
+|  | [Ancillary](Game/Core/Injury#Ancillary) | [Vitals](Game/Core/Injury#Vitals) |
+| ---- | ---- | ---- |
+| [Skill Penalty](Game/Core/Armour#Skill%20Penalty) | (0) | (-1) |
+| [Weakness](Game/Core/Armour#Weakness%20and%20Resistance) | [Rending](Game/Core/Injury#Rending) | [Rending](Game/Core/Injury#Rending) |
+| [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) | [Heat](Game/Core/Injury#Heat), [Cold](Game/Core/Injury#Cold) | [Heat](Game/Core/Injury#Heat), [Cold](Game/Core/Injury#Cold) |
 

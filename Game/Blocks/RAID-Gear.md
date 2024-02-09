@@ -10,9 +10,13 @@
 #### RAID Gear
 *A tactical choice for detectives going into zones of civil unrest. This armour is a combination of SWAT style riot suppressing armour with a professional long coat and a gas mask designed to protect against airborne problems.*
 
-Integrity: 4
+| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 4 |
+| :---- | :---- |
+| [Armour-Traits](Game/Core/Armour-Traits) | [Filtered](Game/Core/Armour-Traits#Filtered) |
 
-| [Locations](Game/Core/Armour#Locations) | [Skill Penalty](Game/Core/Armour#Skill%20Penalty) | [Weakness](Game/Core/Armour#Weakness%20and%20Resistance) | [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) | [Armour-Traits](Game/Core/Armour-Traits)    |
-| ------------------------------------------ | ---------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------- | --- |
-| [Ancillary](Game/Core/Injury#Ancillary) | (0)                                                | [Cold](Game/Core/Injury#Cold)                                                            | [Rending](Game/Core/Injury#Rending), [Impact](Game/Core/Injury#Impact)                                                              |     |
-| [Vitals](Game/Core/Injury#Vitals)       | (0)                                                     | [Cold](Game/Core/Injury#Cold)                                                            | [Rending](Game/Core/Injury#Rending), [Impact](Game/Core/Injury#Impact)                                                              | [Filtered](Game/Core/Armour-Traits#Filtered)    |
+|  | [Ancillary](Game/Core/Injury#Ancillary) | [Vitals](Game/Core/Injury#Vitals) |
+| ---- | ---- | ---- |
+| [Skill Penalty](Game/Core/Armour#Skill%20Penalty) | (0) | (0) |
+| [Weakness](Game/Core/Armour#Weakness%20and%20Resistance) | [Cold](Game/Core/Injury#Cold) | [Cold](Game/Core/Injury#Cold) |
+| [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) | [Rending](Game/Core/Injury#Rending), [Impact](Game/Core/Injury#Impact) | [Rending](Game/Core/Injury#Rending), [Impact](Game/Core/Injury#Impact) |
+
