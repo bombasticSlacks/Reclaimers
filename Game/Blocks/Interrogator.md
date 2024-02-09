@@ -7,7 +7,7 @@
 
 [Specialization](Game/Progress#Specialization)
 {: .label .label-green }
-#### Interrogator
+### Interrogator
 *You've gotten additional training to use specialized methods to get the information you need from people.*
 * If you are the tagged archetype, you get +1 [Sway](Additional-Attributes#Sway).
 * You have access to the following [Equipment](Core/Equipment):

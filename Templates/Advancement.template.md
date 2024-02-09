@@ -7,7 +7,7 @@ ARCH
 
 [Training](Game/Progress#Training) OR [Cybernetic](Game/Progress#Cybernetic) OR [Modification](Game/Progress#Modification) OR [Team](Game/Progress#Team) OR [Specialization](Game/Progress#Specialization)
 {: .label .label-green }
-#### Name
+### Name
 *Description*
 * Rules
 

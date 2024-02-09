@@ -7,7 +7,7 @@
 
 [Training](Game/Progress#Training)
 {: .label .label-green }
-#### Clothesline
+### Clothesline
 *Someone running at you has never been a problem.*
 * If an [Opponent](Game/Core/Terminology#Opponent) moves within [Reach](Game/Core/Movement#Reach) of you, you may spend a [Reaction](Game/Core/Reacting#Reaction) to make a [Strike](Game/Core/Strength#Strike) [Opposed Difficulty](Game/Core/Skills#Opposed%20Difficulty)(Strike + 2), that if successful, ends their turn and makes them [Prone](Game/Core/Effects#Prone).
 
