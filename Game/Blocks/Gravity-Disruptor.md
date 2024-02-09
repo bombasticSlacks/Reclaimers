@@ -2,14 +2,14 @@
 [Weapons](Game/Core/Weapons)
 {: .label .label-purple }
 
-[Standard Equipment](Game/Standard-Equipment)
+[Detective](Game/Detective)
 {: .label .label-blue }
 
-[Requisition 0](Game/Deployment#Requisition)
+[Requisition 1](Game/Deployment#Requisition)
 {: .label .label-yellow }
-#### Handgun
-*A reliable sidearm for military and non-military personnel. Reclaimers usually prefer either rapid firing semi-automatic pistols, or higher calibre slower fire rate revolvers, though either provides similar overall damage potential.*
+#### Gravity Disruptor
+*An advanced weapon taking the form of a glove. When used, it increases the force of gravity on a living creature, causing it immense pain and perhaps killing it. Unique for its ability to ignore a target's armour.*
 
 | [Damage Bonus](Game/Core/Weapons#Damage%20Bonus) | Default [Damage](Game/Core/Weapons#Calculating%20Damage) | [Damage Type](Game/Core/Weapons#Damage%20Type) | [Range](Game/Core/Weapons#Range) | [Threat](Game/Core/Weapons#Threat) | [Weapon Traits](Game/Core/Weapon-Traits)                                                                                                                                                                                         |
 | ------------------------------------------------ | -------------------------------------------------------- | ---------------------------------------------- | -------------------------------- | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 7                                                | 2(-4)                                                    | [Piercing](Game/Core/Injury#Piercing)          | [Short](Game/Core/Movement#Short)                                 | 1                                   | [One Handed](Game/Core/Weapon-Traits#One%20Handed),[Capacity](Game/Core/Weapon-Traits#Capacity(X,%20Type))(5, [Small Bullets](Game/Munition-Details#Small%20Bullets)), [Loading](Game/Core/Weapon-Traits#Loading(X))(1), [Targeted](Game/Core/Weapon-Traits#Targeted) |
+| 9                                                | 2(-2)                                                    | [Impact](Game/Core/Injury#Impact), [Life](Game/Core/Injury#Life)                                               | [Close](Game/Core/Movement#Close)                                 | 1                                   | [One Handed](Game/Core/Weapon-Traits#One%20Handed), [Penetrating](Game/Core/Weapon-Traits#Penetrating), [Mind Over Matter](Game/Core/Weapon-Traits#Mind%20Over%20Matter), [Multiple Damage Types](Game/Core/Weapon-Traits#Multiple%20Damage%20Types) |

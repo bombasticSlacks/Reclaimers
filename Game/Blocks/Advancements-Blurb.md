@@ -1,0 +1,1 @@
+Training the Reclaimer can take as they [Progress](Game/Progress) their career. Remember, you can always take advancements from the [Standard-Advancements](Game/Standard-Advancements) as well.
