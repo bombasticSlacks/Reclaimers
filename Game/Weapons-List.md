@@ -27,3 +27,5 @@ nav_order: 0
 ![OE-Laser-Rifle](Game/Blocks/OE-Laser-Rifle)
 ![Polymer-Weapon](Game/Blocks/Polymer-Weapon)
 ![Vibro-CQW](Game/Blocks/Vibro-CQW)
+![Gravity-Disruptor](Game/Blocks/Gravity-Disruptor)
+![Stun-Baton](Game/Blocks/Stun-Baton)

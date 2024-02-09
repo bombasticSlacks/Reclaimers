@@ -7,7 +7,7 @@ grand_parent: How To Play
 nav_order: 0
 ---
 # Military
-Military reclaimers specialize in using force to solve problems. Provided the best of the best when it comes to weapons and armour. 
+Military reclaimers specialize in using force to solve problems. 
 {: .no_toc }
 
 <details open markdown="block">
@@ -22,9 +22,9 @@ Military reclaimers specialize in using force to solve problems. Provided the be
 
 ## Attributes
 
-| Stat (Augmented Stat)          | Skill     | Starting Ranks (Mark 7 Additional) |
+| Stat          | Skill     | Starting Ranks (Mark 7 Additional) |
 | ------------- | --------- | -------------- |
-| [Strength](Core/Strength) (+1)      | [Athletics](Core/Strength#Athletics) | (+1)               |
+| [Strength](Core/Strength)      | [Athletics](Core/Strength#Athletics) | (+1)               |
 |               | [Endurance](Core/Strength#Endurance)          | (+1)               |
 |               | [Strike](Core/Strength#Strike)          | (+1)               |
 | [Agility](Core/Agility)       | [Accuracy](Core/Agility#Accuracy)          | (+1)               |
@@ -41,7 +41,7 @@ Military reclaimers specialize in using force to solve problems. Provided the be
 |               | [Will](Core/Spirit#Will)          |                |
 
 ## Equipment
-Equipment readily available to you when you deploy to the field. Remember, you can always select gear from the [Standard-Equipment](Standard-Equipment) list.
+![Equipment-Blurb](Game/Blocks/Equipment-Blurb)
 
 ### Weapons (Select Up To 2)
 ![Gauss-Gun](Game/Blocks/Gauss-Gun)
@@ -55,7 +55,8 @@ Equipment readily available to you when you deploy to the field. Remember, you c
 ![IFAK](Game/Blocks/IFAK)
 
 ## Advancements
-Training military Reclaimers can take as they [Progress](Progress) their career. Remember, you can always take advancements from the [Standard-Advancements](Standard-Advancements) as well.
+![Advancements-Blurb](Game/Blocks/Advancements-Blurb)
+
 ![Adrenaline-Nanites](Game/Blocks/Adrenaline-Nanites)
 ![Armoured-Division](Game/Blocks/Armoured-Division)
 ![Assault-Trooper](Game/Blocks/Assault-Trooper)

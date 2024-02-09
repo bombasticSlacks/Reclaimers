@@ -2,7 +2,7 @@
 layout: default
 title: Deployment
 has_children: false
-parent: 
+parent: Telling The Story
 grand_parent: 
 nav_order: 0
 ---

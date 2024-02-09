@@ -26,7 +26,10 @@ Assign your [Attributes](Core/Stats#Attributes) placing one of the two sets of v
 * 4,3,2,2,2
 * 3,3,3,2,2
 
-> So, 4 [Strength](Core/Strength), 3 [Agility](Core/Agility), 2 [Intelligence](Core/Intelligence), 2 [Spirit](Core/Spirit), 2 [Communication](Core/Communication) is a valid set of attributes 
+> So, 4 [Strength](Core/Strength), 3 [Agility](Core/Agility), 2 [Intelligence](Core/Intelligence), 2 [Spirit](Core/Spirit), 2 [Communication](Core/Communication) is a valid set of attributes.
+
+## Roll For Bonus
+#TODO add a table with like 8-12 possibilities for rewards you have to start the game with.
 
 
 

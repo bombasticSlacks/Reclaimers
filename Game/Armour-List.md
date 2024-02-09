@@ -24,3 +24,4 @@ nav_order: 0
 ![Plate-Carrier](Game/Blocks/Plate-Carrier)
 ![POLY-Maiden](Game/Blocks/POLY-Maiden)
 ![Slash-Mesh](Game/Blocks/Slash-Mesh)
+![RAID-Gear](Game/Blocks/RAID-Gear)
