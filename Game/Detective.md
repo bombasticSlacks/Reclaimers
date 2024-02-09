@@ -41,7 +41,7 @@ Detective reclaimers specialize in using deduction to solve problems.
 |               | [Will](Core/Spirit#Will)          | (+1)               |
 
 ## Equipment
-![Equipment-Blurb](Game/Blocks/Equipment-Blurb)
+Equipment readily available to you when you deploy to the field. Remember, you can always select gear from the [Standard-Equipment](Game/Standard-Equipment) list.
 
 ### Weapons (Select Up To 2)
 ![Gravity-Disruptor](Game/Blocks/Gravity-Disruptor)
@@ -56,7 +56,7 @@ Detective reclaimers specialize in using deduction to solve problems.
 
 
 ## Advancements
-![Advancements-Blurb](Game/Blocks/Advancements-Blurb)
+Training the Reclaimer can take as they [Progress](Game/Progress) their career. Remember, you can always take advancements from the [Standard-Advancements](Game/Standard-Advancements) as well.
 
 ![Authority-Figure](Game/Blocks/Authority-Figure)
 ![Breacher](Game/Blocks/Breacher)

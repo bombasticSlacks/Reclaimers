@@ -18,3 +18,4 @@
 | [Threat](Core/Weapons#Threat) | 1 |
 | [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Weapon-Traits#One%20Handed), [Strength](Game/Core/Weapon-Traits#Strength), [Striking](Game/Core/Weapon-Traits#Striking) |
 * When you go on [Deployment](Game/Deployment) declare what type of damage this weapon does and what it looks like.
+
