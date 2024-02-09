@@ -5,7 +5,7 @@
 [Detective](Game/Detective)
 {: .label .label-blue }
 
-[Requisition 1](Game/Deployment#Requisition)
+[Requisition 2](Game/Deployment#Requisition)
 {: .label .label-yellow }
 #### Riot Suppression Cans
 *Gas grenades designed to break up a room. Without protection, a person can't breathe inside and irritants can cause issues for minutes afterwards.*
