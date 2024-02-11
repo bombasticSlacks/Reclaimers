@@ -30,6 +30,9 @@ Most modern weapons need some form of bullet, fuel or battery. These can be grou
 ### Fuel
 *Energy dense modern fuel compositions ready to be used to power horrible creations.*
 
+### Plasma
+*High energy gas designed to burn / liquify into magnetized blasts of energy.*
+
 ### Unique
 *Some weapons won't have standardized ammo as they are too unique, it will be near impossible to find replacements in the field.*
 

@@ -1,5 +1,5 @@
 
-[Armour](Game/Core/Armour)
+[Armour](Game/Armour-List)
 {: .label .label-purple }
 
 ARCH

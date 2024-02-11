@@ -17,7 +17,7 @@ Terraforming technology does not widely exist, or is prohibitively expensive, so
 In its want for fast expansion humanity did not have proper infrastructure in place to participate in a galactic war, so fighting has been mainly isolated with it taking weeks for messages to be received by the centralized human government and months for reinforcements and supplies to be delivered.
 
 ## Reclamation
-You are a member of a reclamation squad. “Reclaimers” are highly trained individuals with valuable skill sets that are sent to threatened colonies to evaluate the situation and stabilize the colony before military aid arrives. Reclaimers utilize advanced technology called warp pods to reduce the amount of time taken to travel in space to almost 0. These small pods capable of holding a squad of people, 1 week worth of rations, survival equipment and personal gear are sent through wormholes. Reclaimers should attempt to provide aid to colonists in any way possible, and if necessary establish an entry point for the military.
+You are a member of a reclamation squad, a [Reclaimer](Game/Terms-And-Jargon#Reclaimers).
 
 ## The Rules Of The Reclaimers
 1.  No Reclaimer left behind: Unless it is an emergency, Reclaimers should always travel in at least pairs. Staying together saves lives.

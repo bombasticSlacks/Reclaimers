@@ -1,5 +1,5 @@
 
-[Weapons](Game/Core/Weapons)
+[Weapons](Game/Weapons-List)
 {: .label .label-purple }
 
 [Standard Equipment](Game/Standard-Equipment)
