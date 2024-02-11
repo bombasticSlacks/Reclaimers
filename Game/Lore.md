@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lore
-has_children: false
+has_children: true
 parent: Telling The Story
 grand_parent: 
 nav_order: 0

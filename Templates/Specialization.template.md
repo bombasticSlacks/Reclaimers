@@ -7,7 +7,7 @@ ARCH
 
 [Specialization](Game/Progress#Specialization)
 {: .label .label-green }
-#### NAME
+### NAME
 *desc*
 * If you are the tagged archetype, you get +1 [Sway](Additional-Attributes#Sway).
 * You have access to the following [Equipment](Core/Equipment):
