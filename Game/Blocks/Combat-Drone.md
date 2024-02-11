@@ -10,6 +10,8 @@
 #### Combat Drone
 *A small flying disk with attached cameras and propulsion. The camera of a drone and its status syncs with your [Heads-Up-Display](Game/Blocks/Heads-Up-Display) and can be controlled with your mind. This drone has a firearm attached, which can be used to wreak havoc autonomously.*
 
+You have the [Follower](Game/Core/Terminology#Follower) that doesn't count towards your limit:
+
 | Initiative | Move | Threat | Integrity | Weakness | Resistance |
 | ---------- | ---- | ------ | --------- | -------- | ---------- |
 | -          | [Close](Game/Core/Movement#Close)     | 0       | 3          | [Cold](Game/Core/Injury#Cold)         | [Rending](Game/Core/Injury#Rending)           |

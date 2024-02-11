@@ -45,6 +45,7 @@ Training the Reclaimer can take as they [Progress](Game/Progress) their career. 
 ![Ablative-Armour](Game/Blocks/Ablative-Armour)
 ![Blackout-Protocol](Game/Blocks/Blackout-Protocol)
 ![Drone-Controller](Game/Blocks/Drone-Controller)
+![Fight-Smart](Game/Blocks/Fight-Smart)
 ![Grounding](Game/Blocks/Grounding)
 ![Hardlight-Architect](Game/Blocks/Hardlight-Architect)
 ![Hauler](Game/Blocks/Hauler)
