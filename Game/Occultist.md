@@ -29,6 +29,7 @@ Equipment readily available to you when you deploy to the field. Remember, you c
 ### Weapons (Select Up To 2)
 ![Kinetic-Amplifier](Game/Blocks/Kinetic-Amplifier)
 ![Entropy-Amplifier](Game/Blocks/Entropy-Amplifier)
+![Proton-Thrower](Game/Blocks/Proton-Thrower)
 
 
 ### Armour (Select 1)
@@ -38,10 +39,11 @@ Equipment readily available to you when you deploy to the field. Remember, you c
 ![Spectrometer](Game/Blocks/Spectrometer)
 ![Neuro-Suit](Game/Blocks/Neuro-Suit)
 ![Ritualism-Kit](Game/Blocks/Ritualism-Kit)
-
+![Mind-Shield](Game/Blocks/Mind-Shield)
 
 
 ## Advancements
 Training the Reclaimer can take as they [Progress](Game/Progress) their career. Remember, you can always take advancements from the [Standard-Advancements](Game/Standard-Advancements) as well.
+![Sealed-Memories](Game/Blocks/Sealed-Memories)
 
 
