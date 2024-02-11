@@ -1,5 +1,5 @@
 
-[Comestibles](Game/Core/Comestibles)
+[Gear](Game/Gear-List)
 {: .label .label-purple }
 
 [Military](Game/Military)

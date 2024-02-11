@@ -1,5 +1,5 @@
 
-[Gear](Game/Core/Gear)
+[Gear](Game/Gear-List)
 {: .label .label-purple }
 
 [Standard Equipment](Game/Standard-Equipment)

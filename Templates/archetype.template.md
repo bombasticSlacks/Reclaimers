@@ -1,6 +1,6 @@
 # NAME
-DESCRIPTION
 {: .no_toc }
+DESCRIPTION
 
 <details open markdown="block">
   <summary>
@@ -11,26 +11,9 @@ DESCRIPTION
 {:toc}
 </details>
 
+## Skills
 
-## Attributes
-
-| Stat                                | Skill                                        | Starting Ranks (Mark 7 Additional) |
-| ----------------------------------- | -------------------------------------------- | ---------------------------------- |
-| [Strength](Core/Strength)           | [Athletics](Core/Strength#Athletics)         |                                    |
-|                                     | [Endurance](Core/Strength#Endurance)         |                                    |
-|                                     | [Strike](Core/Strength#Strike)               |                                    |
-| [Agility](Core/Agility)             | [Accuracy](Core/Agility#Accuracy)            |                                    |
-|                                     | [Grace](Core/Agility#Grace)                  |                                    |
-|                                     | [Reflexes](Core/Agility#Reflexes)            |                                    |
-| [Intelligence](Core/Intelligence)   | [Application](Core/Intelligence#Application) |                                    |
-|                                     | [Insight](Core/Intelligence#Insight)         |                                    |
-|                                     | [Memory](Core/Intelligence#Memory)           |                                    |
-| [Communication](Core/Communication) | [Confidence](Core/Communication#Confidence)  |                                    |
-|                                     | [Connection](Core/Communication#Connection)  |                                    |
-|                                     | [Mannerism](Core/Communication#Mannerism)    |                                    |
-| [Spirit](Core/Spirit)               | [Attunement](Core/Spirit#Attunement)         |                                    |
-|                                     | [Identity](Core/Spirit#Identity)             |                                    |
-|                                     | [Will](Core/Spirit#Will)                     |                                    |
+You begin with a rank in STUFF and 7 additional skill ranks of your choice.
 
 ## Equipment
 Equipment readily available to you when you deploy to the field. Remember, you can always select gear from the [Standard-Equipment](Game/Standard-Equipment) list.

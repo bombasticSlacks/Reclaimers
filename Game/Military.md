@@ -9,7 +9,7 @@ nav_order: 0
 # Military
 {: .no_toc }
 
-Military reclaimers specialize in using force to solve problems. 
+Military Reclaimers specialize in using force to solve problems. 
 
 
 <details open markdown="block">

@@ -29,7 +29,7 @@ All Reclaimers have access to a suite of basic equipment that provides them the 
 ## Armour (Select 1)
 ![Plate-Carrier](Game/Blocks/Plate-Carrier)
 ![Slash-Mesh](Game/Blocks/Slash-Mesh)
-![Hardsuit](Game/Blocks/Hardsuit)
+![Spacesuit](Game/Blocks/Spacesuit)
 
 ## Gear (Select Any Number)
 ![Clothing](Game/Blocks/Clothing)
