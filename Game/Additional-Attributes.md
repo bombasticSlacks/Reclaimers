@@ -15,7 +15,7 @@ A way to track how many supplies you can carry on you.
 Munition Capacity is equal to the better of [Intelligence](Game/Core/Intelligence) or [Strength](Core/Strength) by default.
 
 ## Boiling Point
-A stat tracking how much horror you can handle before issues begin to arise. Being put in terrible situations or seeing deaths will push you towards your boiling point.
+A stat tracking how much [Stress](Game/Stress) you can handle before issues begin to arise. Being put in terrible situations or seeing deaths will push you towards your boiling point.
 
 Boiling Point is equal to [Spirit](Core/Spirit).
 
