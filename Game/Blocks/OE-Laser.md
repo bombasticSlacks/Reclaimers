@@ -2,12 +2,12 @@
 [Weapons](Game/Weapons-List)
 {: .label .label-purple }
 
-[Military](Game/Military)
+[Mechanized-Division](Game/Blocks/Mechanized-Division)
 {: .label .label-blue }
 
 [Requisition 2](Game/Deployment#Requisition)
 {: .label .label-yellow }
-#### OE Laser Rifle
+#### OE Laser
 *A devastating weapon used to destroy armoured vehicles while liquifying the passengers. Releases devastating blasts of pure energy that disintegrates victims and can cause fires. It should not be fired in small rooms.*
 
 | Default [Damage](Core/Weapons#Calculating%20Damage) | 3(-3) |

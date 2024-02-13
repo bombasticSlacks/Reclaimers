@@ -2,7 +2,7 @@
 [Armour](Game/Armour-List)
 {: .label .label-purple }
 
-[Engineer](Game/Engineer)
+[Armourer](Game/Blocks/Armourer)
 {: .label .label-blue }
 
 [Requisition 2](Game/Deployment#Requisition)

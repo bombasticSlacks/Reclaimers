@@ -7,8 +7,8 @@
 
 [Specialization](Game/Progress#Specialization)
 {: .label .label-green }
-### Interrogator
-*You've gotten additional training to use specialized methods to get the information you need from people.*
+### Riot Squad
+*You've trained extensively for managing crowds and dealing with civil unrest.*
 * You have access to the following [Equipment](Core/Equipment):
-![Excruciator-Kit](Game/Blocks/Excruciator-Kit)
-![Gravity-Disruptor](Game/Blocks/Gravity-Disruptor)
+![Riot-Suppression-Cans](Game/Blocks/Riot-Suppression-Cans)
+![Riot-Shield](Game/Blocks/Riot-Shield)

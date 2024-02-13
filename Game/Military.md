@@ -28,14 +28,21 @@ You begin with a rank in [Athletics](Game/Core/Strength#Athletics), [Endurance](
 ## Equipment
 Equipment readily available to you when you deploy to the field. Remember, you can always select gear from the [Standard-Equipment](Game/Standard-Equipment) list.
 
-### Weapons (Select Up To 2)
+## Specialization
+Even a basic Reclaimer has some specialization in their background and additional training. Select a specialization to start with providing additional gear.
+![Assault-Division](Game/Blocks/Assault-Division)
+![Extermination-Division](Game/Blocks/Extermination-Division)
+![Mechanized-Division](Game/Blocks/Mechanized-Division)
+
+### Weapons
+[Deploy](Game/Deployment) With Up To 2
 ![Gauss-Gun](Game/Blocks/Gauss-Gun)
-![OE-Laser-Rifle](Game/Blocks/OE-Laser-Rifle)
 ![Vibro-CQW](Game/Blocks/Vibro-CQW)
-### Armour (Select 1)
+### Armour
+[Deploy](Game/Deployment) With Up To 1
 ![Combat-Armour](Game/Blocks/Combat-Armour)
-![EXO-Frame](Game/Blocks/EXO-Frame)
-### Gear (Select Any Number)
+### Gear
+[Deploy](Game/Deployment) With Any Number
 ![Flash-Grenades](Game/Blocks/Flash-Grenades)
 ![IFAK](Game/Blocks/IFAK)
 
@@ -44,9 +51,7 @@ Training the Reclaimer can take as they [Progress](Game/Progress) their career. 
 
 ![Adrenaline-Nanites](Game/Blocks/Adrenaline-Nanites)
 ![Armoured-Division](Game/Blocks/Armoured-Division)
-![Assault-Trooper](Game/Blocks/Assault-Trooper)
 ![Backpack-Ammo-Supply](Game/Blocks/Backpack-Ammo-Supply)
-![Death-Squad-Soldier](Game/Blocks/Death-Squad-Soldier)
 ![GunCam-HUD](Game/Blocks/GunCam-HUD)
 ![Marksman](Game/Blocks/Marksman)
 ![Mega-Muscle-Implants](Game/Blocks/Mega-Muscle-Implants)

@@ -12,11 +12,11 @@
 
 | [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 3 |
 | :---- | :---- |
-| [Armour-Traits](Game/Core/Armour-Traits) | [Unprotected](Game/Core/Armour-Traits#Unprotected) |
+| [Armour-Traits](Game/Core/Armour-Traits) | - |
 
 |                                                            | [Ancillary](Game/Core/Injury#Ancillary) | [Vitals](Game/Core/Injury#Vitals) |
 | ---------------------------------------------------------- | --------------------------------------- | --------------------------------- |
-| [Skill Penalty](Game/Core/Armour#Skill%20Penalty)          | (0)                                     | (0)                               |
-| [Weakness](Game/Core/Armour#Weakness%20and%20Resistance)   | -                                     | -                                  |
+| [Skill Penalty](Game/Core/Armour#Skill%20Penalty)          | (0)                                     | (-1)                               |
+| [Weakness](Game/Core/Armour#Weakness%20and%20Resistance)   | -                                     | [Impact](Game/Core/Injury#Impact)                                  |
 | [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) | -                                       | [Piercing](Game/Core/Injury#Piercing)                                  |
 
