@@ -23,15 +23,24 @@ Engineers use tools, and repairing to solve problems.
 
 You begin with a rank in [Application](Game/Core/Intelligence#Application), [Memory](Game/Core/Intelligence#Memory), [Accuracy](Game/Core/Agility#Accuracy), [Athletics](Game/Core/Strength#Athletics) and 7 additional skill ranks of your choice.
 
+## Specialization
+Even a basic Reclaimer has some specialization in their background and additional training. Select a specialization to start with providing additional gear.
+![Armourer](Game/Blocks/Armourer)
+![Drone-Controller](Game/Blocks/Drone-Controller)
+![Hardlight-Architect](Game/Blocks/Hardlight-Architect)
+
 ## Equipment
 Equipment readily available to you when you deploy to the field. Remember, you can always select gear from the [Standard-Equipment](Game/Standard-Equipment) list.
 
-### Weapons (Select Up To 2)
+### Weapons
+Deploy With Up To 2
 ![Plasma-Torch](Game/Blocks/Plasma-Torch)
-### Armour (Select 1)
+### Armour
+[Deploy](Game/Deployment) With Up To 1
 ![Hardsuit](Game/Blocks/Hardsuit)
 ![Safety-Frame](Game/Blocks/Safety-Frame)
-### Gear (Select Any Number)
+### Gear
+[Deploy](Game/Deployment) With Any Number
 ![Diagnosticator](Game/Blocks/Diagnosticator)
 ![Tinkering-Kit](Game/Blocks/Tinkering-Kit)
 ![Patching-Kit](Game/Blocks/Patching-Kit)
@@ -44,10 +53,8 @@ Training the Reclaimer can take as they [Progress](Game/Progress) their career. 
 
 ![Ablative-Armour](Game/Blocks/Ablative-Armour)
 ![Blackout-Protocol](Game/Blocks/Blackout-Protocol)
-![Drone-Controller](Game/Blocks/Drone-Controller)
 ![Fight-Smart](Game/Blocks/Fight-Smart)
 ![Grounding](Game/Blocks/Grounding)
-![Hardlight-Architect](Game/Blocks/Hardlight-Architect)
 ![Hauler](Game/Blocks/Hauler)
 ![Overclocking](Game/Blocks/Overclocking)
 ![System-Integration](Game/Blocks/System-Integration)

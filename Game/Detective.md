@@ -25,15 +25,23 @@ Detective reclaimers specialize in using deduction to solve problems.
 ## Skills
 You begin with a rank in [Insight](Game/Core/Intelligence#Insight), [Connection](Game/Core/Communication#Connection), [Identity](Game/Core/Spirit#Identity), [Will](Game/Core/Spirit#Will), and 7 additional skill ranks of your choice.
 
+## Specialization
+Even a basic Reclaimer has some specialization in their background and additional training. Select a specialization to start with providing additional gear.
+![Breacher](Game/Blocks/Breacher)
+![Interrogator](Game/Blocks/Interrogator)
+![Riot-Squad](Game/Blocks/Riot-Squad)
+
 ## Equipment
 Equipment readily available to you when you deploy to the field. Remember, you can always select gear from the [Standard-Equipment](Game/Standard-Equipment) list.
 
-### Weapons (Select Up To 2)
-![Gravity-Disruptor](Game/Blocks/Gravity-Disruptor)
+### Weapons
+[Deploy](Game/Deployment) With Up To 2
 ![Stun-Baton](Game/Blocks/Stun-Baton)
-### Armour (Select 1)
+### Armour
+[Deploy](Game/Deployment) With Up To 1
 ![RAID-Gear](Game/Blocks/RAID-Gear)
-### Gear (Select Any Number)
+### Gear
+[Deploy](Game/Deployment) With Any Number
 ![Bodycam](Game/Blocks/Bodycam)
 ![Forensics-Kit](Game/Blocks/Forensics-Kit)
 ![Manacles](Game/Blocks/Manacles)
@@ -44,9 +52,7 @@ Equipment readily available to you when you deploy to the field. Remember, you c
 Training the Reclaimer can take as they [Progress](Game/Progress) their career. Remember, you can always take advancements from the [Standard-Advancements](Game/Standard-Advancements) as well.
 
 ![Authority-Figure](Game/Blocks/Authority-Figure)
-![Breacher](Game/Blocks/Breacher)
 ![Clothesline](Game/Blocks/Clothesline)
-![Interrogator](Game/Blocks/Interrogator)
 ![Lockout-Encoding](Game/Blocks/Lockout-Encoding)
 ![Missing-Clue](Game/Blocks/Missing-Clue)
 ![Perp-Control](Game/Blocks/Perp-Control)

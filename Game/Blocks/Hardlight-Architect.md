@@ -9,7 +9,6 @@
 {: .label .label-green }
 ### Hardlight Architect
 *Typically, an engineer with specialized training, the hardlight architect is equipped with the experimental hardlight constructor, allowing them to build simple objects quickly during combat, or given more time, more elaborate structures. They excel at controlling the battlefield for their allies.*
-* If you are the tagged archetype, you get +1 [Sway](Additional-Attributes#Sway).
 * You have access to the following [Equipment](Core/Equipment):
 ![Hardlight-Constructor](Game/Blocks/Hardlight-Constructor)
 ![Hardlight-Frame](Game/Blocks/Hardlight-Frame)

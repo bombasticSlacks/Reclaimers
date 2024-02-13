@@ -2,7 +2,7 @@
 [Armour](Game/Armour-List)
 {: .label .label-purple }
 
-[Assault-Trooper](Game/Blocks/Assault-Trooper)
+[Assault-Division](Game/Blocks/Assault-Division)
 {: .label .label-blue }
 
 [Requisition 3](Game/Deployment#Requisition)

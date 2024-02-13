@@ -2,7 +2,7 @@
 [Weapons](Game/Weapons-List)
 {: .label .label-purple }
 
-[Death Squad Soldier](Game/Blocks/Death-Squad-Soldier)
+[Extermination-Division](Game/Blocks/Extermination-Division)
 {: .label .label-blue }
 
 [Requisition 2](Game/Deployment#Requisition)

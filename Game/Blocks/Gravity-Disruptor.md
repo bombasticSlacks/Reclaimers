@@ -2,7 +2,7 @@
 [Weapons](Game/Weapons-List)
 {: .label .label-purple }
 
-[Detective](Game/Detective)
+[Interrogator](Game/Blocks/Interrogator)
 {: .label .label-blue }
 
 [Requisition 2](Game/Deployment#Requisition)

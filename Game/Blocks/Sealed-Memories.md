@@ -1,5 +1,6 @@
 
 [Basic](Game/Progress#Basic)
+{: .label .label-purple }
 
 [Occultist](Game/Occultist)
 {: .label .label-blue }

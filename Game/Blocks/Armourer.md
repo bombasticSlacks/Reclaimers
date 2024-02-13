@@ -7,8 +7,9 @@
 
 [Specialization](Game/Progress#Specialization)
 {: .label .label-green }
-### Drone Controller
-*You are cleared to manage autonomous drones and have all the cybernetics required to manage them naturally.*
+### Armourer
+*You've sewed and patched your fair share of armoured plates in the field. You've even customized your own suit for hot zones.*
 * You have access to the following [Equipment](Core/Equipment):
-![Combat-Drone](Game/Blocks/Combat-Drone)
-![Control-Drone](Game/Blocks/Control-Drone)
+![Patching-Kit](Game/Blocks/Patching-Kit)
+![Safety-Frame](Game/Blocks/Safety-Frame)
+

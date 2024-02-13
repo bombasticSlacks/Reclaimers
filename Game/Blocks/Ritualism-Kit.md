@@ -2,7 +2,7 @@
 [Gear](Game/Gear-List)
 {: .label .label-purple }
 
-[Occultist](Game/Occultist)
+[Exorcist](Game/Blocks/Exorcist)
 {: .label .label-blue }
 
 [Requisition 1](Game/Deployment#Requisition)

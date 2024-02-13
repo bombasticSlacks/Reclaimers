@@ -2,7 +2,7 @@
 [Armour](Game/Armour-List)
 {: .label .label-purple }
 
-[Military](Game/Military)
+[Mechanized-Division](Game/Blocks/Mechanized-Division)
 {: .label .label-blue }
 
 [Requisition 2](Game/Deployment#Requisition)
