@@ -23,13 +23,6 @@ Paramedic Reclaimers specialize in managing injury and illness.
 ## Skills
 You begin with a rank in [Strike](Game/Core/Strength#Strike), [Application](Game/Core/Intelligence#Application), [Connection](Game/Core/Communication#Connection), [Insight](Game/Core/Intelligence#Insight) and 7 additional skill ranks of your choice.
 
-## Specialization
-Even a basic Reclaimer has some specialization in their background and additional training. Select a specialization to start with providing additional gear.
-![Infection-Expert](Game/Blocks/Infection-Expert)
-![Medical-Technician](Game/Blocks/Medical-Technician)
-![Paladin](Game/Blocks/Paladin)
-
-
 ## Equipment
 Equipment readily available to you when you deploy to the field. Remember, you can always select gear from the [Standard-Equipment](Game/Standard-Equipment) list.
 
@@ -47,6 +40,11 @@ Equipment readily available to you when you deploy to the field. Remember, you c
 ![Portable-Morgue](Game/Blocks/Portable-Morgue)
 ![Painkillers](Game/Blocks/Painkillers)
 
+## Specialization
+Even a basic Reclaimer has some specialization in their background and additional training. Select a specialization to start with providing additional gear.
+![Infection-Expert](Game/Blocks/Infection-Expert)
+![Medical-Technician](Game/Blocks/Medical-Technician)
+![Paladin](Game/Blocks/Paladin)
 
 ## Advancements
 Training the Reclaimer can take as they [Progress](Game/Progress) their career. Remember, you can always take advancements from the [Standard-Advancements](Game/Standard-Advancements) as well.

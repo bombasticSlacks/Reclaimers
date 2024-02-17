@@ -22,7 +22,7 @@ You should have an answer for these things before continuing:
 ## Determine Your Attributes
 *Even before you became a Reclaimer, you were gifted, additional cybernetics and training have further increased that power.*
 
-Assign your [Attributes](Core/Stats#Attributes) placing one of the two sets of values in each of the 5 attributes.
+Assign your [Attributes](Game/Core/Attributes) placing one of the two sets of values in each of the 5 attributes.
 * 4,3,2,2,2
 * 3,3,3,2,2
 

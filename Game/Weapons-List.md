@@ -37,3 +37,5 @@ nav_order: 0
 ![Surgical-Tool](Game/Blocks/Surgical-Tool)
 ![The-Torch](Game/Blocks/The-Torch)
 ![Vibro-CQW](Game/Blocks/Vibro-CQW)
+![Micro-Weapon](Game/Blocks/Micro-Weapon)
+![Scrambler](Game/Blocks/Scrambler)

@@ -55,3 +55,5 @@ nav_order: 0
 ![TAC-Rigging](Game/Blocks/TAC-Rigging)
 ![Tinkering-Kit](Game/Blocks/Tinkering-Kit)
 ![Trauma-Kit](Game/Blocks/Trauma-Kit)
+![Memory-Modifier](Game/Blocks/Memory-Modifier)
+![Censer](Game/Blocks/Censer)
