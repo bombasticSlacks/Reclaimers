@@ -17,6 +17,8 @@ lookFor = f'{tag})' + "\n{: .label"
 with open(file, 'r') as fileBuffer:
     fileContents = fileBuffer.read()
 
+print(fileContents)
+
 # itterate through all blocks but alphabetize
 blocks = os.listdir(dir)
 blocks.sort()
@@ -29,6 +31,7 @@ for block in blocks:
         with open(address, 'r') as f:
             # Wrap our block with some HTML
             contents = f.read()
+        print(contents)
         #if the block has the tag add it to the other file
         if(lookFor in contents):
             fileContents += f'![{name}](/Blocks/{name})\n'
