@@ -9,7 +9,7 @@ nav_order: 0
 # Progress
 {: .no_toc }
 
-After every mission you complete, you will be rewarded with additional training, your progress will look as follows:
+After every mission you complete, you will be rewarded with additional opportunities, your progress will look as follows:
 
 | Missions | Reward             |
 | -------- | ------------------ |
@@ -42,7 +42,7 @@ More meaningful and powerful advancements that will give your characters large i
 ### Types of Advancements
 Advancements come in a number of forms, which describe where your new-found power derives from. These are:
 #### Training
-Your personal training.
+These advancements represent personal improvement, your skills and abilities are directly honed improving you.
 
 #### Cybernetic
 You have had new machinery installed in your body, which you have received training to use to the fullest.
@@ -54,4 +54,5 @@ Your [Equipment](Game/Core/Equipment) has been customized to perform an addition
 You have trained or equipped your team with additional power.
 
 #### Specialization
-You have taken further specialization, providing you with additional gear access as well as abilities.
+You have taken further specialization, providing you with additional gear access.
+

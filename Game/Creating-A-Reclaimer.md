@@ -28,10 +28,6 @@ Assign your [Attributes](Game/Core/Attributes) placing one of the two sets of va
 
 > So, 4 [Strength](Core/Strength), 3 [Agility](Core/Agility), 2 [Intelligence](Core/Intelligence), 2 [Spirit](Core/Spirit), 2 [Communication](Core/Communication) is a valid set of attributes.
 
-## Roll For Bonus
-#TODO add a table with like 8-12 possibilities for rewards you have to start the game with.
-
-
 
 ## Archetype
 Reclaimers, no matter the variety in their backgrounds, always loosely fit into an archetype category. These groups follow specific training regiments and have access to specific sets of [Equipment](Core/Equipment).
@@ -45,6 +41,24 @@ Select one of the following and continue there:
 * [Psychiatrist](Psychiatrist)
 * [Researcher](Researcher)
 * [Spook](Spook)
+
+## Distinguishing Characteristic
+Something about you makes you the best of the best. Roll a 12 sided dice to determine what that is, your character starts with this additional benefit.
+
+| Roll | Name | Bonus |
+| ---- | ---- | ---- |
+| 1 | Honed | +1 [Attribute](Game/Core/Attributes) of your choice |
+| 2 | Strong | +1 [Strength](Game/Core/Strength) |
+| 3 | Agile | +1 [Agility](Game/Core/Agility) |
+| 4 | Intelligent | +1 [Intelligence](Game/Core/Intelligence) |
+| 5 | Spirited | +1 [Spirit](Game/Core/Spirit) |
+| 6 | Communicative | +1 [Communication](Game/Core/Communication) |
+| 7 | Skilled | +3 [Skills](Game/Core/Skills) of your choice |
+| 8 | Augmented | Select a [Basic](Game/Progress#Basic) [Cybernetic](Game/Cybernetic-List) of your choice |
+| 9 | Trained | Select a [Basic](Game/Progress#Basic) [Training](Game/Training-List) of your choice |
+| 10 | Tinkerer | Select a [Basic](Game/Progress#Basic) [Modification](Game/Modification-List) of your choice |
+| 11 | Specialized | Select a [Basic](Game/Progress#Basic) [Specialization](Game/Specialization-List) of your choice |
+| 12 | Mastery | Select an [Expert](Game/Expert-List) advancement of your choice |
 
 ## Equipment
 Your character will not begin play with any [Equipment](Core/Equipment), when you go on [Deployment](Deployment) you will be provided with equipment based on [Archetype](#Archetype) and mission [Severity](Deployment#Severity).
