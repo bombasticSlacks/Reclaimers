@@ -1,5 +1,5 @@
 
-[Basic](Game/Progress#Basic)
+[Basic](Game/Basic-List)
 {: .label .label-purple }
 
 [Standard-Advancements](Game/Standard-Advancements)

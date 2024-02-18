@@ -1,11 +1,11 @@
 
-[Expert](Game/Progress#Expert)
+[Expert](Game/Expert-List)
 {: .label .label-purple }
 
 [Occultist](Game/Occultist)
 {: .label .label-blue }
 
-[Team](Game/Progress#Team)
+[Team](Game/Team-List)
 {: .label .label-green }
 ### Mind Guarding
 *You've trained your team extensively to be resolute in the face of terror, and to be sure of themselves.*

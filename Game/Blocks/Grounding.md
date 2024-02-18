@@ -1,11 +1,11 @@
 
-[Expert](Game/Progress#Expert)
+[Expert](Game/Expert-List)
 {: .label .label-purple }
 
 [Engineer](Game/Engineer)
 {: .label .label-blue }
 
-[Cybernetic](Game/Progress#Cybernetic)
+[Cybernetic](Game/Cybernetic-List)
 {: .label .label-green }
 ### Grounding
 *You have a suite of internal systems designed to protect you in the field, including an internal surge protector and automatically engaging ear and eye protection, keeping you safe in hostile work environments.*

@@ -1,11 +1,11 @@
 
-[Basic](Game/Progress#Basic)
+[Basic](Game/Basic-List)
 {: .label .label-purple }
 
 [Detective](Game/Detective)
 {: .label .label-blue }
 
-[Specialization](Game/Progress#Specialization)
+[Specialization](Game/Specialization-List)
 {: .label .label-green }
 ### Breacher
 *You've trained to use equipment to maximize effectiveness at breaching and clearing rooms and unknown areas.*

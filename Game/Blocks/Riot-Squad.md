@@ -1,11 +1,11 @@
 
-[Basic](Game/Progress#Basic)
+[Basic](Game/Basic-List)
 {: .label .label-purple }
 
 [Detective](Game/Detective)
 {: .label .label-blue }
 
-[Specialization](Game/Progress#Specialization)
+[Specialization](Game/Specialization-List)
 {: .label .label-green }
 ### Riot Squad
 *You've trained extensively for managing crowds and dealing with civil unrest.*

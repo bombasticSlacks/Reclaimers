@@ -1,11 +1,11 @@
 
-[Basic](Game/Progress#Basic)
+[Basic](Game/Basic-List)
 {: .label .label-purple }
 
 [Occultist](Game/Occultist)
 {: .label .label-blue }
 
-[Specialization](Game/Progress#Specialization)
+[Specialization](Game/Specialization-List)
 {: .label .label-green }
 ### Psy Knight
 *You have trained to hone your mind as a physical weapon against your enemies, empowered to destroy those around you with incredible power and force.*

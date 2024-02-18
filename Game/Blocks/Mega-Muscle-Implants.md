@@ -1,11 +1,11 @@
 
-[Basic](Game/Progress#Basic)
+[Basic](Game/Basic-List)
 {: .label .label-purple }
 
 [Military](Game/Military)
 {: .label .label-blue }
 
-[Cybernetic](Game/Progress#Cybernetic)
+[Cybernetic](Game/Cybernetic-List)
 {: .label .label-green }
 ### Mega Muscle Implants
 *Synthetic muscles introduced into critical muscle groups to increase power. A very obvious modification with large patches of synthetic grey muscle and carbon tubing portruding / replacing skin.*

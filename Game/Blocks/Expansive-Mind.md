@@ -1,11 +1,11 @@
 
-[Expert](Game/Progress#Expert)
+[Expert](Game/Expert-List)
 {: .label .label-purple }
 
 [Occultist](Game/Occultist)
 {: .label .label-blue }
 
-[Cybernetic](Game/Progress#Cybernetic)
+[Cybernetic](Game/Cybernetic-List)
 {: .label .label-green }
 ### Expansive Mind
 *With the inclusion of additional cybernetics modifying your neural pathways, your psychic power is almost overwhelming.*

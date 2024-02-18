@@ -1,11 +1,11 @@
 
-[Basic](Game/Progress#Basic)
+[Basic](Game/Basic-List)
 {: .label .label-purple }
 
 [Occultist](Game/Occultist)
 {: .label .label-blue }
 
-[Specialization](Game/Progress#Specialization)
+[Specialization](Game/Specialization-List)
 {: .label .label-green }
 ### Flesh Shaper
 *You have trained to destroy the otherworldly, the wrong and the corrupted. Your tool kit strikes fear in things that cause fear.*

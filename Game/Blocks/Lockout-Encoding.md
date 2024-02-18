@@ -1,11 +1,11 @@
 
-[Expert](Game/Progress#Expert)
+[Expert](Game/Expert-List)
 {: .label .label-purple }
 
 [Detective](Game/Detective)
 {: .label .label-blue }
 
-[Cybernetic](Game/Progress#Cybernetic)
+[Cybernetic](Game/Cybernetic-List)
 {: .label .label-green }
 ### Lockout Encoding
 *Your body has been layered with hundreds of nodes that produce a code that disables standard weaponry when pointed at you.*

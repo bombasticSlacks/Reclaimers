@@ -1,11 +1,11 @@
 
-[Basic](Game/Progress#Basic)
+[Basic](Game/Basic-List)
 {: .label .label-purple }
 
 [Detective](Game/Detective)
 {: .label .label-blue }
 
-[Specialization](Game/Progress#Specialization)
+[Specialization](Game/Specialization-List)
 {: .label .label-green }
 ### Interrogator
 *You've gotten additional training to use specialized methods to get the information you need from people.*

@@ -1,11 +1,11 @@
 
-[Basic](Game/Progress#Basic)
+[Basic](Game/Basic-List)
 {: .label .label-purple }
 
 [Psychiatrist](Game/Psychiatrist)
 {: .label .label-blue }
 
-[Cybernetic](Game/Progress#Cybernetic)
+[Cybernetic](Game/Cybernetic-List)
 {: .label .label-green }
 ### Attractive
 *You are engineered to be attractive, your natural beauty has been heightened and additional hormone production implants further increase your beauty to those around you.*

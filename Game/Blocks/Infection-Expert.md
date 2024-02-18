@@ -1,11 +1,11 @@
 
-[Basic](Game/Progress#Basic)
+[Basic](Game/Basic-List)
 {: .label .label-purple }
 
 [Paramedic](Game/Paramedic)
 {: .label .label-blue }
 
-[Specialization](Game/Progress#Specialization)
+[Specialization](Game/Specialization-List)
 {: .label .label-green }
 ### Infection Expert
 *You've trained to handle the worst of viral and bacterial outbreaks, diagnosing and resolving the issues as they arise.*

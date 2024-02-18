@@ -1,11 +1,11 @@
 
-[Basic](Game/Progress#Basic)
+[Basic](Game/Basic-List)
 {: .label .label-purple }
 
 [Occultist](Game/Occultist)
 {: .label .label-blue }
 
-[Cybernetic](Game/Progress#Cybernetic)
+[Cybernetic](Game/Cybernetic-List)
 {: .label .label-green }
 ### Sealed Memories
 *A portion of your brain associated with storing memories has been warded against unwelcome thoughts. This means you have a large collection of knowledge of the unknown that you can call upon only when the mission demands it.*

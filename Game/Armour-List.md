@@ -18,13 +18,3 @@ nav_order: 0
 {:toc}
 </details>
 
-![Combat-Armour](Game/Blocks/Combat-Armour)
-![EXO-Frame](Game/Blocks/EXO-Frame)
-![Hardsuit](Game/Blocks/Hardsuit)
-![Hardsuit](Game/Blocks/Hardsuit)
-![Plate-Carrier](Game/Blocks/Plate-Carrier)
-![POLY-Maiden](Game/Blocks/POLY-Maiden)
-![RAID-Gear](Game/Blocks/RAID-Gear)
-![Safety-Frame](Game/Blocks/Safety-Frame)
-![Slash-Mesh](Game/Blocks/Slash-Mesh)
-![Force-Field](Game/Blocks/Force-Field)

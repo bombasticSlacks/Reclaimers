@@ -1,11 +1,11 @@
 
-[Expert](Game/Progress#Expert)
+[Expert](Game/Expert-List)
 {: .label .label-purple }
 
 [Detective](Game/Detective)
 {: .label .label-blue }
 
-[Team](Game/Progress#Team)
+[Team](Game/Team-List)
 {: .label .label-green }
 ### Takedown Drills
 *You've trained your team to be experts in bringing down even the most hardy targets.*

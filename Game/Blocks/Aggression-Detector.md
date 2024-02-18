@@ -1,11 +1,11 @@
 
-[Basic](Game/Progress#Basic)
+[Basic](Game/Basic-List)
 {: .label .label-purple }
 
 [Psychiatrist](Game/Psychiatrist)
 {: .label .label-blue }
 
-[Modification](Game/Progress#Modification)
+[Modification](Game/Modification-List)
 {: .label .label-green }
 ### Aggression Detector
 *You have additional programming in your [Heads-Up-Display](Game/Blocks/Heads-Up-Display) to detect and warn of any perceived hostility from entities, allowing you to dispel hostility before it arises.*

@@ -1,11 +1,11 @@
 
-[Basic](Game/Progress#Basic)
+[Basic](Game/Basic-List)
 {: .label .label-purple }
 
 [Psychiatrist](Game/Psychiatrist)
 {: .label .label-blue }
 
-[Specialization](Game/Progress#Specialization)
+[Specialization](Game/Specialization-List)
 {: .label .label-green }
 ### Official
 *You've received training as a dignitary, having access to a few of the more subtle and powerful tools [CentGov](Game/Terms-And-Jargon#CentGov) has for their representatives in space.*

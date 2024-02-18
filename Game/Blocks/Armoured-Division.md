@@ -1,11 +1,11 @@
 
-[Expert](Game/Progress#Expert)
+[Expert](Game/Expert-List)
 {: .label .label-purple }
 
 [Military](Game/Military)
 {: .label .label-blue }
 
-[Team](Game/Progress#Team)
+[Team](Game/Team-List)
 {: .label .label-green }
 ### Armoured Division
 *Drilling in heavy armour and gear has led your team to get much more effective in the field while wearing armour.*

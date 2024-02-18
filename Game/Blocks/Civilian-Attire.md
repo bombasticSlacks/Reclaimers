@@ -1,11 +1,11 @@
 
-[Basic](Game/Progress#Basic)
+[Basic](Game/Basic-List)
 {: .label .label-purple }
 
 [Psychiatrist](Game/Psychiatrist)
 {: .label .label-blue }
 
-[Modification](Game/Progress#Modification)
+[Modification](Game/Modification-List)
 {: .label .label-green }
 ### Civilian Attire
 *You know that guns and armour cause panic, so you've modified yours to not be obvious.*

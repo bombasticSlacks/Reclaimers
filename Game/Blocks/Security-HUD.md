@@ -1,11 +1,11 @@
 
-[Basic](Game/Progress#Basic)
+[Basic](Game/Basic-List)
 {: .label .label-purple }
 
 [Detective](Game/Detective)
 {: .label .label-blue }
 
-[Modification](Game/Progress#Modification)
+[Modification](Game/Modification-List)
 {: .label .label-green }
 ### Security HUD
 *A combination of a facial recognition scanner and a Head Up Display program to identify and provide real-time data on a person's affiliations and any crime data.*

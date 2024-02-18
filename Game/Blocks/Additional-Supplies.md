@@ -1,11 +1,11 @@
 
-[Expert](Game/Progress#Expert)
+[Expert](Game/Expert-List)
 {: .label .label-purple }
 
 [Psychiatrist](Game/Psychiatrist)
 {: .label .label-blue }
 
-[Team](Game/Progress#Team)
+[Team](Game/Team-List)
 {: .label .label-green }
 ### Additional Supplies
 *You've negotiated additional supplies for your team.*

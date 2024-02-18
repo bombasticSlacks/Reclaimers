@@ -1,11 +1,11 @@
 
-[Expert](Game/Progress#Expert)
+[Expert](Game/Expert-List)
 {: .label .label-purple }
 
 [Occultist](Game/Occultist)
 {: .label .label-blue }
 
-[Modification](Game/Progress#Modification)
+[Modification](Game/Modification-List)
 {: .label .label-green }
 ### Spiritual Warding
 *Strange symbols, markings and decoration cover your gear and armour to protect you from darker forces.*

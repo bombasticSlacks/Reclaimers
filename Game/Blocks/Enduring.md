@@ -1,11 +1,11 @@
 
-[Expert](Game/Progress#Expert)
+[Expert](Game/Expert-List)
 {: .label .label-purple }
 
 [Paramedic](Game/Paramedic)
 {: .label .label-blue }
 
-[Team](Game/Progress#Team)
+[Team](Game/Team-List)
 {: .label .label-green }
 ### Enduring
 *You've walked your team through emergency injury drills, they know how to handle pain and are reassured you will take care of them.*

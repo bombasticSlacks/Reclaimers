@@ -1,11 +1,11 @@
 
-[Expert](Game/Progress#Expert)
+[Expert](Game/Expert-List)
 {: .label .label-purple }
 
 [Psychiatrist](Game/Psychiatrist)
 {: .label .label-blue }
 
-[Cybernetic](Game/Progress#Cybernetic)
+[Cybernetic](Game/Cybernetic-List)
 {: .label .label-green }
 ### Thalamus Dictation
 *You have received cybernetic modification to recognize humans on a more primal level than even they can understand. You can speak to an ancient and more manipulable part of their brain, allowing you to control them with your voice.*

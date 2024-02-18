@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Gear List
+title: Basic Advancement List
 has_children: false
-parent: Gear
-grand_parent: Equipment
+parent: Progress
+grand_parent: Telling The Story
 nav_order: 0
 ---
-# Gear List
+# Basic Advancement List
 {: .no_toc }
 
 <details open markdown="block">

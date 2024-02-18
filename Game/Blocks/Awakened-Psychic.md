@@ -1,5 +1,5 @@
 
-[Expert](Game/Progress#Expert)
+[Expert](Game/Expert-List)
 {: .label .label-purple }
 
 [Occultist](Game/Occultist)

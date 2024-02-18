@@ -1,11 +1,11 @@
 
-[Basic](Game/Progress#Basic)
+[Basic](Game/Basic-List)
 {: .label .label-purple }
 
 [Military](Game/Military)
 {: .label .label-blue }
 
-[Specialization](Game/Progress#Specialization)
+[Specialization](Game/Specialization-List)
 {: .label .label-green }
 ### Extermination Division
 *You’ve been trained to deal with serious situations with serious firepower. You are gifted with the best equipment that central has for dealing with serious issues.*

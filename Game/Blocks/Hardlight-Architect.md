@@ -1,11 +1,11 @@
 
-[Basic](Game/Progress#Basic)
+[Basic](Game/Basic-List)
 {: .label .label-purple }
 
 [Engineer](Game/Engineer)
 {: .label .label-blue }
 
-[Specialization](Game/Progress#Specialization)
+[Specialization](Game/Specialization-List)
 {: .label .label-green }
 ### Hardlight Architect
 *Typically, an engineer with specialized training, the hardlight architect is equipped with the experimental hardlight constructor, allowing them to build simple objects quickly during combat, or given more time, more elaborate structures. They excel at controlling the battlefield for their allies.*
