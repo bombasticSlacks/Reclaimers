@@ -9,4 +9,5 @@ ARCH
 {: .label .label-yellow }
 #### Name
 *Description*
+* Traits: 
 

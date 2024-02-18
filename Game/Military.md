@@ -28,12 +28,6 @@ You begin with a rank in [Athletics](Game/Core/Strength#Athletics), [Endurance](
 ## Equipment
 Equipment readily available to you when you deploy to the field. Remember, you can always select gear from the [Standard-Equipment](Game/Standard-Equipment) list.
 
-## Specialization
-Even a basic Reclaimer has some specialization in their background and additional training. Select a specialization to start with providing additional gear.
-![Assault-Division](Game/Blocks/Assault-Division)
-![Extermination-Division](Game/Blocks/Extermination-Division)
-![Mechanized-Division](Game/Blocks/Mechanized-Division)
-
 ### Weapons
 [Deploy](Game/Deployment) With Up To 2
 ![Gauss-Gun](Game/Blocks/Gauss-Gun)
@@ -45,6 +39,12 @@ Even a basic Reclaimer has some specialization in their background and additiona
 [Deploy](Game/Deployment) With Any Number
 ![Flash-Grenades](Game/Blocks/Flash-Grenades)
 ![IFAK](Game/Blocks/IFAK)
+
+## Specialization
+Even a basic Reclaimer has some specialization in their background and additional training. Select a specialization to start with providing additional gear.
+![Assault-Division](Game/Blocks/Assault-Division)
+![Extermination-Division](Game/Blocks/Extermination-Division)
+![Mechanized-Division](Game/Blocks/Mechanized-Division)
 
 ## Advancements
 Training the Reclaimer can take as they [Progress](Game/Progress) their career. Remember, you can always take advancements from the [Standard-Advancements](Game/Standard-Advancements) as well.

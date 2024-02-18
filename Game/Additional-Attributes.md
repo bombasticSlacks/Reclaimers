@@ -12,12 +12,17 @@ On top of the above attributes, your character also has a few additional values.
 ## Munition Capacity
 A way to track how many supplies you can carry on you.
 
-Munition Capacity is equal to the better of [Intelligence](Game/Core/Intelligence) or [Strength](Core/Strength) by default.
+Munition Capacity is equal [Strength](Core/Strength) by default.
 
 ## Boiling Point
 A stat tracking how much [Stress](Game/Stress) you can handle before issues begin to arise. Being put in terrible situations or seeing deaths will push you towards your boiling point.
 
 Boiling Point is equal to [Spirit](Core/Spirit).
+
+## Power
+A stat tracking how many times your character can perform certain powerful abilities. Some [Advancements](Game/Progress#Advancements) will require you to expend this resource.
+
+Your Maximum Power is equal to [Intelligence](Game/Core/Intelligence) + 1 per ability that requires power.
 
 ## Sway
 A stat tracking how much pull you have when requisitioning equipment for a mission. Effects the total quality of gear you can bring with you.

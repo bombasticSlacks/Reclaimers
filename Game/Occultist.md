@@ -23,12 +23,6 @@ Occultists explore the strange and the exotic, delving into the unknown.
 
 You begin with a rank in [Will](Game/Core/Spirit#Will), [Attunement](Game/Core/Spirit#Attunement), [Identity](Game/Core/Spirit#Identity), [Memory](Game/Core/Intelligence#Memory) and 7 additional skill ranks of your choice.
 
-## Specialization (Select 1)
-Even a basic Reclaimer has some specialization in their background and additional training. Select a specialization to start with providing additional gear.
-![Exorcist](Game/Blocks/Exorcist)
-![Flesh-Shaper](Game/Blocks/Flesh-Shaper)
-![Psy-Knight](Game/Blocks/Psy-Knight)
-
 ## Equipment
 Equipment readily available to you when you deploy to the field. Remember, you can always select gear from the [Standard-Equipment](Game/Standard-Equipment) list.
 
@@ -46,6 +40,12 @@ Equipment readily available to you when you deploy to the field. Remember, you c
 ![Mind-Shield](Game/Blocks/Mind-Shield)
 ![Neuro-Suit](Game/Blocks/Neuro-Suit)
 ![Spectrometer](Game/Blocks/Spectrometer)
+
+## Specialization
+Even a basic Reclaimer has some specialization in their background and additional training. Select a specialization to start with providing additional gear.
+![Exorcist](Game/Blocks/Exorcist)
+![Flesh-Shaper](Game/Blocks/Flesh-Shaper)
+![Psy-Knight](Game/Blocks/Psy-Knight)
 
 ## Advancements
 Training the Reclaimer can take as they [Progress](Game/Progress) their career. Remember, you can always take advancements from the [Standard-Advancements](Game/Standard-Advancements) as well.

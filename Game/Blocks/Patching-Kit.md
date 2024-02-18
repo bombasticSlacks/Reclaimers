@@ -9,6 +9,5 @@
 {: .label .label-yellow }
 #### Patching Kit
 *A collection of pins, synthetic seals, bolts and metal bits used to repair armour in the field.*
-
-* [Charges](Game/Core/Gear#Charges)(2 + [Munition Capacity](Game/Additional-Attributes#Munition%20Capacity)).
+* Traits: [Charges](Game/Core/Gear#Charges)(2 + [Munition Capacity](Game/Additional-Attributes#Munition%20Capacity)), [Toolkits](Game/Core/Gear#Toolkits).
 * Given 5 minutes, you can repair 1 integrity on a suit of armour for a charge.
