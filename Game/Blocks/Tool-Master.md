@@ -5,7 +5,7 @@
 [Engineer](Game/Engineer)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Tool Master
 *You're a wiz when it comes to tools, just holding a screwdriver makes you feel right at home.*

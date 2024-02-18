@@ -5,7 +5,7 @@
 [Paramedic](Game/Paramedic)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Auto Doc
 *An unfortunate reality is ending up in a situation where you are the only one with medical training and you have suffered an injury. You've trained for this situation.*

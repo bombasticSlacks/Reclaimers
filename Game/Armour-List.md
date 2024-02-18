@@ -4,7 +4,7 @@ title: Armour List
 has_children: false
 parent: Armour
 grand_parent: Equipment
-nav_order: 0
+nav_order: 1
 ---
 # Armour List
 {: .no_toc }

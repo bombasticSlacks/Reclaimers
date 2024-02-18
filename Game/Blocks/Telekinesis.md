@@ -5,7 +5,7 @@
 [Occultist](Game/Occultist)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Telekinesis
 *You've developed your potential for manipulating the world around you, creating and manipulating force without the need for external tools.*

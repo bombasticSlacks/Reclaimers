@@ -5,7 +5,7 @@
 [Detective](Game/Detective)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Missing Clue
 *There is always something else to look for, some stone left unturned. You are great at finding them.*

@@ -5,7 +5,7 @@
 [Military](Game/Military)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Point Man
 *You're always at the ready and can respond to movement in your field of view with lightning fast reflexes.*

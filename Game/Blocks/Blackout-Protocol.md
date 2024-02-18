@@ -5,7 +5,7 @@
 [Engineer](Game/Engineer)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Blackout Protocol
 *You've trained extensively on robotics and how to disable them.*

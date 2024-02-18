@@ -5,7 +5,7 @@
 [Engineer](Game/Engineer)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Fight Smart
 *You apply your intelligence fully even when in the heat of combat.*

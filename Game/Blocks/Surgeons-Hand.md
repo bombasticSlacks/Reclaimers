@@ -4,7 +4,7 @@
 [Paramedic](Game/Paramedic)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Surgeons Hand
 *You give new meaning to "under the knife" with your skills with blade and saw.*

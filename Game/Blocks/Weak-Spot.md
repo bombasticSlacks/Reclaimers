@@ -5,7 +5,7 @@
 [Engineer](Game/Engineer)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Weak Spot
 *You are an expert on material science, you can usually tell something weak points whenever you look at it.*

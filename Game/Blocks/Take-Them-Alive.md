@@ -5,7 +5,7 @@
 [Detective](Game/Detective)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Take Them Alive
 *You are an expert in keeping people alive, no matter how severe the weapon you can make sure it's non-lethal.*

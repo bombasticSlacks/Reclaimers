@@ -5,7 +5,7 @@
 [Paramedic](Game/Paramedic)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Playing God
 *Your medical knowledge pushes past what many would consider impossible. You can bring back from the brink of death, or beyond, even the most hopeless.*

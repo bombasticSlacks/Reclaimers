@@ -5,7 +5,7 @@
 [Standard-Advancements](Game/Standard-Advancements)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 #### Attribute Up
 *You've worked on yourself and gained great power.*

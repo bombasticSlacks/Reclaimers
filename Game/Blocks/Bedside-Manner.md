@@ -5,7 +5,7 @@
 [Paramedic](Game/Paramedic)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Bedside Manner
 *You treat patients well, which means they tend to like you.*

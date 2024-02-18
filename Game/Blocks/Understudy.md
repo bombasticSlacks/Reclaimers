@@ -5,7 +5,7 @@
 [Psychiatrist](Game/Psychiatrist)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Understudy
 *Your time with the brain and understanding of learning has made you very adjustable. You can quickly adapt and learn from those around you.*

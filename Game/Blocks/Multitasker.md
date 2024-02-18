@@ -5,7 +5,7 @@
 [Engineer](Game/Engineer)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Multitasker
 *You can pull yourself in two seperate directions.*

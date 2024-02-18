@@ -5,7 +5,7 @@
 [Psychiatrist](Game/Psychiatrist)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Mind Over
 *Just like the classic saying goes "mind over matter", as long as you are confident, any task is possible.*

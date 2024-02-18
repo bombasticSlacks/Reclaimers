@@ -4,7 +4,7 @@ title: Weapons List
 has_children: false
 parent: Weapons
 grand_parent: Equipment
-nav_order: 0
+nav_order: 1
 ---
 # Weapons List
 {: .no_toc }

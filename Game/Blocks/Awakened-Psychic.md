@@ -5,7 +5,7 @@
 [Occultist](Game/Occultist)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Awakened Psychic
 *Your consciousness has expanded to a massive size, building neural pathways that are inscrutable to normal people and could destroy you if you aren't careful.*

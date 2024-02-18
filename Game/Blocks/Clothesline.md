@@ -5,7 +5,7 @@
 [Detective](Game/Detective)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Clothesline
 *Someone running at you has never been a problem.*

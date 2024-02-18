@@ -5,7 +5,7 @@
 [Detective](Game/Detective)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Takedown Specialist
 *After countless drills and practice, you are lightning fast in a grapple.*

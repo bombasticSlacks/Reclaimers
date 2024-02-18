@@ -5,7 +5,7 @@
 [Paramedic](Game/Paramedic)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Reassuring Shout
 *You've got a way with people, especially those on the brink of death, making sure they have faith.*

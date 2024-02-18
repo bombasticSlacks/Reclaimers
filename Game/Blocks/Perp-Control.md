@@ -5,7 +5,7 @@
 [Detective](Game/Detective)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Perp Control
 *You are used to controlling criminals and escorting them out of hot environments.*

@@ -5,7 +5,7 @@
 [Psychiatrist](Game/Psychiatrist)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### What I Meant Was
 *You always know the right thing to say in a situation, but sometimes it takes you a second try to say it. Thankfully, you are great at backtracking.*

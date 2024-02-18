@@ -5,7 +5,7 @@
 [Military](Game/Military)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Marksman
 *You have pinpoint accuracy with your weapons.*

@@ -4,7 +4,7 @@ title: Specialization List
 has_children: false
 parent: Progress
 grand_parent: Telling The Story
-nav_order: 0
+nav_order: 1
 ---
 # Specialization List
 {: .no_toc }

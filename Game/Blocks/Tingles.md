@@ -5,7 +5,7 @@
 [Occultist](Game/Occultist)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Tingles
 *You are extra sensitive to the otherworldly and can feel when something is wrong.*

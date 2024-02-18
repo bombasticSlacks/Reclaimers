@@ -5,7 +5,7 @@
 [Military](Game/Military)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Weapon Expert
 *You've trained extensively in all forms of combat.*

@@ -5,7 +5,7 @@
 [Military](Game/Military)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### People's Champion
 *You seem unstoppable, shrugging off even the most lethal of injuries.*

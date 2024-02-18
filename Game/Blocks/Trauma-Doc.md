@@ -5,7 +5,7 @@
 [Paramedic](Game/Paramedic)
 {: .label .label-blue }
 
-[Training](Game/Progress#Training)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Trauma Doc
 *You are an expert at administering medicine and can easily reduce the tax of even the worst of afflictions for a person.*
