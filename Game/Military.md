@@ -50,12 +50,12 @@ Even a basic Reclaimer has some specialization in their background and additiona
 Training the Reclaimer can take as they [Progress](Game/Progress) their career. Remember, you can always take advancements from the [Standard-Advancements](Game/Standard-Advancements) as well.
 
 ![Adrenaline-Nanites](Game/Blocks/Adrenaline-Nanites)
-![Armoured-Division](Game/Blocks/Armoured-Division)
 ![Backpack-Ammo-Supply](Game/Blocks/Backpack-Ammo-Supply)
 ![GunCam-HUD](Game/Blocks/GunCam-HUD)
 ![Marksman](Game/Blocks/Marksman)
 ![Mega-Muscle-Implants](Game/Blocks/Mega-Muscle-Implants)
 ![Peoples-Champion](Game/Blocks/Peoples-Champion)
 ![Point-Man](Game/Blocks/Point-Man)
+![Second-Skin](Game/Blocks/Second-Skin)
 ![Weapon-Expert](Game/Blocks/Weapon-Expert)
 
