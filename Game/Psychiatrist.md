@@ -37,16 +37,24 @@ Equipment readily available to you when you deploy to the field. Remember, you c
 [Deploy](Game/Deployment) With Any Number
 ![Amenity-Kit](Game/Blocks/Amenity-Kit)
 ![Fear-Suppressors](Game/Blocks/Fear-Suppressors)
+![Flush](Game/Blocks/Flush)
 ![Focus](Game/Blocks/Focus)
 ![Sedatives](Game/Blocks/Sedatives)
 
 ## Specialization
 Even a basic Reclaimer has some specialization in their background and additional training. Select a specialization to start with providing additional gear.
+![Neuromaster](Game/Blocks/Neuromaster)
 ![Official](Game/Blocks/Official)
 ![Padre](Game/Blocks/Padre)
-![Neuromaster](Game/Blocks/Neuromaster)
 
 ## Advancements
 Training the Reclaimer can take as they [Progress](Game/Progress) their career. Remember, you can always take advancements from the [Standard-Advancements](Game/Standard-Advancements) as well.
-
-
+![Additional-Supplies](Game/Blocks/Additional-Supplies)
+![Aggression-Detector](Game/Blocks/Aggression-Detector)
+![Attractive](Game/Blocks/Attractive)
+![Civilian-Attire](Game/Blocks/Civilian-Attire)
+![Mind-Over](Game/Blocks/Mind-Over)
+![Steel-Trap](Game/Blocks/Steel-Trap)
+![Thalamus-Dictation](Game/Blocks/Thalamus-Dictation)
+![Understudy](Game/Blocks/Understudy)
+![What-I-Meant-Was](Game/Blocks/What-I-Meant-Was)

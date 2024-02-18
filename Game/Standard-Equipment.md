@@ -22,9 +22,10 @@ All Reclaimers have access to a suite of basic equipment that provides them the 
 
 
 ## Weapons (Select Up To 2)
-![Handgun](Game/Blocks/Handgun)
-![Polymer-Weapon](Game/Blocks/Polymer-Weapon)
 ![Break-Action-Driver](Game/Blocks/Break-Action-Driver)
+![Handgun](Game/Blocks/Handgun)
+![Mechanized-Knife](Game/Blocks/Mechanized-Knife)
+![Polymer-Weapon](Game/Blocks/Polymer-Weapon)
 
 ## Armour (Select 1)
 ![Plate-Carrier](Game/Blocks/Plate-Carrier)
