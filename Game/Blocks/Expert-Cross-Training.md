@@ -7,7 +7,7 @@
 
 Depends
 {: .label .label-green }
-#### Expert Cross Training
+### Expert Cross Training
 *You've worked with interdisciplinary groups to provide you with training normally provided to other Reclaimers.*
 * You may gain an [Expert](Game/Progress#Expert) Advancement from another Reclaimers Archetype.
 

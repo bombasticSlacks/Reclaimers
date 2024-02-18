@@ -7,7 +7,7 @@
 
 [Training](Game/Training-List)
 {: .label .label-green }
-#### Attribute Up
+### Attribute Up
 *You've worked on yourself and gained great power.*
 * Increase one of your [Attributes](Game/Core/Attributes) by 1 to a maximum of 5.
 
