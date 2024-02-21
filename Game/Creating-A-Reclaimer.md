@@ -39,8 +39,7 @@ Select one of the following and continue there:
 * [Occultist](Occultist)
 * [Paramedic](Paramedic)
 * [Psychiatrist](Psychiatrist)
-* [Researcher](Researcher)
-* [Spook](Spook)
+* [Operative](Game/Operative)
 
 ## Distinguishing Characteristic
 Something about you makes you the best of the best. Roll a 12 sided dice to determine what that is, your character starts with this additional benefit.
