@@ -2,7 +2,7 @@
 [Expert](Game/Expert-List)
 {: .label .label-purple }
 
-[Detective](Game/Detective)
+[Sleuth](Game/Sleuth)
 {: .label .label-blue }
 
 [Cybernetic](Game/Cybernetic-List)

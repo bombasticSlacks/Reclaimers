@@ -33,13 +33,13 @@ Assign your [Attributes](Game/Core/Attributes) placing one of the two sets of va
 Reclaimers, no matter the variety in their backgrounds, always loosely fit into an archetype category. These groups follow specific training regiments and have access to specific sets of [Equipment](Core/Equipment).
 
 Select one of the following and continue there:
-* [Detective](Detective)
-* [Engineer](Engineer)
-* [Military](Military)
-* [Occultist](Occultist)
-* [Paramedic](Paramedic)
-* [Psychiatrist](Psychiatrist)
-* [Operative](Game/Operative)
+* [Agent](Game/Agent)
+* [Medic](Game/Medic)
+* [Mystic](Game/Mystic)
+* [Psych](Game/Psych)
+* [Sleuth](Game/Sleuth)
+* [Soldier](Game/Soldier)
+* [Tech](Game/Tech)
 
 ## Distinguishing Characteristic
 Something about you makes you the best of the best. Roll a 12 sided dice to determine what that is, your character starts with this additional benefit.

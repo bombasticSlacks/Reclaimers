@@ -2,7 +2,7 @@
 [Weapons](Game/Weapons-List)
 {: .label .label-purple }
 
-[Operative](Game/Operative)
+[Entropy-Dancer](Game/Blocks/Entropy-Dancer)
 {: .label .label-blue }
 
 [Requisition 3](Game/Deployment#Requisition)

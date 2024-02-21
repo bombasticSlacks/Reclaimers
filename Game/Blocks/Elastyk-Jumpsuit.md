@@ -2,7 +2,7 @@
 [Armour](Game/Armour-List)
 {: .label .label-purple }
 
-[Operative](Game/Operative)
+[Ninja](Game/Blocks/Ninja)
 {: .label .label-blue }
 
 [Requisition 1](Game/Deployment#Requisition)

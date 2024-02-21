@@ -2,7 +2,7 @@
 [Expert](Game/Expert-List)
 {: .label .label-purple }
 
-[Military](Game/Military)
+[Soldier](Game/Soldier)
 {: .label .label-blue }
 
 [Team](Game/Team-List)

@@ -2,7 +2,7 @@
 [Basic](Game/Basic-List)
 {: .label .label-purple }
 
-[Operative](Game/Operative)
+[Agent](Game/Agent)
 {: .label .label-blue }
 
 [Cybernetic](Game/Cybernetic-List)

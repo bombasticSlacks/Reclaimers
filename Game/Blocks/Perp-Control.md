@@ -2,7 +2,7 @@
 [Basic](Game/Basic-List)
 {: .label .label-purple }
 
-[Detective](Game/Detective)
+[Sleuth](Game/Sleuth)
 {: .label .label-blue }
 
 [Training](Game/Training-List)

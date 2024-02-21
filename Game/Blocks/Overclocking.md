@@ -2,7 +2,7 @@
 [Expert](Game/Expert-List)
 {: .label .label-purple }
 
-[Engineer](Game/Engineer)
+[Tech](Game/Tech)
 {: .label .label-blue }
 
 [Team](Game/Team-List)

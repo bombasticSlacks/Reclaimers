@@ -6,9 +6,9 @@ parent: Creating A Reclaimer
 grand_parent: How To Play
 nav_order: 0
 ---
-# Operative
+# Agent
 {: .no_toc }
-Operatives are the Reclaimers working in the shadows, using subterfuge and less than legal means to solve problems when the locals are not very compliant.
+Agents are the Reclaimers working in the shadows, using subterfuge and less than legal means to solve problems when the locals are not very compliant.
 
 <details open markdown="block">
   <summary>

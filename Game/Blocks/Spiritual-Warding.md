@@ -2,7 +2,7 @@
 [Expert](Game/Expert-List)
 {: .label .label-purple }
 
-[Occultist](Game/Occultist)
+[Mystic](Game/Mystic)
 {: .label .label-blue }
 
 [Modification](Game/Modification-List)

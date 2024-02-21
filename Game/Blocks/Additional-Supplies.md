@@ -2,7 +2,7 @@
 [Expert](Game/Expert-List)
 {: .label .label-purple }
 
-[Psychiatrist](Game/Psychiatrist)
+[Psych](Game/Psych)
 {: .label .label-blue }
 
 [Team](Game/Team-List)

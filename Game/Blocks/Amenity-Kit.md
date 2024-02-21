@@ -2,7 +2,7 @@
 [Gear](Game/Gear-List)
 {: .label .label-purple }
 
-[Psychiatrist](Game/Psychiatrist)
+[Psych](Game/Psych)
 {: .label .label-blue }
 
 [Requisition 0](Game/Deployment#Requisition)

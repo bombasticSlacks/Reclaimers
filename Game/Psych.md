@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Psychiatrist
+title: Psych
 has_children: false
 parent: Creating A Reclaimer
 grand_parent: How To Play
 nav_order: 0
 ---
-# Psychiatrist
+# Psych
 {: .no_toc }
 
-Psychiatrist Reclaimers help to keep the people they meet happy and content, no matter the current horrors besieging them.
+Psych Reclaimers help to keep the people they meet happy and content, no matter the current horrors besieging them.
 
 <details open markdown="block">
   <summary>

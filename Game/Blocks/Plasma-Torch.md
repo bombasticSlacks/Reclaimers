@@ -2,7 +2,7 @@
 [Weapons](Game/Weapons-List)
 {: .label .label-purple }
 
-[Engineer](Game/Engineer)
+[Tech](Game/Tech)
 {: .label .label-blue }
 
 [Requisition 0](Game/Deployment#Requisition)

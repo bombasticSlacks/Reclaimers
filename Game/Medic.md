@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Paramedic
+title: Medic
 has_children: false
 parent: Creating A Reclaimer
 grand_parent: How To Play
 nav_order: 0
 ---
-# Paramedic
+# Medic
 {: .no_toc }
 
-Paramedic Reclaimers specialize in managing injury and illness.
+Medic Reclaimers specialize in managing injury and illness.
 
 <details open markdown="block">
   <summary>

@@ -2,7 +2,7 @@
 [Basic](Game/Basic-List)
 {: .label .label-purple }
 
-[Psychiatrist](Game/Psychiatrist)
+[Psych](Game/Psych)
 {: .label .label-blue }
 
 [Specialization](Game/Specialization-List)
