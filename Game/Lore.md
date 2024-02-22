@@ -2,9 +2,9 @@
 layout: default
 title: Lore
 has_children: true
-parent: Telling The Story
+parent: 
 grand_parent: 
-nav_order: 0
+nav_order: 7
 ---
 # Lore
 {: .no_toc }
