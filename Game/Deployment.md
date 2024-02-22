@@ -36,7 +36,7 @@ Level 3 missions represent a complete breakdown of the target area. Reclaimers w
 
 ### Requisition
 Once you understand the severity and have the details, you can requisition gear.
-Your [Archetype](Game/Creating-A-Reclaimer#Archetype) will explain what gear you have access to, and each piece will specify a requisition cost. 
+Your [Origin](Game/Creating-A-Reclaimer#Origin) will explain what gear you have access to, and each piece will specify a requisition cost. 
 
 Your total number of available requisition points is equal to your [Sway](Game/Additional-Attributes#Sway) + [Severity](#Severity).
 

@@ -2,7 +2,7 @@
 [Basic](Game/Basic-List)
 {: .label .label-purple }
 
-[Paramedic](Game/Paramedic)
+[Medic](Game/Medic)
 {: .label .label-blue }
 
 [Training](Game/Training-List)

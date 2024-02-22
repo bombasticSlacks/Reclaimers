@@ -1,7 +1,7 @@
 [Weapons](Game/Weapons-List)
 {: .label .label-purple }
 
-[Occultist](Game/Occultist)
+[Mystic](Game/Mystic)
 {: .label .label-blue }
 
 [Requisition 1](Game/Deployment#Requisition)

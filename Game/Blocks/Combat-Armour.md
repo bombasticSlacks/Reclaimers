@@ -2,7 +2,7 @@
 [Armour](Game/Armour-List)
 {: .label .label-purple }
 
-[Military](Game/Military)
+[Soldier](Game/Soldier)
 {: .label .label-blue }
 
 [Requisition 0](Game/Deployment#Requisition)

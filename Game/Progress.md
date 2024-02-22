@@ -28,9 +28,9 @@ After every mission you complete, you will be rewarded with additional opportuni
 ## Skill Increase
 You may increase one of your skills by 1 rank, up to a maximum of 3.
 ## Advancements
-Advancements come in two forms: Archetype-based, and [Standard-Advancements](Game/Standard-Advancements). Archetype advancements are expected training that a character of your background could reasonably obtain. [Standard-Advancements](Game/Standard-Advancements) are available to all Reclaimers, no matter their background.
+Advancements come in two forms: Origin-based, and [Standard-Advancements](Game/Standard-Advancements). [Origin](Game/Creating-A-Reclaimer#Origin) advancements are expected training that a character of your background could reasonably obtain. [Standard-Advancements](Game/Standard-Advancements) are available to all Reclaimers, no matter their background.
 
-**Archetype-based advancements cannot be taken more than once.**
+**[Origin](Game/Creating-A-Reclaimer#Origin)-based advancements cannot be taken more than once.**
 
 ### Basic
 More standard advancements that your character will gain a few of as they progress.

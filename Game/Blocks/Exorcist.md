@@ -2,7 +2,7 @@
 [Basic](Game/Basic-List)
 {: .label .label-purple }
 
-[Occultist](Game/Occultist)
+[Mystic](Game/Mystic)
 {: .label .label-blue }
 
 [Specialization](Game/Specialization-List)

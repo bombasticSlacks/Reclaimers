@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Detective
+title: Sleuth
 has_children: false
 parent: Creating A Reclaimer
 grand_parent: How To Play
 nav_order: 0
 ---
-# Detective
+# Sleuth
 {: .no_toc }
 
-Detective reclaimers specialize in using deduction to solve problems. 
+Sleuth reclaimers specialize in using deduction to solve problems. 
 
 
 <details open markdown="block">

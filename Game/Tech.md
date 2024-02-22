@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Engineer
+title: Tech
 has_children: false
 parent: Creating A Reclaimer
 grand_parent: How To Play
 nav_order: 0
 ---
-# Engineer
+# Tech
 {: .no_toc }
-Engineers use tools, and repairing to solve problems.
+Techs use tools, and repairing to solve problems.
 
 <details open markdown="block">
   <summary>

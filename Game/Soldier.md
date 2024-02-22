@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Military
+title: Soldier
 has_children: false
 parent: Creating A Reclaimer
 grand_parent: How To Play
 nav_order: 0
 ---
-# Military
+# Soldier
 {: .no_toc }
 
-Military Reclaimers specialize in using force to solve problems. 
+Soldier Reclaimers specialize in using force to solve problems having the gear and the knowledge to bring order through force. 
 
 
 <details open markdown="block">

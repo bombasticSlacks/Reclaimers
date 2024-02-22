@@ -2,7 +2,7 @@
 [Armour](Game/Armour-List)
 {: .label .label-purple }
 
-[Detective](Game/Detective)
+[Sleuth](Game/Sleuth)
 {: .label .label-blue }
 
 [Requisition 1](Game/Deployment#Requisition)

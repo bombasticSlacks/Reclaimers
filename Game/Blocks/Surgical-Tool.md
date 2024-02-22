@@ -2,7 +2,7 @@
 [Weapons](Game/Weapons-List)
 {: .label .label-purple }
 
-[Paramedic](Game/Paramedic)
+[Medic](Game/Medic)
 {: .label .label-blue }
 
 [Requisition 2](Game/Deployment#Requisition)

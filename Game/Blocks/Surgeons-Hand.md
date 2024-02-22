@@ -1,7 +1,7 @@
 
 [Basic](Game/Progress#Basic)
 
-[Paramedic](Game/Paramedic)
+[Medic](Game/Medic)
 {: .label .label-blue }
 
 [Training](Game/Training-List)

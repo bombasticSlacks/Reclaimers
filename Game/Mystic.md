@@ -1,14 +1,15 @@
 ---
 layout: default
-title: Occultist
+title: Mystic
 has_children: false
 parent: Creating A Reclaimer
 grand_parent: How To Play
 nav_order: 0
 ---
-# Occultist
+# Mystic
 {: .no_toc }
-Occultists explore the strange and the exotic, delving into the unknown.
+
+Mystics explore the strange and the exotic, delving into the unknown.
 
 <details open markdown="block">
   <summary>

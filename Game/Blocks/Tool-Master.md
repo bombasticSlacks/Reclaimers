@@ -2,7 +2,7 @@
 [Basic](Game/Basic-List)
 {: .label .label-purple }
 
-[Engineer](Game/Engineer)
+[Tech](Game/Tech)
 {: .label .label-blue }
 
 [Training](Game/Training-List)

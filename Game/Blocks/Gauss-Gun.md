@@ -2,7 +2,7 @@
 [Weapons](Game/Weapons-List)
 {: .label .label-purple }
 
-[Military](Game/Military)
+[Soldier](Game/Soldier)
 {: .label .label-blue }
 
 [Requisition 1](Game/Deployment#Requisition)
