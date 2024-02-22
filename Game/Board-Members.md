@@ -2,7 +2,7 @@
 layout: default
 title: Board Members
 has_children: false
-parent: Reclaimers-Organization
+parent: Reclaimers Organization
 grand_parent: Lore
 nav_order: 0
 ---
