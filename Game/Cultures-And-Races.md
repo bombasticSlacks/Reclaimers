@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cultures And Races
-has_children: false
+has_children: true
 parent: Lore
 grand_parent: 
 nav_order: 0

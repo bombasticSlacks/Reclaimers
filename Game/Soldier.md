@@ -41,7 +41,7 @@ Equipment readily available to you when you deploy to the field. Remember, you c
 ![IFAK](Game/Blocks/IFAK)
 
 ## Specialization
-Even a basic Reclaimer has some specialization in their background and additional training. Select a specialization to start with providing additional gear.
+Even a basic Reclaimer has some specialization in their background and additional training. Select a [Specialization](Game/Specialization-List) to start with providing additional gear. Some recommendations would be:
 ![Assault-Division](Game/Blocks/Assault-Division)
 ![Extermination-Division](Game/Blocks/Extermination-Division)
 ![Mechanized-Division](Game/Blocks/Mechanized-Division)

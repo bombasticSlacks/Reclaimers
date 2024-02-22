@@ -22,12 +22,6 @@ Agents are the Reclaimers working in the shadows, using subterfuge and less than
 ## Skills
 You begin with a rank in [Accuracy](Game/Core/Agility#Accuracy), [Reflexes](Game/Core/Agility#Reflexes), [Grace](Game/Core/Agility#Grace), [Mannerism](Game/Core/Communication#Mannerism) and 7 additional skill ranks of your choice.
 
-## Specialization
-Even a basic Reclaimer has some specialization in their background and additional training. Select a specialization to start with providing additional gear.
-![Entropy-Dancer](Game/Blocks/Entropy-Dancer)
-![Explorer](Game/Blocks/Explorer)
-![Ninja](Game/Blocks/Ninja)
-
 ## Equipment
 Equipment readily available to you when you deploy to the field. Remember, you can always select gear from the [Standard-Equipment](Game/Standard-Equipment) list.
 
@@ -45,6 +39,12 @@ Equipment readily available to you when you deploy to the field. Remember, you c
 ![Copycat-Kit](Game/Blocks/Copycat-Kit)
 ![Disruptor](Game/Blocks/Disruptor)
 ![Surveillance-Gear](Game/Blocks/Surveillance-Gear)
+
+## Specialization
+Even a basic Reclaimer has some specialization in their background and additional training. Select a [Specialization](Game/Specialization-List) to start with providing additional gear. Some recommendations would be:
+![Entropy-Dancer](Game/Blocks/Entropy-Dancer)
+![Explorer](Game/Blocks/Explorer)
+![Ninja](Game/Blocks/Ninja)
 
 ## Advancements
 Training the Reclaimer can take as they [Progress](Game/Progress) their career. Remember, you can always take advancements from the [Standard-Advancements](Game/Standard-Advancements) as well.

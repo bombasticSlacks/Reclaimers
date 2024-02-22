@@ -43,7 +43,7 @@ Equipment readily available to you when you deploy to the field. Remember, you c
 ![Spectrometer](Game/Blocks/Spectrometer)
 
 ## Specialization
-Even a basic Reclaimer has some specialization in their background and additional training. Select a specialization to start with providing additional gear.
+Even a basic Reclaimer has some specialization in their background and additional training. Select a [Specialization](Game/Specialization-List) to start with providing additional gear. Some recommendations would be:
 ![Exorcist](Game/Blocks/Exorcist)
 ![Flesh-Shaper](Game/Blocks/Flesh-Shaper)
 ![Psy-Knight](Game/Blocks/Psy-Knight)

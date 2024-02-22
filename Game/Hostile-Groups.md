@@ -2,7 +2,7 @@
 layout: default
 title: Hostile Groups
 has_children: false
-parent: Telling The Story
+parent: Lore
 grand_parent: 
 nav_order: 0
 ---

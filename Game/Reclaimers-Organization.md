@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reclaimers Organization
-has_children: false
+has_children: true
 parent: Lore
 grand_parent: 
 nav_order: 0
