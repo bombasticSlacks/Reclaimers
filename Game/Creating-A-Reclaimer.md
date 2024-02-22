@@ -29,8 +29,8 @@ Assign your [Attributes](Game/Core/Attributes) placing one of the two sets of va
 > So, 4 [Strength](Core/Strength), 3 [Agility](Core/Agility), 2 [Intelligence](Core/Intelligence), 2 [Spirit](Core/Spirit), 2 [Communication](Core/Communication) is a valid set of attributes.
 
 
-## Archetype
-Reclaimers, no matter the variety in their backgrounds, always loosely fit into an archetype category. These groups follow specific training regiments and have access to specific sets of [Equipment](Core/Equipment).
+## Origin
+Reclaimers, no matter the variety in their backgrounds, always have some form of origin. These groups follow specific training regiments and have access to specific sets of [Equipment](Core/Equipment).
 
 Select one of the following and continue there:
 * [Agent](Game/Agent)
@@ -60,4 +60,4 @@ Something about you makes you the best of the best. Roll a 12 sided dice to dete
 | 12 | Mastery | Select an [Expert](Game/Expert-List) advancement of your choice |
 
 ## Equipment
-Your character will not begin play with any [Equipment](Core/Equipment), when you go on [Deployment](Deployment) you will be provided with equipment based on [Archetype](#Archetype) and mission [Severity](Deployment#Severity).
+Your character will not begin play with any [Equipment](Core/Equipment), when you go on [Deployment](Deployment) you will be provided with equipment based on [Origin](#Origin) and mission [Severity](Deployment#Severity).
