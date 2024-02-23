@@ -10,3 +10,4 @@ nav_order: 0
 {: .no_toc }
 
 ## Bellator
+One of the [WesCan](Game/Terms-And-Jargon#WesCan) Reclaimers squads. [Matilda Cross (she/her)](Game/Board-Members#Matilda%20Cross%20(she/her)) oversees it.
