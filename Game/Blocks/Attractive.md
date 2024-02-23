@@ -5,7 +5,7 @@
 [Psych](Game/Psych)
 {: .label .label-blue }
 
-[Cybernetic](Game/Cybernetic-List)
+[Augment](Game/Augment-List)
 {: .label .label-green }
 ### Attractive
 *You are engineered to be attractive, your natural beauty has been heightened and additional hormone production implants further increase your beauty to those around you.*

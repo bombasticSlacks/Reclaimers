@@ -5,7 +5,7 @@
 [Tech](Game/Tech)
 {: .label .label-blue }
 
-[Cybernetic](Game/Cybernetic-List)
+[Augment](Game/Augment-List)
 {: .label .label-green }
 ### System Integration
 *You've received cranial augments providing you with direct connection to all on station systems connected to the [LAN](Game/Terms-And-Jargon#LAN).*

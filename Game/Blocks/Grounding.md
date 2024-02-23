@@ -5,7 +5,7 @@
 [Tech](Game/Tech)
 {: .label .label-blue }
 
-[Cybernetic](Game/Cybernetic-List)
+[Augment](Game/Augment-List)
 {: .label .label-green }
 ### Grounding
 *You have a suite of internal systems designed to protect you in the field, including an internal surge protector and automatically engaging ear and eye protection, keeping you safe in hostile work environments.*

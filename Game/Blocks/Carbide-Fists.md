@@ -5,7 +5,7 @@
 [Agent](Game/Agent)
 {: .label .label-blue }
 
-[Cybernetic](Game/Cybernetic-List)
+[Augment](Game/Augment-List)
 {: .label .label-green }
 ### Carbide Fists
 *Your hands and feet have been reinforced with an advanced carbide that makes them lethal weapons.*

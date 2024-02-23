@@ -5,7 +5,7 @@
 [Medic](Game/Medic)
 {: .label .label-blue }
 
-[Cybernetic](Game/Cybernetic-List)
+[Augment](Game/Augment-List)
 {: .label .label-green }
 ### Doctor's Eye
 *You have a medical scanner built directly into your eye assisting with diagnosis and evaluation.*
