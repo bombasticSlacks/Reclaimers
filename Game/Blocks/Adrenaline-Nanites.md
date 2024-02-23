@@ -5,7 +5,7 @@
 [Soldier](Game/Soldier)
 {: .label .label-blue }
 
-[Cybernetic](Game/Cybernetic-List)
+[Augment](Game/Augment-List)
 {: .label .label-green }
 ### Adrenaline Nanites
 *Nanites which distribute adrenaline upon taking injury keeping you awake and in fighting shape no matter the damage.*

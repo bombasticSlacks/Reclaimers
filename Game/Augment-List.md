@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Cybernetic Advancement List
+title: Augment Advancement List
 has_children: false
 parent: Progress
 grand_parent: Telling The Story
 nav_order: 1
 ---
-# Cybernetic Advancement List
+# Augment Advancement List
 {: .no_toc }
 
 <details open markdown="block">

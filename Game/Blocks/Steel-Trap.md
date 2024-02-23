@@ -5,7 +5,7 @@
 [Psych](Game/Psych)
 {: .label .label-blue }
 
-[Cybernetic](Game/Cybernetic-List)
+[Augment](Game/Augment-List)
 {: .label .label-green }
 ### Steel Trap
 *Your mind has many safeguards established, keeping your thoughts and feelings your own.*

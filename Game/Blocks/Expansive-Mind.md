@@ -5,7 +5,7 @@
 [Mystic](Game/Mystic)
 {: .label .label-blue }
 
-[Cybernetic](Game/Cybernetic-List)
+[Augment](Game/Augment-List)
 {: .label .label-green }
 ### Expansive Mind
 *With the inclusion of additional cybernetics modifying your neural pathways, your psychic power is almost overwhelming.*

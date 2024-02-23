@@ -5,7 +5,7 @@
 [Kaar](Game/Kaar)
 {: .label .label-blue }
 
-[Cybernetic](Game/Cybernetic-List)
+[Augment](Game/Augment-List)
 {: .label .label-green }
 ### Mycellian
 *You have small fibres coming off every part of your body which you leave on objects you touch lasting a few moments before withering to nothing.*

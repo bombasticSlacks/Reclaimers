@@ -44,8 +44,8 @@ Advancements come in a number of forms, which describe where your new-found powe
 #### Training
 These advancements represent personal improvement, your skills and abilities are directly honed improving you.
 
-#### Cybernetic
-You have had new machinery installed in your body, which you have received training to use to the fullest.
+#### Augment
+You have undergone some augmentation, whether it be mutation, transformation, or new machinery installed in your body, which you have received training to use to the fullest.
 
 #### Modification
 Your [Equipment](Game/Core/Equipment) has been customized to perform an additional task.
