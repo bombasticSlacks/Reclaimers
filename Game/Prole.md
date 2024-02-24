@@ -12,7 +12,7 @@ nav_order: 0
 Prole (ˌprəʊl) is the self-assigned descriptor for humans who were born as [Citizens](Game/Terms-And-Jargon#Citizen) and have worked for [CentGov](Game/Terms-And-Jargon#CentGov) their entire life. Proles are dutiful workers and, though their experiences differ, relate well to one another as they all toil for the same cause.
 
 ## Details
-* Heights between 4'9" 6'5".
+* Heights between 4'9" and 6'5".
 * Weigh that of a human of their size.
 
 ### Cultural Names
@@ -24,6 +24,7 @@ Prole (ˌprəʊl) is the self-assigned descriptor for humans who were born as [C
 
 ### Diet
 * A mixture of fats, proteins, and carbohydrates.
+* Water
 
 ### Mementos and Fetishes
 * An identification card.
