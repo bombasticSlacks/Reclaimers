@@ -35,7 +35,7 @@ All Reclaimers have access to a suite of basic equipment that provides them the 
 ## Gear (Select Any Number)
 ![Clothing](Game/Blocks/Clothing)
 ![Earpiece](Game/Blocks/Earpiece)
-![GO-Bag](Game/Blocks/GO-Bag)
+![Supplies](Game/Blocks/Supplies)
 ![Heads-Up-Display](Game/Blocks/Heads-Up-Display)
 ![Jumpsuit](Game/Blocks/Jumpsuit)
 ![LOOT-Sack](Game/Blocks/LOOT-Sack)
