@@ -24,4 +24,4 @@ The military is split into a number of groups and specialties, but the primary s
 Trained soldiers using modern weaponry to control territory. Supported and transported by the [Navy](#Navy).
 
 ### Navy
-The military group dedicated to space, arial, and historically sea combat. Basically all spaceships are piloted and controlled by the Navy. The [Reclaimers](Game/Terms-And-Jargon#Reclaimers) fall under the Navy.
+The military group dedicated to space, arial, and historically sea combat. Basically all spaceships are piloted and controlled by the Navy. The [Reclaimers](Game/Reclaimers-Organization#Reclaimers) fall under the Navy.
