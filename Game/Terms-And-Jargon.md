@@ -42,3 +42,6 @@ The name for the language widely spoken on [Earth](Game/Earth).
 
 ## WesCan
 Slang for the Western Canada [Dome](#Dome).
+
+## Citizen
+Workers for [CentGov](#CentGov), anyone within the general earth population with rights and responsibilities.
