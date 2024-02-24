@@ -2,7 +2,7 @@
 [Basic](Game/Basic-List)
 {: .label .label-purple }
 
-[Psych](Game/Psych)
+[Prole](Game/Prole)
 {: .label .label-blue }
 
 [Specialization](Game/Specialization-List)

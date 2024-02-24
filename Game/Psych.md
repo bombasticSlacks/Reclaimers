@@ -43,8 +43,8 @@ Equipment readily available to you when you deploy to the field. Remember, you c
 
 ## Specialization
 Even a basic Reclaimer has some specialization in their background and additional training. Select a [Specialization](Game/Specialization-List) to start with providing additional gear. Some recommendations would be:
+![Alchemist](Game/Blocks/Alchemist)
 ![Neuromaster](Game/Blocks/Neuromaster)
-![Official](Game/Blocks/Official)
 ![Padre](Game/Blocks/Padre)
 
 ## Advancements
