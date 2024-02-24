@@ -12,19 +12,18 @@ nav_order: 0
 To create a Reclaimer, you must answer some questions:
 
 ## Details
-Before anything else, try to imagine what your character should be. Are they a specific race? Tall? What colour is their hair? Do they have any unique traits? These are the kinds of questions that will help fill out your character. None of this will have any bearing on your character’s abilities, but it could influence them.
+Before anything else, try to imagine what your character should be. Are they from a specific [culture or race](Game/Cultures-And-Races)? Tall? What colour is their hair? Do they have any unique traits? These are the kinds of questions that will help fill out your character. None of this will have any bearing on your character’s abilities, but it could influence them.
 
 You should have an answer for these things before continuing:
 1. What is your name?
-2. Were you ever in the military? What did you do?
+2. What did you do before becoming a Reclaimer?
 3. What great thing got you inducted into the Reclaimers?
 
 ## Determine Your Attributes
 *Even before you became a Reclaimer, you were gifted, additional cybernetics and training have further increased that power.*
 
 Assign your [Attributes](Game/Core/Attributes) placing one of the two sets of values in each of the 5 attributes.
-* 4,3,2,2,2
-* 3,3,3,2,2
+* **4,3,2,2,2** or **3,3,3,2,2**
 
 > So, 4 [Strength](Core/Strength), 3 [Agility](Core/Agility), 2 [Intelligence](Core/Intelligence), 2 [Spirit](Core/Spirit), 2 [Communication](Core/Communication) is a valid set of attributes.
 

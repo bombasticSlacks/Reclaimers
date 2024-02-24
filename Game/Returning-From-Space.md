@@ -32,6 +32,12 @@ Any injuries you suffered while on [Deployment](Game/Deployment) are fixed. You 
 
 > If you lost an arm, you could choose to either have your original arm regrown, a robotic one, a clear prosthetic, if it leaves scarring etc.
 
+## Reprimand
+*If any Reclaimers were reported to have been abusive of their fellow citizens while in space, they may be reprimanded.* 
+This should not happen lightly but if a player is behaving poorly while in space the [GM](Game/Core/How-To-Play#GM) may reprimand them. Some example punishments are:
+* Weapons Restriction - You cannot go on [Deployment](Game/Deployment) with weapons until behaviour improves.
+* Re-education - You do not get an [Advancement](#Advancement) instead being required to spend that time being re-educated.
+* Discharge - In dire circumstances you may need to release a character (and potentially there player) from the Reclaimers and further a play group. 
 
 ## Advancement
 *You are expected to remain sharp while not deployed to the field, [CentGov](Game/Terms-And-Jargon#CentGov) provides a multitude of training programs and augmentations that you can receive.*

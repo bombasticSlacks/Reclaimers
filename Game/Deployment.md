@@ -19,6 +19,8 @@ When deploying, you will do a few useful things.
 * Be informed of the [Severity](#Severity) of the mission.
 * [Requisition](#Requisition) gear.
 * Depart for your target location, starting [Narrative-Time](Game/Core/Narrative-Time).
+
+
 ### Severity
 Missions are generally classified with 4 levels of severity.
 
@@ -41,4 +43,11 @@ Your [Origin](Game/Creating-A-Reclaimer#Origin) will explain what gear you have 
 Your total number of available requisition points is equal to your [Sway](Game/Additional-Attributes#Sway) + [Severity](#Severity).
 
 > So a character with 2 [Sway](Game/Additional-Attributes#Sway) on a level 1 mission could requisition 3 points. If they were military, they could depart with a: [Vibro-CQW](Game/Blocks/Vibro-CQW) (2 points), [Handgun](Game/Blocks/Handgun) (0 points), [Plate-Carrier](Game/Blocks/Plate-Carrier) (0 points), and [IFAK](Game/Blocks/IFAK) (1 point)
+
+
+#### Multiple Requisitions
+You can opt to take multiples of any [Equipment](Game/Core/Equipment) that costs at least 1 requisition.
+
+#### Comestibles
+Unless specified, you deploy with a quantity of each [Comestibles](Game/Core/Gear#Comestibles) you requisition equal to your [Munition Capacity](Game/Additional-Attributes#Munition%20Capacity).
 
