@@ -49,7 +49,8 @@ Even a basic Reclaimer has some specialization in their background and additiona
 ![Psy-Knight](Game/Blocks/Psy-Knight)
 
 ## Advancements
-Training the Reclaimer can take as they [Progress](Game/Progress) their career. Remember, you can always take advancements from the [Standard-Advancements](Game/Standard-Advancements) as well.
+Training the Reclaimer can take as they [Progress](Game/Progress) their career. You can take any advancements as you [Progress](Game/Progress), but some recommendations would be:
+
 ![Awakened-Psychic](Game/Blocks/Awakened-Psychic)
 ![Detached](Game/Blocks/Detached)
 ![Expansive-Mind](Game/Blocks/Expansive-Mind)

@@ -48,7 +48,8 @@ Even a basic Reclaimer has some specialization in their background and additiona
 ![Padre](Game/Blocks/Padre)
 
 ## Advancements
-Training the Reclaimer can take as they [Progress](Game/Progress) their career. Remember, you can always take advancements from the [Standard-Advancements](Game/Standard-Advancements) as well.
+Training the Reclaimer can take as they [Progress](Game/Progress) their career. You can take any advancements as you [Progress](Game/Progress), but some recommendations would be:
+
 ![Additional-Supplies](Game/Blocks/Additional-Supplies)
 ![Aggression-Detector](Game/Blocks/Aggression-Detector)
 ![Attractive](Game/Blocks/Attractive)

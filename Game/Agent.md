@@ -47,7 +47,8 @@ Even a basic Reclaimer has some specialization in their background and additiona
 ![Ninja](Game/Blocks/Ninja)
 
 ## Advancements
-Training the Reclaimer can take as they [Progress](Game/Progress) their career. Remember, you can always take advancements from the [Standard-Advancements](Game/Standard-Advancements) as well.
+Training the Reclaimer can take as they [Progress](Game/Progress) their career. You can take any advancements as you [Progress](Game/Progress), but some recommendations would be:
+
 ![Ambusher](Game/Blocks/Ambusher)
 ![Assassinate](Game/Blocks/Assassinate)
 ![Carbide-Fists](Game/Blocks/Carbide-Fists)
