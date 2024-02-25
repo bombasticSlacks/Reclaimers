@@ -10,4 +10,5 @@
 ### Zero-G Pilot
 *You have training moving outside of spaceships as well as within them.*
 * You have access to the following [Equipment](Core/Equipment):
+![Gravity-Propulsion](Game/Blocks/Gravity-Propulsion)
 ![Maglock-Boots](Game/Blocks/Maglock-Boots)
