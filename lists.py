@@ -6,8 +6,7 @@
 import os
 import sys
 
-dir = "Game/Blocks"
-
+dir = sys.argv[3]
 file = sys.argv[1]
 tag = sys.argv[2]
 
