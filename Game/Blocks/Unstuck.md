@@ -9,5 +9,5 @@
 {: .label .label-green }
 ### Unstuck
 *Some ancient knowledge plagues you, causing your body to shift and move in strange directions as though unbound to the rules of reality.*
-* You can move in any direction, as though flying or levitating.
+* You always have the [Levitation](Game/Core/Blocks/Levitation) trait.
 
