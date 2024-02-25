@@ -1,13 +1,13 @@
-# Aspirant
-## A Game about Adventure and Expertise
-Aspirant is a fantasy TTRPG where the players discover and collaborate to build and explore a world of fantasy.
+# Reclaimers
+## A Game about Violence and Controll
+Reclaimers is a game about meeting people on the worst day of their life and making sure they are okay.
 
-A Collaboration By: [Multiple Parties](https://github.com/bombasticSlacks/Aspirant/graphs/contributors) Licensed Under: [CC BY SA 4.0](https://github.com/bombasticSlacks/Aspirant/blob/main/LICENSE) Originally At: [GitHub](https://github.com/bombasticSlacks/Aspirant) 
+A Collaboration By: [Multiple Parties](https://github.com/bombasticSlacks/Reclaimers/graphs/contributors) Licensed Under: [CC BY SA 4.0](https://github.com/bombasticSlacks/Reclaimers/blob/main/LICENSE) Originally At: [GitHub](https://github.com/bombasticSlacks/Reclaimers) 
 
 # How To Play
 * The entirety of the game's content is provided in Markdown in the Game folder for reuse and forking.
-* Hosted at: https://aspirantrpg.com/
-* Rules are originally hosted at [GitHub](https://github.com/bombasticSlacks/Aspirant) for direct perusal.
+* Hosted at: https://reclaimers.bombasticgames.com/
+* Rules are originally hosted at [GitHub](https://github.com/bombasticSlacks/Reclaimers) for direct perusal.
 
 # Rendering Locally
 * Should be renderable with anything that supports markdown.
