@@ -1,5 +1,5 @@
 # Reclaimers
-## A Game about Violence and Controll
+## A Game about Violence and Control
 Reclaimers is a game about meeting people on the worst day of their life and making sure they are okay.
 
 A Collaboration By: [Multiple Parties](https://github.com/bombasticSlacks/Reclaimers/graphs/contributors) Licensed Under: [CC BY SA 4.0](https://github.com/bombasticSlacks/Reclaimers/blob/main/LICENSE) Originally At: [GitHub](https://github.com/bombasticSlacks/Reclaimers) 
