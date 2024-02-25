@@ -16,7 +16,7 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | [Heat](Game/Core/Injury#Heat) |
 | [Range](Core/Weapons#Range) | [Short](Game/Core/Movement#Short) |
 | [Threat](Core/Weapons#Threat) | 0 |
-| [Weapon Traits](Core/Weapon-Traits) | [Handless](Game/Core/Weapon-Traits#Handless), [Targeted](Game/Core/Weapon-Traits#Targeted), [Advanced](Game/Core/Weapon-Traits#Advanced), [Capacity](Game/Core/Weapon-Traits#Capacity(X,%20Type))(2, [Energy](Game/Munition-Details#Energy)), [Disguised](Game/Core/Weapon-Traits#Disguised)   |
+| [Weapon Traits](Core/Weapon-Traits) | [Handless](Game/Core/Blocks/Handless), [Targeted](Game/Core/Blocks/Targeted), [Advanced](Game/Core/Blocks/Advanced), [Capacity](Game/Core/Blocks/Capacity)(2, [Energy](Game/Munition-Details#Energy)), [Disguised](Game/Core/Blocks/Disguised)   |
 
 * This weapon cannot be reloaded and must be recharged which takes a few minutes.
 

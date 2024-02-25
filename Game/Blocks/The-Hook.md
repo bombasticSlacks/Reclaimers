@@ -16,4 +16,4 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | [Rending](Game/Core/Injury#Rending) |
 | [Range](Core/Weapons#Range) | [Close](Game/Core/Movement#Close) |
 | [Threat](Core/Weapons#Threat) | 1 |
-| [Weapon Traits](Core/Weapon-Traits) | [Handless](Game/Core/Weapon-Traits#Handless), [Capacity](Game/Core/Weapon-Traits#Capacity(X,%20Type))(1, [Unique](Game/Munition-Details#Unique)), [Loading(0)](Game/Core/Weapon-Traits#Loading(X)), [Impaling](Game/Core/Weapon-Traits#Impaling), [Pulling](Game/Core/Weapon-Traits#Pulling) |
+| [Weapon Traits](Core/Weapon-Traits) | [Handless](Game/Core/Blocks/Handless), [Capacity](Game/Core/Blocks/Capacity)(1, [Unique](Game/Munition-Details#Unique)), [Loading(0)](Game/Core/Blocks/Loading), [Impaling](Game/Core/Weapon-Traits#Impaling), [Pulling](Game/Core/Weapon-Traits#Pulling) |

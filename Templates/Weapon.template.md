@@ -16,4 +16,4 @@ Arch
 | [Damage Type](Core/Weapons#Damage%20Type) |  |
 | [Range](Core/Weapons#Range) |  |
 | [Threat](Core/Weapons#Threat) |  |
-| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Weapon-Traits#One%20Handed), [Two Handed](Game/Core/Weapon-Traits#Two%20Handed), [Capacity](Game/Core/Weapon-Traits#Capacity(X,%20Type))(5, Ammunition), [Loading](Game/Core/Weapon-Traits#Loading(X))(1) |
+| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Blocks/One-Handed.md), [Two Handed](Game/Core/Blocks/Two-Handed.md), [Capacity](Game/Core/Blocks/Capacity.md)(5, Ammunition), [Loading](Game/Core/Blocks/Loading.md)(1) |

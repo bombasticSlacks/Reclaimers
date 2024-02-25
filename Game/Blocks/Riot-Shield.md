@@ -16,6 +16,6 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | [Impact](Game/Core/Injury#Impact) |
 | [Range](Core/Weapons#Range) | [Reach](Game/Core/Movement#Reach) |
 | [Threat](Core/Weapons#Threat) | 1 |
-| [Weapon Traits](Core/Weapon-Traits) | [Handless](Game/Core/Weapon-Traits#Handless), [Striking](Game/Core/Weapon-Traits#Striking), [Shield(2)](Game/Core/Weapon-Traits#Shield(X))  |
+| [Weapon Traits](Core/Weapon-Traits) | [Handless](Game/Core/Blocks/Handless), [Striking](Game/Core/Blocks/Striking), [Shield(2)](Game/Core/Blocks/Shield)  |
 
 

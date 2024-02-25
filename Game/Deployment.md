@@ -49,5 +49,5 @@ Your total number of available requisition points is equal to your [Sway](Game/A
 You can opt to take multiples of any [Equipment](Game/Core/Equipment) that costs at least 1 requisition.
 
 #### Comestibles
-Unless specified, you deploy with a quantity of each [Comestibles](Game/Core/Gear#Comestibles) you requisition equal to your [Munition Capacity](Game/Additional-Attributes#Munition%20Capacity). This includes reloads for your weapons with [Capacity](Game/Core/Weapon-Traits#Capacity(X,%20Type)). 
+Unless specified, you deploy with a quantity of each [Comestibles](Game/Core/Gear#Comestibles) you requisition equal to your [Munition Capacity](Game/Additional-Attributes#Munition%20Capacity). This includes reloads for your weapons with [Capacity](Game/Core/Blocks/Capacity). 
 

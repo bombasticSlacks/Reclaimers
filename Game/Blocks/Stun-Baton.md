@@ -16,4 +16,4 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | [Impact](Game/Core/Injury#Impact) |
 | [Range](Core/Weapons#Range) | [Reach](Game/Core/Movement#Reach) |
 | [Threat](Core/Weapons#Threat) | 2 |
-| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Weapon-Traits#One%20Handed), [Strength](Game/Core/Weapon-Traits#Strength), [Striking](Game/Core/Weapon-Traits#Striking), [Advanced](Game/Core/Weapon-Traits#Advanced), [Stunning](Game/Core/Weapon-Traits#Stunning) |
+| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Blocks/One-Handed), [Mass](Game/Core/Blocks/Mass), [Striking](Game/Core/Blocks/Striking), [Advanced](Game/Core/Blocks/Advanced), [Stunning](Game/Core/Blocks/Stunning) |

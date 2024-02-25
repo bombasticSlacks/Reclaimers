@@ -16,4 +16,4 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | [Heat](Game/Core/Injury#Heat) |
 | [Range](Core/Weapons#Range) | [Reach](Core/Movement#Reach) |
 | [Threat](Core/Weapons#Threat) | 2 |
-| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Core/Weapon-Traits#One%20Handed), [Strength](Core/Weapon-Traits#Strength), [Advanced](Game/Core/Weapon-Traits#Advanced), [Deadly Draw](Game/Core/Weapon-Traits#Deadly%20Draw), [Striking](Game/Core/Weapon-Traits#Striking), [Burning](Game/Core/Weapon-Traits#Burning) |
+| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Blocks/One-Handed), [Mass](Game/Core/Blocks/Mass), [Advanced](Game/Core/Blocks/Advanced), [Deadly Draw](Game/Core/Blocks/Deadly-Draw), [Striking](Game/Core/Blocks/Striking), [Burning](Game/Core/Blocks/Burning) |

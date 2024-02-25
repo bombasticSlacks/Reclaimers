@@ -10,6 +10,9 @@ python3 ./lists.py Game/Team-List.md Team-List
 python3 ./lists.py Game/Cybernetic-List.md Cybernetic-List
 python3 ./lists.py Game/Training-List.md Training-List
 python3 ./lists.py Game/Modification-List.md Modification-List
+python3 ./lists.py Game/Core/Weapon-Traits.md Weapon-Traits
+python3 ./lists.py Game/Core/Armour-Traits.md Armour-Traits
+
 
 
 

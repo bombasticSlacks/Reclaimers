@@ -12,7 +12,7 @@
 
 | [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 4 |
 | :---- | :---- |
-| [Armour-Traits](Game/Core/Armour-Traits) | [Sealed](Game/Core/Armour-Traits#Sealed), [Recycling](Game/Core/Armour-Traits#Recycling) |
+| [Armour-Traits](Game/Core/Armour-Traits) | [Sealed](Game/Core/Blocks/Sealed), [Recycling](Game/Core/Blocks/Recycling) |
 
 |  | [Ancillary](Game/Core/Injury#Ancillary) | [Vitals](Game/Core/Injury#Vitals) |
 | ---- | ---- | ---- |

@@ -16,7 +16,7 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | [Heat](Game/Core/Injury#Heat) |
 | [Range](Core/Weapons#Range) | [Reach](Game/Core/Movement#Reach) |
 | [Threat](Core/Weapons#Threat) | 4 |
-| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Weapon-Traits#One%20Handed), [Striking](Game/Core/Weapon-Traits#Striking), [Shield(4)](Game/Core/Weapon-Traits#Shield(X)) |
+| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Blocks/One-Handed), [Striking](Game/Core/Blocks/Striking), [Shield(4)](Game/Core/Blocks/Shield) |
 
 * Anyone you allow within [Reach](Game/Core/Movement#Reach) also benefits from this [Shield](Game/Core/Terminology#Shield).
 
