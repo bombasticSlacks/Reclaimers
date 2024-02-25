@@ -3,6 +3,7 @@
 #embeds md blocks
 import os
 import subprocess
+import sys
 
 dir = sys.argv[1]
 
