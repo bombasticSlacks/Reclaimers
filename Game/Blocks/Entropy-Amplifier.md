@@ -15,7 +15,7 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | [Heat](Game/Core/Injury#Heat), [Cold](Game/Core/Injury#Cold) |
 | [Range](Core/Weapons#Range) | [Close](Game/Core/Movement#Close) |
 | [Threat](Core/Weapons#Threat) | 1 |
-| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Weapon-Traits#One%20Handed), [Mind Over Matter](Game/Core/Weapon-Traits#Mind%20Over%20Matter), [Magical Attack](Game/Core/Weapon-Traits#Magical%20Attack), [Spirit](Game/Core/Weapon-Traits#Spirit)  |
+| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Blocks/One-Handed), [Mind Over Matter](Game/Core/Blocks/Mind-Over-Matter), [Magical Attack](Game/Core/Blocks/Magical-Attack), [Spirit](Game/Core/Blocks/Spiritual)  |
 
 * You can use the [Burning](Game/Core/Magical-Attacks#Burning), [Lethal](Game/Core/Magical-Attacks#Lethal), [Slowing](Game/Core/Magical-Attacks#Slowing) modifiers on.
 * You can change the temperature of items within a [Close](Game/Core/Movement#Close) distance.

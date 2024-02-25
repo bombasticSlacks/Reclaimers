@@ -17,4 +17,4 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | - |
 | [Range](Core/Weapons#Range) | [Close](Game/Core/Movement#Close) |
 | [Threat](Core/Weapons#Threat) | 1 |
-| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Weapon-Traits#One%20Handed), [Thrown](Game/Core/Weapon-Traits#Thrown), [Powerful Stunning](Game/Core/Weapon-Traits#Powerful%20Stunning), [Massive Explosion](Game/Core/Weapon-Traits#Massive%20Explosion) |
+| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Blocks/One-Handed), [Thrown](Game/Core/Blocks/Thrown), [Powerful Stunning](Game/Core/Blocks/Powerful-Stunning), [Massive Explosion](Game/Core/Blocks/Massive-Explosion) |

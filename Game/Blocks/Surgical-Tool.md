@@ -16,7 +16,7 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | [Rending](Game/Core/Injury#Rending) |
 | [Range](Core/Weapons#Range) | [Reach](Game/Core/Movement#Reach) |
 | [Threat](Core/Weapons#Threat) | 2 |
-| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Weapon-Traits#One%20Handed), [Striking](Game/Core/Weapon-Traits#Striking), [Strength](Game/Core/Weapon-Traits#Strength) |
+| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Blocks/One-Handed), [Striking](Game/Core/Blocks/Striking), [Mass](Game/Core/Blocks/Mass) |
 
 * This can be used to perform surgery, an [Application](Game/Core/Intelligence#Application) [Opposed Difficulty](Game/Core/Skills#Opposed%20Difficulty)([Long Term Injury](Game/Core/Effects#Long%20Term%20Injury)). It takes 20 minutes per [Injury](Game/Core/Injury).
 * Successful surgery removes [Long Term Injury](Game/Core/Effects#Long%20Term%20Injury), you may also replace any missing body parts.

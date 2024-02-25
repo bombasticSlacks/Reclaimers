@@ -16,4 +16,4 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | [Piercing](Game/Core/Injury#Piercing) |
 | [Range](Core/Weapons#Range) | [Short](Game/Core/Movement#Short) |
 | [Threat](Core/Weapons#Threat) | 1 |
-| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Weapon-Traits#One%20Handed),[Capacity](Game/Core/Weapon-Traits#Capacity(X,%20Type))(5, [Small Bullets](Game/Munition-Details#Small%20Bullets)), [Loading](Game/Core/Weapon-Traits#Loading(X))(1), [Targeted](Game/Core/Weapon-Traits#Targeted) |
+| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Blocks/One-Handed),[Capacity](Game/Core/Blocks/Capacity)(5, [Small Bullets](Game/Munition-Details#Small%20Bullets)), [Loading](Game/Core/Blocks/Loading)(1), [Targeted](Game/Core/Blocks/Targeted), [Close-Quarters](Game/Core/Blocks/Close-Quarters) |

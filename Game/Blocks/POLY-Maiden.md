@@ -12,7 +12,7 @@
 
 | [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 4 |
 | :---- | :---- |
-| [Armour-Traits](Game/Core/Armour-Traits) | [Living](Core/Armour-Traits#Living), [Regenerating](Core/Armour-Traits#Regenerating) |
+| [Armour-Traits](Game/Core/Armour-Traits) | [Living](Game/Core/Blocks/Living), [Regenerating](Game/Core/Blocks/Regenerating) |
 
 |  | [Ancillary](Game/Core/Injury#Ancillary) | [Vitals](Game/Core/Injury#Vitals) |
 | ---- | ---- | ---- |

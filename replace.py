@@ -4,8 +4,7 @@
 import os
 import subprocess
 
-rootdir = "Game"
-dir = "Game/Blocks"
+dir = sys.argv[1]
 
 for block in os.listdir(dir):
     # Skip .bak files

@@ -16,7 +16,7 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | [Rending](Game/Core/Injury#Rending) |
 | [Range](Core/Weapons#Range) | [Reach](Game/Core/Movement#Reach) |
 | [Threat](Core/Weapons#Threat) | 4 |
-| [Weapon Traits](Core/Weapon-Traits) | [Two Handed](Game/Core/Weapon-Traits#Two%20Handed), [Strength](Core/Weapon-Traits#Strength), [Penetrating](Game/Core/Weapon-Traits#Penetrating), [Striking](Game/Core/Weapon-Traits#Striking) |
+| [Weapon Traits](Core/Weapon-Traits) | [Two Handed](Game/Core/Blocks/Two-Handed), [Mass](Game/Core/Blocks/Mass), [Penetrating](Game/Core/Blocks/Penetrating), [Striking](Game/Core/Blocks/Striking), [Reach](Game/Core/Blocks/Reach) |
 
 Or
 
@@ -26,4 +26,4 @@ Or
 | [Damage Type](Core/Weapons#Damage%20Type) | [Heat](Core/Injury#Heat) |
 | [Range](Core/Weapons#Range) | [Close](Core/Movement#Close) |
 | [Threat](Core/Weapons#Threat) | 4 |
-| [Weapon Traits](Core/Weapon-Traits) | [Two Handed](Core/Weapon-Traits#Two%20Handed), [Capacity](Core/Weapon-Traits#Capacity(X,%20Type))(1, [Plasma](Game/Munition-Details#Plasma)), [Loading](Core/Weapon-Traits#Loading(X))(1), [Burning](Core/Weapon-Traits#Burning), [Advanced](Game/Core/Weapon-Traits#Advanced), [Targeted](Game/Core/Weapon-Traits#Targeted), [Area](Game/Core/Weapon-Traits#Area) |
+| [Weapon Traits](Core/Weapon-Traits) | [Two Handed](Game/Core/Blocks/Two-Handed), [Capacity](Core/Weapon-Traits#Capacity(X,%20Type))(1, [Plasma](Game/Munition-Details#Plasma)), [Loading](Game/Core/Blocks/Loading)(1), [Burning](Game/Core/Blocks/Burning), [Advanced](Game/Core/Blocks/Advanced), [Targeted](Game/Core/Blocks/Targeted), [Area](Game/Core/Blocks/Area) |

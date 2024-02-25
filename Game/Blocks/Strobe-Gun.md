@@ -16,4 +16,4 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | [Heat](Game/Core/Injury#Heat) |
 | [Range](Core/Weapons#Range) | [Far](Game/Core/Movement#Far) |
 | [Threat](Core/Weapons#Threat) | 2 |
-| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Weapon-Traits#One%20Handed), [Targeted](Game/Core/Weapon-Traits#Targeted) |
+| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Blocks/One-Handed), [Targeted](Game/Core/Blocks/Targeted) |

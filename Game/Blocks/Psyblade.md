@@ -16,5 +16,5 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | [Rending](Game/Core/Injury#Rending), [Life](Game/Core/Injury#Life) |
 | [Range](Core/Weapons#Range) | [Reach](Game/Core/Movement#Reach) |
 | [Threat](Core/Weapons#Threat) | 2 |
-| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Weapon-Traits#One%20Handed), [Strength](Game/Core/Weapon-Traits#Strength), [Spirit](Game/Core/Weapon-Traits#Spirit), [Striking](Game/Core/Weapon-Traits#Striking), [Multiple Damage Types](Game/Core/Weapon-Traits#Multiple%20Damage%20Types) |
+| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Blocks/One-Handed), [Mass](Game/Core/Blocks/Mass), [Spirit](Game/Core/Blocks/Spiritual), [Striking](Game/Core/Blocks/Striking) |
 

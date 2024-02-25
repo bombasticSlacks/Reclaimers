@@ -7,12 +7,12 @@
 
 [Requisition 2](Game/Deployment#Requisition)
 {: .label .label-yellow }
-#### Safety Harness
+#### Safety Frame
 *The Safety Frame is the ultimate in space age on site protection for labourers. This suit is built on a slightly sluggish mechanized frame with notable plating protecting the user. The real unique part of this EXO frame is the addition of an automated mechanical arm which assists in repairs and safety.*
 
 | [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 6 |
 | :---- | :---- |
-| [Armour-Traits](Game/Core/Armour-Traits) | [Sealed](Game/Core/Armour-Traits#Sealed), [Mechanized](Game/Core/Armour-Traits#Mechanized), [Helping Hand](Game/Core/Armour-Traits#Helping%20Hand) |
+| [Armour-Traits](Game/Core/Armour-Traits) | [Sealed](Game/Core/Blocks/Sealed), [Mechanized](Game/Core/Blocks/Mechanized), [Helping-Hand](Game/Core/Blocks/Helping-Hand) |
 
 |                                                            | [Ancillary](Game/Core/Injury#Ancillary) | [Vitals](Game/Core/Injury#Vitals) |
 | ---------------------------------------------------------- | --------------------------------------- | --------------------------------- |

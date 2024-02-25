@@ -17,4 +17,4 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | - |
 | [Range](Core/Weapons#Range) | [Close](Game/Core/Movement#Close) |
 | [Threat](Core/Weapons#Threat) | 1 |
-| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Weapon-Traits#One%20Handed), [Thrown](Game/Core/Weapon-Traits#Thrown), [Area](Game/Core/Weapon-Traits#Area), [Lingering](Game/Core/Weapon-Traits#Lingering), [Disorienting](Game/Core/Weapon-Traits#Disorienting), [Airborne](Game/Core/Weapon-Traits#Airborne) |
+| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Blocks/One-Handed), [Thrown](Game/Core/Blocks/Thrown), [Area](Game/Core/Blocks/Area), [Lingering](Game/Core/Blocks/Lingering), [Disorienting](Game/Core/Blocks/Disorienting), [Airborne](Game/Core/Blocks/Airborne) |

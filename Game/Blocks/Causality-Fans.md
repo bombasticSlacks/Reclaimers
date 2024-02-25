@@ -16,15 +16,15 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | [Rending](Game/Core/Injury#Rending) |
 | [Range](Core/Weapons#Range) | [Reach](Game/Core/Movement#Reach) |
 | [Threat](Core/Weapons#Threat) | 1 |
-| [Weapon Traits](Core/Weapon-Traits) | [Two Handed](Game/Core/Weapon-Traits#Two%20Handed), [Striking](Game/Core/Weapon-Traits#Striking), [Paired](Game/Core/Weapon-Traits#Paired), [Bound](Game/Core/Weapon-Traits#Bound) |
+| [Weapon Traits](Core/Weapon-Traits) | [Two Handed](Game/Core/Blocks/Two-Handed), [Striking](Game/Core/Blocks/Striking), [Paired](Game/Core/Blocks/Paired), [Bound](Game/Core/Blocks/Bound) |
 
 * At the start of combat, and as a free action on each of your turns you roll 1d6 to determine what traits the fans have from the following:
 
 | Roll | Description | [Weapon-Traits](Game/Core/Weapon-Traits) |
 | ---- | ---- | ---- |
-| 1 | The fans levitate on their own protecting you as best they can. | [Shield(2)](Game/Core/Weapon-Traits#Shield(X)) |
-| 2 | The fans stretch and bend through space. | [On Line](Game/Core/Weapon-Traits#On%20Line) |
-| 3 | The fans feel heavy as though their impacts will be massive. | [Strength](Game/Core/Weapon-Traits#Strength) |
-| 4 | The fans have grown thin and seem to writhe like roots. | [Precision](Game/Core/Weapon-Traits#Precision) |
-| 5 | The fans seem incorporeal, almost passing through solid objects. | [Penetrating](Game/Core/Weapon-Traits#Penetrating) |
-| 6 | The fans end in strange clawed hooks that seems to grab and pull at clothing and armour. | [Sundering](Game/Core/Weapon-Traits#Sundering) |
+| 1 | The fans levitate on their own protecting you as best they can. | [Shield(2)](Game/Core/Blocks/Shield) |
+| 2 | The fans stretch and bend through space. | [On Line](Game/Core/Blocks/On-Line) |
+| 3 | The fans feel heavy as though their impacts will be massive. | [Mass](Game/Core/Blocks/Mass) |
+| 4 | The fans have grown thin and seem to writhe like roots. | [Precision](Game/Core/Blocks/Precision) |
+| 5 | The fans seem incorporeal, almost passing through solid objects. | [Penetrating](Game/Core/Blocks/Penetrating) |
+| 6 | The fans end in strange clawed hooks that seems to grab and pull at clothing and armour. | [Sundering](Game/Core/Blocks/Sundering) |

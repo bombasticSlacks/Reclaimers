@@ -12,7 +12,7 @@
 
 | [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 3 |
 | :---- | :---- |
-| [Armour-Traits](Game/Core/Armour-Traits) | [Subtle](Game/Core/Armour-Traits#Subtle) |
+| [Armour-Traits](Game/Core/Armour-Traits) | [Subtle](Game/Core/Blocks/Subtle) |
 
 |                                                            | [Ancillary](Game/Core/Injury#Ancillary) | [Vitals](Game/Core/Injury#Vitals) |
 | ---------------------------------------------------------- | --------------------------------------- | --------------------------------- |

@@ -16,4 +16,4 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | [Rending](Core/Injury#Rending) |
 | [Range](Core/Weapons#Range) | [Reach](Core/Movement#Reach) |
 | [Threat](Core/Weapons#Threat) | 2 |
-| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Core/Weapon-Traits#One%20Handed), [Strength](Core/Weapon-Traits#Strength), [Advanced](Game/Core/Weapon-Traits#Advanced), [Penetrating](Game/Core/Weapon-Traits#Penetrating), [Striking](Game/Core/Weapon-Traits#Striking) |
+| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Blocks/One-Handed), [Mass](Game/Core/Blocks/Mass), [Advanced](Game/Core/Blocks/Advanced), [Penetrating](Game/Core/Blocks/Penetrating), [Striking](Game/Core/Blocks/Striking) |

@@ -16,4 +16,4 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | [Life](Game/Core/Injury#Life) |
 | [Range](Core/Weapons#Range) | [Reach](Game/Core/Movement#Reach) |
 | [Threat](Core/Weapons#Threat) | 1 |
-| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Weapon-Traits#One%20Handed), [Striking](Game/Core/Weapon-Traits#Striking), [Eradicating](Game/Core/Weapon-Traits#Eradicating) |
+| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Blocks/One-Handed), [Striking](Game/Core/Blocks/Striking), [Eradicating](Game/Core/Blocks/Eradicating) |

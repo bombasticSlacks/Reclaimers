@@ -12,7 +12,7 @@
 
 | [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 2 |
 | :---- | :---- |
-| [Armour-Traits](Game/Core/Armour-Traits) | [Reactive](Game/Core/Armour-Traits#Reactive) |
+| [Armour-Traits](Game/Core/Armour-Traits) | [Reactive](Game/Core/Blocks/Reactive) |
 
 |  | [Ancillary](Game/Core/Injury#Ancillary) | [Vitals](Game/Core/Injury#Vitals) |
 | ---- | ---- | ---- |

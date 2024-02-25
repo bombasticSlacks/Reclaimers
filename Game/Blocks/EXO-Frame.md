@@ -12,7 +12,7 @@
 
 | [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 6 |
 | :---- | :---- |
-| [Armour-Traits](Game/Core/Armour-Traits) | [Sealed](Game/Core/Armour-Traits#Sealed), [Mechanized](Game/Core/Armour-Traits#Mechanized) |
+| [Armour-Traits](Game/Core/Armour-Traits) | [Sealed](Game/Core/Blocks/Sealed), [Mechanized](Game/Core/Blocks/Mechanized) |
 
 |  | [Ancillary](Game/Core/Injury#Ancillary) | [Vitals](Game/Core/Injury#Vitals) |
 | ---- | ---- | ---- |

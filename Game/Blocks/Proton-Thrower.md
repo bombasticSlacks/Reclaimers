@@ -16,6 +16,6 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | [Life](Game/Core/Injury#Life) |
 | [Range](Core/Weapons#Range) | [Close](Game/Core/Movement#Close) |
 | [Threat](Core/Weapons#Threat) | 4 |
-| [Weapon Traits](Core/Weapon-Traits) | [Two Handed](Game/Core/Weapon-Traits#Two%20Handed), [Capacity](Game/Core/Weapon-Traits#Capacity(X,%20Type))(5, [Energy](Game/Munition-Details#Energy)), [Loading](Game/Core/Weapon-Traits#Loading(X))(2), [Advanced](Game/Core/Weapon-Traits#Advanced), [Targeted](Game/Core/Weapon-Traits#Targeted) |
+| [Weapon Traits](Core/Weapon-Traits) | [Two Handed](Game/Core/Blocks/Two-Handed), [Capacity](Game/Core/Blocks/Capacity)(5, [Energy](Game/Munition-Details#Energy)), [Loading](Game/Core/Blocks/Loading)(2), [Advanced](Game/Core/Blocks/Advanced), [Targeted](Game/Core/Blocks/Targeted) |
 
-* Against [Other Side](Game/Terms-And-Jargon#Other%20Side) enemies, this weapon also has [Penetrating](Game/Core/Weapon-Traits#Penetrating), [Disorienting](Game/Core/Weapon-Traits#Disorienting), [Devouring](Game/Core/Weapon-Traits#Devouring).
+* Against [External Threats](Game/Hostile-Groups#External%20Threats), this weapon also has [Penetrating](Game/Core/Blocks/Penetrating), [Disorienting](Game/Core/Blocks/Disorienting), [Devouring](Game/Core/Blocks/Devouring).
