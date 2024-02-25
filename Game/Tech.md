@@ -43,6 +43,7 @@ Even a basic Reclaimer has some specialization in their background and additiona
 ![Armourer](Game/Blocks/Armourer)
 ![Drone-Controller](Game/Blocks/Drone-Controller)
 ![Hardlight-Architect](Game/Blocks/Hardlight-Architect)
+![Zero-G-Pilot](Game/Blocks/Zero-G-Pilot)
 
 ## Advancements
 Training the Reclaimer can take as they [Progress](Game/Progress) their career. You can take any advancements as you [Progress](Game/Progress), but some recommendations would be:
