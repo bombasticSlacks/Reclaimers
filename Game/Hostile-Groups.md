@@ -10,7 +10,7 @@ nav_order: 0
 {: .no_toc }
 
 ## External Threats
-Space holds many horrible and unexplainable threats. Things that come from nowhere and fully consume the lives of locals never to be seen again. Given enough time entropy will devour all it’s better not to look too close.
+Space holds many horrible and unexplainable threats. Things that come from nowhere and fully consume the lives of locals never to be seen again. Given enough time entropy will devour all, it’s better not to look too close.
 
 ### Red Eclipse
 Reported centuries ago on a small research station, the "red eclipse" is what the scientists described witnessing in their last log entries. Salvager reports notify that when found, the researchers had butchered and cannibalized each other, creating horrible effigies of rotting meat to some unknown power. Since then, superstitious [Navy](Game/Government#Navy) officers tend to refer to all unexplainable horrors as being the doing of the "Red Eclipse". 
