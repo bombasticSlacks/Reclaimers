@@ -18,7 +18,7 @@ Reported centuries ago on a small research station, the "red eclipse" is what th
 There are plenty of unexplainable and horrible things in the galaxy, terrors beyond our imagination. Most aren't caused by an eclipse, but blaming it helps it to make sense.
 
 ### The Creeper
-An extradimensional threat that influences the minds of humans and corrupts local botanical life. It wishes to influence all beings in our dimension and take them under its control, using all organic matter as food. Usually symbolized as a flower with a giant beak in the centre this terror can create otherworldly homunculi out of plants and imbue powerful humans with great psionic potential and strength if they become part of the collective hive mind.
+An extradimensional threat that influences the minds of humans and corrupts local botanical life. It wishes to influence all beings in our dimension and take them under its control, using all organic matter as food. Usually symbolized as a flower with a giant beak in the centre this terror can create otherworldly homunculi out of plants and imbue powerful humans with great psychic potential and strength if they become part of the collective hive mind.
 
 ## Horrors Of Science
 Humanity without boundaries can create truly terrible things. Some of those can grow to resent their creators.
@@ -34,7 +34,7 @@ The name the military has for a biological weapon designed, presumably by The Fr
 Humans have been killing each other since we have existed, space travel hasn't reduced this occurrence. There is a large collection of factions looking to harm and disrupt [CentGov](Game/Terms-And-Jargon#CentGov) and its people.
 
 ### Coalition Of The God King
-A group of highly advanced humans who have a large cathedral like mega ship that they slowly travel the stars in preaching their religion and attempting to convert local stations (sometimes with great hostility). Truthers come from secret societies that believed the apocalypse was an event from God and that the God King was sent to deliver them to the stars. With a heavy focus on melee and psionic combat, the Coalition of the God King has plenty of power. They are also known to send out small retinues with a preacher and guards, demanding loyalty and tithes.
+A group of highly advanced humans who have a large cathedral like mega ship that they slowly travel the stars on preaching their religion and attempting to convert local stations (sometimes with great hostility). Truthers come from secret societies that believed the apocalypse was an event from God and that the God King was sent to deliver them to the stars. With a heavy focus on melee and psychic combat, the Coalition of the God King has plenty of power. They are also known to send out small retinues with a preacher and guards, demanding loyalty and tithes.
 
 ### Profiteers
 Pirates coming from a history of anarcho-capitalists and military looters. Having stolen and scuttled ships capable of travel they now attempt to increase their reach over the galaxy, sowing chaos and taking anything they want in the process.

@@ -5,7 +5,7 @@ nav_exclude: true
 # Reclaimers
 *A Game About Violence And Control.*
 
-Inspired by PBtA systems, hard sci-fi horror, and the tears in the rain monologue.
+Inspired by PBtA systems, hard science fiction horror, and the **tears in the rain** monologue.
 * Remember to respect the [Code Of Conduct](https://github.com/bombasticSlacks/Aspirant/blob/main/CODE_OF_CONDUCT).
 * If you are going to approach difficult topics, make sure that everyone has [consented](https://www.montecookgames.com/store/product/consent-in-gaming/).
 
