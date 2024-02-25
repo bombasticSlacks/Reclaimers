@@ -18,4 +18,3 @@
 | [Threat](Core/Weapons#Threat) | 3 |
 | [Weapon Traits](Core/Weapon-Traits) | [Two Handed](Game/Core/Blocks/Two-Handed), [Capacity](Game/Core/Blocks/Capacity)(1, [Shells](Game/Munition-Details#Shells)), [Loading](Game/Core/Blocks/Loading)(0), [Shotgun](Game/Core/Blocks/Shotgun), [Launcher](Game/Core/Blocks/Launcher), [Advanced](Game/Core/Blocks/Advanced), [Targeted](Game/Core/Blocks/Targeted) |
 
-* When on [Deployment](Game/Deployment) this weapon has 3 times the usual ammo you would get for [Comestibles](Game/Deployment#Comestibles).

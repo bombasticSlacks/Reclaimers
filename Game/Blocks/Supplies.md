@@ -12,4 +12,4 @@
 
 * [Traits](Game/Core/Gear#Traits): [Charges](Game/Core/Gear#Charges)([Munition Capacity](Game/Additional-Attributes#Munition%20Capacity)).
 * You may spend a charge to have a tool or item that isn't too technical that works until the end of the [Scene](Game/Core/Terminology#Scene) or consumed.
-* Supplies may also be expended to give an extra charge to a piece of [Gear](Game/Core/Gear), extra [Munitions](Game/Core/Gear#Munitions), or to have access to an additional [Comestible](Game/Core/Gear#Comestibles) that you brought on [Deployment](Game/Deployment).
+* Supplies may also be expended to replenish any [Comestibles](Game/Core/Gear#Comestibles) you brought on deployment or replenish a piece of [Gear](Game/Core/Gear) with [Charges](Game/Core/Gear#Charges).
