@@ -1,3 +1,4 @@
+aero
 AGI
 alchemical
 Ambusher
@@ -24,6 +25,7 @@ cantrip
 cantrips
 CentGov
 Ceradelle
+Chancey
 Channeler
 channeling
 config
@@ -35,7 +37,9 @@ Cryptozoologist
 cyclopean
 defenseless
 dojo
+dojos
 Doron
+Doron's
 Dueling
 Duelist
 Dungeoneering
@@ -69,6 +73,7 @@ grappler
 grapplers
 Grav
 hellscape
+hellscapes
 Herbologist
 hewn
 Homebrew
@@ -166,6 +171,7 @@ transhumanist
 Transmuter
 TTRPG
 Unborn
+Unborn's
 undead
 unexplainable
 unmoving
@@ -179,5 +185,6 @@ Vivisector
 Warhammer
 Weaponsmith
 WesCan
+xeno
 XP
 Zweihänder
