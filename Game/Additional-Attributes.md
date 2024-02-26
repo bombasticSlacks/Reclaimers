@@ -34,5 +34,10 @@ A measure of how much horror a person can see before they are no longer fit for 
 
 Max exhaustion is 20.
 
+## Reaction
+A stat spent on [Reacting](Game/Core/Reacting) to the world around you.
+
+You have a maximum number of Reactions equal to your [Agility](Game/Core/Agility).
+
 ## Completed Missions
 Tracks the number of missions you have completed, informs what [Advancements](Game/Progress#Advancements) you can select after each mission.

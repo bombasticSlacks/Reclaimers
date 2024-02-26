@@ -9,5 +9,4 @@
 {: .label .label-green }
 ### Hyper Reflexes
 *You have had massive augments to your motor system installed, making you able to respond to things with lightning speed even while otherwise busy.*
-* You get an addition [Reaction](Game/Core/Reacting#Reaction) during each [Combat Round](Game/Core/Combat#Combat%20Round).
-
+* The first time you would spend a [Reaction](Game/Additional-Attributes#Reaction) during a [Scene](Game/Core/Terminology#Scene), you don't.
