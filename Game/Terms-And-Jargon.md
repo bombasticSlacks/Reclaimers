@@ -2,7 +2,7 @@
 layout: default
 title: Terms And Jargon
 has_children: false
-parent: Telling The Story
+parent: Lore
 grand_parent: 
 nav_order: 0
 ---
