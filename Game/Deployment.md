@@ -12,7 +12,7 @@ nav_order: 0
 Anytime you leave the planet for a mission, this is called deployment. When on deployment, you represent the [CentGov](Game/Terms-And-Jargon#CentGov), and should follow [The Rules Of The Reclaimers](Game/Lore#The%20Rules%20Of%20The%20Reclaimers).
 
 ## Deploying
-During deploying is a great time to jump into [Narrative-Time](Game/Core/Narrative-Time) and role-play interactions between the team, or flashback / montage what [The Players](Game/Core/How-To-Play#The%20Players) have been doing since last deployment.
+During deploying is a great time to jump into [Narrative-Time](Game/Core/Narrative-Time) and role-play interactions between the team, or flashback / montage what each [Player Character](Game/Core/Terminology#Player%20Character) has been doing since last deployment.
 
 When deploying, you will do a few useful things.
 * Be briefed on what information [CentGov](Game/Terms-And-Jargon#CentGov) has on the mission and situation.

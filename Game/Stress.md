@@ -14,4 +14,4 @@ Reclaimers deal with a massive amount of horror and strain in the field, and eve
 Whenever you see something horrible, become afraid of something, do something unethical or make a hard choice, you gain stress. If you do something truly heroic or absolving, you lose stress.
 
 ## Boiling Over
-If you, at any point, gain stress and have stress equal to or greater than your boiling point, you are no longer useful to the scene. The [GM](Game/Core/How-To-Play#GM) and [The Players](Game/Core/How-To-Play#The%20Players) may come up with a unique result or effect for the stress and how it manifests, but as a fallback, it is like the character is [Defeated](Game/Core/Effects#Defeated).
+If you, at any point, gain stress and have stress equal to or greater than your boiling point, you are no longer useful to the scene. The [Game Master](Game/Core/Terminology#Game%20Master) and [Player Characters](Game/Core/Terminology#Player%20Character) may come up with a unique result or effect for the stress and how it manifests, but as a fallback, it is like the character is [Defeated](Game/Core/Effects#Defeated).
