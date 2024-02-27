@@ -1,5 +1,5 @@
 
-[Basic](Game/Basic-List) Or [Expert](Game/Expert-List)
+[Expert](Game/Expert-List)
 {: .label .label-purple }
 
 [Agent](Game/Agent)
