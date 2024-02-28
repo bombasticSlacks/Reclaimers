@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showguides="false"
      inkscape:zoom="1.0877315"
-     inkscape:cx="-317.17386"
-     inkscape:cy="549.30835"
+     inkscape:cx="-659.17002"
+     inkscape:cy="630.21067"
      inkscape:window-width="5054"
      inkscape:window-height="1417"
      inkscape:window-x="2218"
@@ -48,8 +48,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="display:none;fill:#1a1a1a;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
-       d="M 73.459458,18.754176 V 290.91043"
+       style="display:inline;fill:#1a1a1a;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       d="M 72.020546,18.316283 V 290.47254"
        id="path14"
        inkscape:label="Margins"
        sodipodi:insensitive="true" />
@@ -1196,7 +1196,7 @@
     </g>
     <g
        id="g3-2"
-       inkscape:label="Missions Box"
+       inkscape:label="Munitions"
        transform="translate(-0.24499954,2.0690435e-4)">
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.125053"
@@ -1224,7 +1224,7 @@
     </g>
     <g
        id="g3-7"
-       inkscape:label="Missions Box"
+       inkscape:label="Sway"
        transform="translate(-32.839512,2.0690435e-4)">
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.125053"
@@ -1247,7 +1247,8 @@
     </g>
     <g
        id="g4"
-       inkscape:label="Boiling Point">
+       inkscape:label="Boiling Point"
+       transform="translate(0.63457769,-0.2768182)">
       <text
          xml:space="preserve"
          style="font-size:5.64444px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#000000;stroke:#000000;stroke-width:0.264999"
@@ -1281,8 +1282,8 @@
     </g>
     <g
        id="g4-8"
-       inkscape:label="Boiling Point"
-       transform="translate(0,17.052742)">
+       inkscape:label="Power"
+       transform="translate(0.63457769,16.775924)">
       <text
          xml:space="preserve"
          style="font-size:5.64444px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#000000;stroke:#000000;stroke-width:0.264999"
@@ -1316,8 +1317,8 @@
     </g>
     <g
        id="g4-2"
-       inkscape:label="Boiling Point"
-       transform="translate(0,33.361196)">
+       inkscape:label="Reaction"
+       transform="translate(0.63457769,33.084378)">
       <text
          xml:space="preserve"
          style="font-size:5.64444px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#000000;stroke:#000000;stroke-width:0.264999"
@@ -1345,6 +1346,181 @@
          id="text4-2"><tspan
            sodipodi:role="line"
            id="tspan4-2"
+           style="stroke-width:0.400396"
+           x="183.99042"
+           y="46.899261">Max</tspan></text>
+    </g>
+    <g
+       id="g4-2-3"
+       inkscape:label="Supplies"
+       transform="translate(0.63457769,49.392832)">
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#000000;stroke:#000000;stroke-width:0.264999"
+         x="71.725021"
+         y="46.642448"
+         id="text2-1-0-8-3"><tspan
+           sodipodi:role="line"
+           id="tspan2-6-6-9-7"
+           style="fill:#000000;stroke:#000000;stroke-width:0.265"
+           x="71.725021"
+           y="46.642448">Supplies</tspan></text>
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.216012;stroke-dasharray:none;stroke-opacity:1"
+         d="M 71.393407,47.855538 H 202.28097"
+         id="path33-7-43-8" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.216;stroke-dasharray:none;stroke-opacity:1"
+         d="m 174.57913,49.970118 11.38912,-11.98278"
+         id="path33-74-7-2" />
+      <text
+         xml:space="preserve"
+         style="font-size:10.463px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ececec;stroke:#ececec;stroke-width:0.400396;stroke-dasharray:none"
+         x="183.99042"
+         y="46.899261"
+         id="text4-2-0"><tspan
+           sodipodi:role="line"
+           id="tspan4-2-4"
+           style="stroke-width:0.400396"
+           x="183.99042"
+           y="46.899261">Max</tspan></text>
+    </g>
+    <g
+       id="g4-2-3-6"
+       inkscape:label="Blank"
+       transform="translate(0.63457769,67.15093)">
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#000000;stroke:#000000;stroke-width:0.264999"
+         x="71.725021"
+         y="46.642448"
+         id="text2-1-0-8-3-2"><tspan
+           sodipodi:role="line"
+           id="tspan2-6-6-9-7-5"
+           style="fill:#000000;stroke:#000000;stroke-width:0.265"
+           x="71.725021"
+           y="46.642448" /></text>
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.216012;stroke-dasharray:none;stroke-opacity:1"
+         d="M 71.393407,47.855538 H 202.28097"
+         id="path33-7-43-8-5" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.216;stroke-dasharray:none;stroke-opacity:1"
+         d="m 174.57913,49.970118 11.38912,-11.98278"
+         id="path33-74-7-2-3" />
+      <text
+         xml:space="preserve"
+         style="font-size:10.463px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ececec;stroke:#ececec;stroke-width:0.400396;stroke-dasharray:none"
+         x="183.99042"
+         y="46.899261"
+         id="text4-2-0-5"><tspan
+           sodipodi:role="line"
+           id="tspan4-2-4-1"
+           style="stroke-width:0.400396"
+           x="183.99042"
+           y="46.899261">Max</tspan></text>
+    </g>
+    <g
+       id="g4-2-3-6-7"
+       inkscape:label="Blank"
+       transform="translate(0.627139,86.000355)">
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#000000;stroke:#000000;stroke-width:0.264999"
+         x="71.725021"
+         y="46.642448"
+         id="text2-1-0-8-3-2-2"><tspan
+           sodipodi:role="line"
+           id="tspan2-6-6-9-7-5-1"
+           style="fill:#000000;stroke:#000000;stroke-width:0.265"
+           x="71.725021"
+           y="46.642448" /></text>
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.216012;stroke-dasharray:none;stroke-opacity:1"
+         d="M 71.393407,47.855538 H 202.28097"
+         id="path33-7-43-8-5-9" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.216;stroke-dasharray:none;stroke-opacity:1"
+         d="m 174.57913,49.970118 11.38912,-11.98278"
+         id="path33-74-7-2-3-5" />
+      <text
+         xml:space="preserve"
+         style="font-size:10.463px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ececec;stroke:#ececec;stroke-width:0.400396;stroke-dasharray:none"
+         x="183.99042"
+         y="46.899261"
+         id="text4-2-0-5-6"><tspan
+           sodipodi:role="line"
+           id="tspan4-2-4-1-6"
+           style="stroke-width:0.400396"
+           x="183.99042"
+           y="46.899261">Max</tspan></text>
+    </g>
+    <g
+       id="g4-2-3-6-2"
+       inkscape:label="Blank"
+       transform="translate(0.76136625,104.84978)">
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#000000;stroke:#000000;stroke-width:0.264999"
+         x="71.725021"
+         y="46.642448"
+         id="text2-1-0-8-3-2-7"><tspan
+           sodipodi:role="line"
+           id="tspan2-6-6-9-7-5-18"
+           style="fill:#000000;stroke:#000000;stroke-width:0.265"
+           x="71.725021"
+           y="46.642448" /></text>
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.216012;stroke-dasharray:none;stroke-opacity:1"
+         d="M 71.393407,47.855538 H 202.28097"
+         id="path33-7-43-8-5-5" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.216;stroke-dasharray:none;stroke-opacity:1"
+         d="m 174.57913,49.970118 11.38912,-11.98278"
+         id="path33-74-7-2-3-9" />
+      <text
+         xml:space="preserve"
+         style="font-size:10.463px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ececec;stroke:#ececec;stroke-width:0.400396;stroke-dasharray:none"
+         x="183.99042"
+         y="46.899261"
+         id="text4-2-0-5-5"><tspan
+           sodipodi:role="line"
+           id="tspan4-2-4-1-5"
+           style="stroke-width:0.400396"
+           x="183.99042"
+           y="46.899261">Max</tspan></text>
+    </g>
+    <g
+       id="g4-2-3-6-5"
+       inkscape:label="Blank"
+       transform="translate(0.627139,123.66375)">
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#000000;stroke:#000000;stroke-width:0.264999"
+         x="71.725021"
+         y="46.642448"
+         id="text2-1-0-8-3-2-0"><tspan
+           sodipodi:role="line"
+           id="tspan2-6-6-9-7-5-9"
+           style="fill:#000000;stroke:#000000;stroke-width:0.265"
+           x="71.725021"
+           y="46.642448" /></text>
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.216012;stroke-dasharray:none;stroke-opacity:1"
+         d="M 71.393407,47.855538 H 202.28097"
+         id="path33-7-43-8-5-4" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.216;stroke-dasharray:none;stroke-opacity:1"
+         d="m 174.57913,49.970118 11.38912,-11.98278"
+         id="path33-74-7-2-3-92" />
+      <text
+         xml:space="preserve"
+         style="font-size:10.463px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ececec;stroke:#ececec;stroke-width:0.400396;stroke-dasharray:none"
+         x="183.99042"
+         y="46.899261"
+         id="text4-2-0-5-51"><tspan
+           sodipodi:role="line"
+           id="tspan4-2-4-1-0"
            style="stroke-width:0.400396"
            x="183.99042"
            y="46.899261">Max</tspan></text>
