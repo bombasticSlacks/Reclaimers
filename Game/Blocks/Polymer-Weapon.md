@@ -17,5 +17,6 @@
 | [Range](Core/Weapons#Range) | [Reach](Game/Core/Movement#Reach) |
 | [Threat](Core/Weapons#Threat) | 1 |
 | [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Blocks/One-Handed), [Mass](Game/Core/Blocks/Mass), [Striking](Game/Core/Blocks/Striking) |
+
 * When you go on [Deployment](Game/Deployment) declare what type of damage from [Rending](Game/Core/Injury#Rending), [Piercing](Game/Core/Injury#Piercing), or [Impact](Game/Core/Injury#Impact) and what it looks like.
 
