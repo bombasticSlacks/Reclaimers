@@ -5,5 +5,6 @@
 .obsidian/plugins
 .obsidian/core-plugins.json
 .obsidian/core-plugins-migration.json
+.obsidian/app.json
 TODO.md
 Secret-Plans.md
