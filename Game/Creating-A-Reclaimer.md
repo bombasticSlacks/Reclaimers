@@ -22,10 +22,9 @@ You should have an answer for these things before continuing:
 ## Determine Your Attributes
 *Even before you became a Reclaimer, you were gifted, additional cybernetics and training have further increased that power.*
 
-Assign your [Attributes](Game/Core/Attributes) placing one of the two sets of values in each of the 5 attributes.
-* **4,3,2,2,2** or **3,3,3,2,2**
+Assign your [Attributes](Game/Core/Attributes) with values of 4, 3, 3, 2, and 2.
 
-> So, 4 [Strength](Core/Strength), 3 [Agility](Core/Agility), 2 [Intelligence](Core/Intelligence), 2 [Spirit](Core/Spirit), 2 [Communication](Core/Communication) is a valid set of attributes.
+> So, 4 [Strength](Core/Strength), 3 [Agility](Core/Agility), 3 [Intelligence](Core/Intelligence), 2 [Spirit](Core/Spirit), 2 [Communication](Core/Communication) is a valid set of attributes.
 
 
 ## Origin
