@@ -52,11 +52,12 @@ Training the Reclaimer can take as they [Progress](Game/Progress) their career. 
 
 ![Adrenaline-Nanites](Game/Blocks/Adrenaline-Nanites)
 ![Backpack-Ammo-Supply](Game/Blocks/Backpack-Ammo-Supply)
+![Charger](Game/Blocks/Charger)
 ![GunCam-HUD](Game/Blocks/GunCam-HUD)
+![Hair-Trigger](Game/Blocks/Hair-Trigger)
 ![Marksman](Game/Blocks/Marksman)
 ![Mega-Muscle-Implants](Game/Blocks/Mega-Muscle-Implants)
 ![Peoples-Champion](Game/Blocks/Peoples-Champion)
 ![Point-Man](Game/Blocks/Point-Man)
 ![Second-Skin](Game/Blocks/Second-Skin)
 ![Weapon-Expert](Game/Blocks/Weapon-Expert)
-

@@ -5,7 +5,7 @@
 [Sleuth](Game/Sleuth)
 {: .label .label-blue }
 
-[Team](Game/Team-List)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Takedown Drills
 *You've trained your team to be experts in bringing down even the most hardy targets.*

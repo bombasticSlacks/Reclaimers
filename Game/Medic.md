@@ -51,7 +51,7 @@ Training the Reclaimer can take as they [Progress](Game/Progress) their career. 
 
 ![Auto-Doc](Game/Blocks/Auto-Doc)
 ![Bedside-Manner](Game/Blocks/Bedside-Manner)
-![Doctors-Eye](Game/Blocks/Doctors-Eye)
+![Med-HUD](Game/Blocks/Med-HUD)
 ![Enduring](Game/Blocks/Enduring)
 ![Playing-God](Game/Blocks/Playing-God)
 ![Reassuring-Shout](Game/Blocks/Reassuring-Shout)

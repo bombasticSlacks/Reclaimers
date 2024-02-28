@@ -5,7 +5,7 @@
 [Mystic](Game/Mystic)
 {: .label .label-blue }
 
-[Team](Game/Team-List)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Mind Guarding
 *You've trained your team extensively to be resolute in the face of terror, and to be sure of themselves.*

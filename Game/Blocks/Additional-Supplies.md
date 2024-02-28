@@ -5,7 +5,7 @@
 [Psych](Game/Psych)
 {: .label .label-blue }
 
-[Team](Game/Team-List)
+[Modification](Game/Modification-List)
 {: .label .label-green }
 ### Additional Supplies
 *You've negotiated additional supplies for your team.*
