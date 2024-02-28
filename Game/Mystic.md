@@ -60,3 +60,4 @@ Training the Reclaimer can take as they [Progress](Game/Progress) their career. 
 ![Spiritual-Warding](Game/Blocks/Spiritual-Warding)
 ![Telekinesis](Game/Blocks/Telekinesis)
 ![Tingles](Game/Blocks/Tingles)
+![Dead-Tales](Game/Blocks/Dead-Tales)

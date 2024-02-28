@@ -5,7 +5,7 @@
 [Agent](Game/Agent)
 {: .label .label-blue }
 
-[Team](Game/Team-List)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Guerrilla Counter Tactics
 *You've trained your team extensively to avoid traps at all costs.*

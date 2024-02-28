@@ -5,7 +5,7 @@
 [Soldier](Game/Soldier)
 {: .label .label-blue }
 
-[Team](Game/Team-List)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Second Skin
 *Drilling in heavy armour and gear has led your team to get much more effective in the field while wearing armour.*

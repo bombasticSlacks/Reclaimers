@@ -5,7 +5,7 @@
 [Medic](Game/Medic)
 {: .label .label-blue }
 
-[Team](Game/Team-List)
+[Training](Game/Training-List)
 {: .label .label-green }
 ### Enduring
 *You've walked your team through emergency injury drills, they know how to handle pain and are reassured you will take care of them.*

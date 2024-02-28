@@ -40,4 +40,5 @@ IPC tend to use an alphanumeric designation as a name.
 
 ## Cultural Advancements
 ![Catastrophe-Protocol](Game/Blocks/Catastrophe-Protocol)
+![Stabilization-System](Game/Blocks/Stabilization-System)
 ![Universal-Translator](Game/Blocks/Universal-Translator)

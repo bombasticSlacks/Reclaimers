@@ -53,9 +53,9 @@ Training the Reclaimer can take as they [Progress](Game/Progress) their career. 
 ![Assassinate](Game/Blocks/Assassinate)
 ![Carbide-Fists](Game/Blocks/Carbide-Fists)
 ![Chameleon-Skin](Game/Blocks/Chameleon-Skin)
+![Feline-Flexibility](Game/Blocks/Feline-Flexibility)
 ![Guerrilla-Counter-Tactics](Game/Blocks/Guerrilla-Counter-Tactics)
 ![Hyper-Reflexes](Game/Blocks/Hyper-Reflexes)
 ![Shadow-Combatant](Game/Blocks/Shadow-Combatant)
 ![Silencers-And-Dampeners](Game/Blocks/Silencers-And-Dampeners)
 ![Tour-Guide](Game/Blocks/Tour-Guide)
-
