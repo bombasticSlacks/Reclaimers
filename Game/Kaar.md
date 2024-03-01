@@ -9,10 +9,10 @@ nav_order: 0
 # Kaar
 {: .no_toc }
 
-Kaar (keɪ ɑː) are strange fungal humanoids from another [Earth](Game/Earth)-like planet that were elevated and integrated into human society. They have greyish green porous skin with a single cyclopean eye in the middle of an otherwise featureless "face". They have harsh voices and an imposing presence, leading some people to fear them. Furthermore, they are resilient and dutiful, with a culture heavily based around honour. Traditionally, they are used as shock troopers, miners, and labourers, but aside from bias in management, they make fine STEM workers. 
+Kaar ([keɪ ɑː](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)) are strange fungal humanoids from another [Earth](Game/Earth)-like planet that were elevated and integrated into human society. They have greyish green porous skin with a single cyclopean eye in the middle of an otherwise featureless "face". They have harsh voices and an imposing presence, leading some people to fear them. Furthermore, they are resilient and dutiful, with a culture heavily based around honour. Traditionally, they are used as shock troopers, miners, and labourers, but aside from bias in management, they make fine STEM workers. 
 
 ## Details
-* Heights between 6' and 7' tall.
+* Are taller than most humans.
 * Weigh less than a human of similar size.
 
 ### Cultural Names

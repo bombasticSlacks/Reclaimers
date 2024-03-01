@@ -9,10 +9,10 @@ nav_order: 0
 # Prole
 {: .no_toc }
 
-Prole (ˌprəʊl) is the self-assigned descriptor for humans who were born as [Citizens](Game/Terms-And-Jargon#Citizen) and have worked for [CentGov](Game/Terms-And-Jargon#CentGov) their entire life. Proles are dutiful workers and, though their experiences differ, relate well to one another as they all toil for the same cause.
+Prole ([ˌprəʊl](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)) is the self-assigned descriptor for humans who were born as [Citizens](Game/Terms-And-Jargon#Citizen) and have worked for [CentGov](Game/Terms-And-Jargon#CentGov) their entire life. Proles are dutiful workers and, though their experiences differ, relate well to one another as they all toil for the same cause.
 
 ## Details
-* Heights between 4'9" and 6'5".
+* Heights are that of humans.
 * Weigh that of a human of their size.
 
 ### Cultural Names
