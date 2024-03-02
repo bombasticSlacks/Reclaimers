@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-#adds blocks to a provided index
-#arg 1: the file to add to
-#arg 2: the tag to look for
+# adds blocks to a provided index
+# arg 1: the file to add to
+# arg 2: the tag to look for
 import os
 import sys
 
@@ -28,9 +28,9 @@ for block in blocks:
         with open(address, 'r') as f:
             # Wrap our block with some HTML
             contents = f.read()
-        #if the block has the tag add it to the other file
-        if(lookFor in contents):
-            fileContents += f'![{name}](/Blocks/{name})\n'
+        # if the block has the tag add it to the other file
+        if (lookFor in contents):
+            fileContents += f'![{name}]({dir}/{name})\n'
 
 # Replace the file
 with open(file, 'w') as fileBuffer:
