@@ -16,7 +16,7 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | [Heat](Game/Core/Injury#Heat) |
 | [Range](Core/Weapons#Range) | [Close](Game/Core/Movement#Close) |
 | [Threat](Core/Weapons#Threat) | 1 |
-| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Blocks/One-Handed), [Capacity](Game/Core/Blocks/Capacity)(5, [Plasma](Game/Munition-Details#Plasma)), [Loading](Game/Core/Blocks/Loading)(1), [Precision](Game/Core/Blocks/Precision), [Penetrating](Game/Core/Blocks/Penetrating), [Close-Quarters](Game/Core/Blocks/Close-Quarters) |
+| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Blocks/One-Handed), [Capacity](Game/Core/Blocks/Capacity)(4, [Plasma](Game/Munition-Details#Plasma)), [Loading](Game/Core/Blocks/Loading)(1), [Precision](Game/Core/Blocks/Precision), [Penetrating](Game/Core/Blocks/Penetrating), [Close-Quarters](Game/Core/Blocks/Close-Quarters) |
 
 
 * This weapon can be used to perform welding and cut through metal.

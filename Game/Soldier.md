@@ -31,7 +31,7 @@ Equipment readily available to you when you deploy to the field. Remember, you c
 ### Weapons
 [Deploy](Game/Deployment) With Up To 2
 ![Gauss-Gun](Game/Blocks/Gauss-Gun)
-![Vibro-CQW](Game/Blocks/Vibro-CQW)
+![Vibro-Weapon](Game/Blocks/Vibro-Weapon)
 ### Armour
 [Deploy](Game/Deployment) With Up To 1
 ![Combat-Armour](Game/Blocks/Combat-Armour)

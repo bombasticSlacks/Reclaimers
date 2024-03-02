@@ -16,4 +16,4 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | [Heat](Core/Injury#Heat) |
 | [Range](Core/Weapons#Range) | [Short](Core/Movement#Short) |
 | [Threat](Core/Weapons#Threat) | 4 |
-| [Weapon Traits](Core/Weapon-Traits) | [Two Handed](Game/Core/Blocks/Two-Handed), [Capacity](Core/Weapon-Traits#Capacity(X,%20Type))(5, [Energy](Munition-Details#Energy)), [Loading](Game/Core/Blocks/Loading)(2), [Area](Game/Core/Blocks/Area), [Advanced](Game/Core/Blocks/Advanced), [Targeted](Game/Core/Blocks/Targeted) |
+| [Weapon Traits](Core/Weapon-Traits) | [Two Handed](Game/Core/Blocks/Two-Handed), [Capacity](Core/Weapon-Traits#Capacity(X,%20Type))(4, [Energy](Munition-Details#Energy)), [Loading](Game/Core/Blocks/Loading)(2), [Area](Game/Core/Blocks/Area), [Advanced](Game/Core/Blocks/Advanced), [Targeted](Game/Core/Blocks/Targeted) |
