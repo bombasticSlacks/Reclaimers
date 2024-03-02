@@ -37,6 +37,6 @@ Traditionalists tend to look like modern humans, with minor to major deformation
 * Outsiders are humans, and their gender expression is as varied as can be imagined.
 * They can generally reproduce.
 
-## Cultural Advancements
+## Recommended Advancements
 ![Ascetic](Game/Blocks/Ascetic)
 ![Strider](Game/Blocks/Strider)

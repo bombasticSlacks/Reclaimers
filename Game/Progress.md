@@ -36,7 +36,6 @@ More standard advancements that your character will gain a few of as they progre
 ### Expert
 More meaningful and powerful advancements that will give your characters large increases in power.
 
-
 ### Types of Advancements
 Advancements come in a number of forms, which describe where your new-found power derives from. These are:
 #### Training
@@ -47,9 +46,6 @@ You have undergone some augmentation, whether it be mutation, transformation, or
 
 #### Modification
 Your [Equipment](Game/Core/Equipment) has been customized to perform an additional task.
-
-#### Team
-You have trained or equipped your team with additional power.
 
 #### Specialization
 You have taken further specialization, providing you with additional gear access.

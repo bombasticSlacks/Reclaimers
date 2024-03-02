@@ -35,7 +35,7 @@ They are non-gendered fungus and reproduce through spores. Though, some Kaar wil
 
 All space faring Kaar are neutered to avoid uncontrollable spreading and circulation of spores.
 
-## Cultural Advancements
+## Recommended Advancements
 
 ![Mycellian](Game/Blocks/Mycellian)
 ![Praetorian](Game/Blocks/Praetorian)

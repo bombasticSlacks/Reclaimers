@@ -37,6 +37,6 @@ Scientists called these entities Envoys, and through education on free will and 
 * Envoys have no reproductive organs.
 * Envoys primarily use she/her pronouns, though individuals with different experience or past prejudice may choose different.
 
-## Cultural Advancements
+## Recommended Advancements
 ![Composure](Game/Blocks/Composure)
 ![Unstuck](Game/Blocks/Unstuck)

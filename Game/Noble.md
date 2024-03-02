@@ -35,7 +35,7 @@ First name with a notable family name.
 * Proles are humans and their gender expression is as varied as can be imagined.
 * They can generally reproduce.
 
-## Cultural Advancements
+## Recommended Advancements
 ![External-Funding](Game/Blocks/External-Funding)
 ![Good-Breeding](Game/Blocks/Good-Breeding)
 

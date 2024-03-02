@@ -8,6 +8,6 @@
 [Training](Game/Training-List)
 {: .label .label-green }
 ### Multitasker
-*You can pull yourself in two seperate directions.*
-* Rules
+*You can pull yourself in two separate directions.*
+* You may spend 3 [Power](Game/Additional-Attributes#Power) to perform another [Action](Game/Core/Terminology#Action) after performing an [Action](Game/Core/Terminology#Action).
 

@@ -32,6 +32,6 @@ Unborn ([ʌnˈbɔːn](https://en.wikipedia.org/wiki/International_Phonetic_Alpha
 * Most Unborn can reproduce in theory, though in practice it may not work out.
 * Unborn can have various secondary sex characteristics and may present as any gender.
 
-## Cultural Advancements
+## Recommended Advancements
 ![Primal-Power](Game/Blocks/Primal-Power)
 ![Vermin-Speaker](Game/Blocks/Vermin-Speaker)

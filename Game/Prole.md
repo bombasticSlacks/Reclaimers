@@ -33,6 +33,6 @@ Prole ([ˌprəʊl](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet
 * Proles are humans and their gender expression is as varied as can be imagined.
 * They can generally reproduce.
 
-## Cultural Advancements
+## Recommended Advancements
 ![Official](Game/Blocks/Official)
 ![Peoples-Fury](Game/Blocks/Peoples-Fury)
