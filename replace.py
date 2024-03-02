@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-#embeds md blocks
+# embeds md blocks
 import os
 import subprocess
 import sys
@@ -21,7 +21,8 @@ for block in os.listdir(dir):
             contents += '\n\n</div>'
 
         # find the relevant files
-        result = subprocess.run(["grep", "-r", "-l", f"--regexp=!\[{name}](\/Blocks\/{name})", "Game/"], capture_output=True, text=True)
+        result = subprocess.run(
+            ["grep", "-r", "-l", f"--regexp=!\[{name}]({dir}/{name})", "Game/"], capture_output=True, text=True)
         files = result.stdout.split("\n")
         # remove last empty entry
         files.pop()
@@ -32,9 +33,9 @@ for block in os.listdir(dir):
                 fileContents = fileBuffer.read()
 
             # Replace the strings
-            fileContents = fileContents.replace(f'![{name}](/Blocks/{name})', contents)
-        
+            fileContents = fileContents.replace(
+                f'![{name}](/Blocks/{name})', contents)
+
             # Replace the file
             with open(fi, 'w') as fileBuffer:
                 fileBuffer.write(fileContents)
-
