@@ -7,7 +7,7 @@
 
 [Requisition 2](Game/Deployment#Requisition)
 {: .label .label-yellow }
-#### Vibro CQW
+#### Vibro Weapon
 *A traditional close quarters weapon lovingly crafted using standardized military technology to vibrate the striking edge at a speed that will allow it to easily break through or disrupt the integrity of even modern military armour and flesh.*
 
 | Default [Damage](Core/Weapons#Calculating%20Damage) | 2(-2 + [Strength](Game/Core/Strength)) |

@@ -42,7 +42,7 @@ Your [Origin](Game/Creating-A-Reclaimer#Origin) will explain what gear you have 
 
 Your total number of available requisition points is equal to your [Sway](Game/Additional-Attributes#Sway) + [Severity](#Severity).
 
-> So a character with 2 [Sway](Game/Additional-Attributes#Sway) on a level 1 mission could requisition 3 points. If they were military, they could depart with a: [Vibro-CQW](Game/Blocks/Vibro-CQW) (2 points), [Handgun](Game/Blocks/Handgun) (0 points), [Plate-Carrier](Game/Blocks/Plate-Carrier) (0 points), and [IFAK](Game/Blocks/IFAK) (1 point)
+> So a character with 2 [Sway](Game/Additional-Attributes#Sway) on a level 1 mission could requisition 3 points. If they were military, they could depart with a: [Vibro-Weapon](Game/Blocks/Vibro-Weapon) (2 points), [Handgun](Game/Blocks/Handgun) (0 points), [Plate-Carrier](Game/Blocks/Plate-Carrier) (0 points), and [IFAK](Game/Blocks/IFAK) (1 point)
 
 
 #### Multiple Requisitions

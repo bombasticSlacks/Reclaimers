@@ -17,4 +17,4 @@
 | [Damage Type](Core/Weapons#Damage%20Type) | [Piercing](Core/Injury#Piercing) |
 | [Range](Core/Weapons#Range) | [Short](Core/Movement#Short) |
 | [Threat](Core/Weapons#Threat) | 4 |
-| [Weapon Traits](Core/Weapon-Traits) | [Two Handed](Game/Core/Blocks/Two-Handed), [Capacity](Core/Weapon-Traits#Capacity(X,%20Type))(20, [Dowels](Munition-Details#Dowels)), [Loading](Game/Core/Blocks/Loading)(2), [Sundering](Game/Core/Blocks/Sundering), [Automatic](Game/Core/Blocks/Automatic), [Advanced](Game/Core/Blocks/Advanced), [Targeted](Game/Core/Blocks/Targeted) |
+| [Weapon Traits](Core/Weapon-Traits) | [Two Handed](Game/Core/Blocks/Two-Handed), [Capacity](Core/Weapon-Traits#Capacity(X,%20Type))(12, [Dowels](Munition-Details#Dowels)), [Loading](Game/Core/Blocks/Loading)(2), [Sundering](Game/Core/Blocks/Sundering), [Automatic](Game/Core/Blocks/Automatic), [Advanced](Game/Core/Blocks/Advanced), [Targeted](Game/Core/Blocks/Targeted) |
