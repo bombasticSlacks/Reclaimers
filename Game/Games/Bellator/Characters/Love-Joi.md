@@ -1,3 +1,6 @@
+---
+nav_exclude: true
+---
 ## L0V3 J01
 ### Description
 *Joy has a sleek, white, and well polished chassis, and rich black joints reminiscent of ball-jointed dolls. Her body, while lacking traditional humanoid gender markers, is frequently read with a feminine lens, due to its gentle curvature and slight frame. Her face is flat and black, with information being displayed in a neon blue dot matrix. She typically doesn’t wear clothing for warmth or decorative purposes, though will readily equip items for protection or function in the laboratory. She has a gentle demeanour and is normally pleasant, but has poor bedside manner and a detached idea of death and illness.*
