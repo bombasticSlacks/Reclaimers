@@ -34,7 +34,7 @@ for block in os.listdir(dir):
 
             # Replace the strings
             fileContents = fileContents.replace(
-                f'![{name}](/Blocks/{name})', contents)
+                f'![{name}]({dir}/{name})', contents)
 
             # Replace the file
             with open(fi, 'w') as fileBuffer:
