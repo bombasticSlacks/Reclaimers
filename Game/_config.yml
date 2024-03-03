@@ -16,6 +16,9 @@ gh_edit_branch: "main/Game" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
+mermaid:
+  version: "9.1.3"
+
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2
