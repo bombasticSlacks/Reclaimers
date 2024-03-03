@@ -2,7 +2,7 @@
 layout: default
 title: Players 
 has_children: true
-parent: 
+parent: Bellator
 grand_parent: 
 nav_order: 0
 ---
