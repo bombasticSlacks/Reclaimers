@@ -1,15 +1,13 @@
 Fodder
-{: .label .label-green }
-### Name
+{: .label .label-purple }
+
+Faction List
+{: .label .label-blue }
+## Name
 *Description.*
 
-| Initiative | Move | Threat | Integrity | Weakness | Resistance |
-| ---------- | ---- | ------ | --------- | -------- | ---------- |
-|            |      |        | -         | -        | -          | 
+| Move | Threat | Integrity | Weakness | Resistance |
+| ---- | ------ | --------- | -------- | ---------- |
+|      |        | -         | -        | -          |
 
 * [Attack(X, Y, Z)](Game/Core/Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
-
-#### Rewards
-{: .no_toc }
-* Reward
----

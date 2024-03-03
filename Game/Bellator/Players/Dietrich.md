@@ -9,6 +9,8 @@ nav_order: 0
 # Dietrich
 {: .no_toc }
 
+A [Sleuth](Game/Sleuth) [Interrogator](Game/Blocks/Interrogator).
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -20,7 +22,10 @@ nav_order: 0
 
 
 ## Details
-DESCRIPTION HERE
+Dietrich is a tall, bony woman with pale skin, sharp features, high cheekbones, and a large, hooked nose. Her hair is thin, pin straight, and jet black, and her eyes are grey-blue, with perpetually small pupils. She wears a stern expression by default.
+
+Most notable about her appearance is the small black feathers protruding sporadically from her skin like freckles down her arms and legs, and clustered thickly over her back.
+
 
 ## Weapons (Select Up To 2)
 ![Break-Action-Driver](Game/Blocks/Break-Action-Driver)
