@@ -1,16 +1,14 @@
 Elite
-{: .label .label-yellow }
+{: .label .label-purple }
+
+Label
+{: .label .label-blue }
 ### Name
 *Description.*
 
-| Initiative | Move | Threat | Integrity | Weakness | Resistance |
-| ---------- | ---- | ------ | --------- | -------- | ---------- |
-|            |      |        |           |          |            |
+| Move | Threat | Integrity | Weakness | Resistance |
+| ---- | ------ | --------- | -------- | ---------- |
+|      |        |           |          |            |
 
-* [Attack(X, Y, Z)](Game/Core/Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
-* [Avoid(X)](Game/Core/Character-Actions#Avoid(X))
-
-#### Rewards
-{: .no_toc }
-* Reward
----
+* [Attack](Game/Core/Blocks/Attack)(+X, TYPE, DAM)
+* [Reaction](Game/Core/Blocks/Reaction)(+X, 1)
