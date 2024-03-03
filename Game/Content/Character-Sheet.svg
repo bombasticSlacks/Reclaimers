@@ -24,12 +24,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showguides="false"
-     inkscape:zoom="1.0877315"
-     inkscape:cx="-659.17002"
-     inkscape:cy="630.21067"
-     inkscape:window-width="5054"
+     inkscape:zoom="1.5382846"
+     inkscape:cx="788.86571"
+     inkscape:cy="331.86316"
+     inkscape:window-width="5053"
      inkscape:window-height="1417"
-     inkscape:window-x="2218"
+     inkscape:window-x="2219"
      inkscape:window-y="1357"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
@@ -78,28 +78,29 @@
        inkscape:label="Seperator" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Consolas;-inkscape-font-specification:Consolas;direction:rtl;fill:#f2f2f2;stroke:#f2f2f2;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-       x="203.49167"
-       y="18.621885"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8229px;font-family:Consolas;-inkscape-font-specification:Consolas;direction:rtl;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.185023;stroke-dasharray:none;stroke-opacity:1"
+       x="199.03084"
+       y="18.804195"
        id="text1"
-       inkscape:label="Class Name"><tspan
+       inkscape:label="Class Name"
+       transform="scale(1.0204397,0.97996972)"><tspan
          sodipodi:role="line"
          id="tspan1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;direction:rtl;fill:#f2f2f2;stroke:#f2f2f2;stroke-width:0.265;stroke-dasharray:none"
-         x="203.49167"
-         y="18.621885">CLASS NAME</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;direction:rtl;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.185023;stroke-dasharray:none"
+         x="199.03084"
+         y="18.804195">CLASS NAME</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#f2f2f2;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
-       x="6.5083199"
-       y="18.621885"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+       x="5.9848728"
+       y="18.390165"
        id="text1-4"
        inkscape:label="Name"><tspan
          sodipodi:role="line"
          id="tspan1-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.265;stroke-dasharray:none;fill:#f2f2f2;stroke:none"
-         x="6.5083199"
-         y="18.621885">Name</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.265;stroke-dasharray:none"
+         x="5.9848728"
+         y="18.390165">Name</tspan></text>
     <g
        id="g38"
        inkscape:label="Gear"
@@ -246,98 +247,98 @@
        transform="translate(-4.8648648)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.1184px;font-family:Consolas;-inkscape-font-specification:Consolas;direction:ltr;fill:none;stroke:#000000;stroke-width:0.146405;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.1184px;font-family:Consolas;-inkscape-font-specification:Consolas;direction:ltr;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.146405;stroke-dasharray:none;stroke-opacity:1"
          x="50.626625"
          y="35.310032"
          id="text38"
          transform="scale(0.959494,1.042216)"><tspan
            sodipodi:role="line"
            id="tspan38"
-           style="fill:#ececec;stroke:#ececec;stroke-width:0.146405"
+           style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.146405"
            x="50.626625"
            y="35.310032">Assign</tspan><tspan
            sodipodi:role="line"
-           style="fill:#ececec;stroke:#ececec;stroke-width:0.146405"
+           style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.146405"
            x="50.626625"
            y="39.208031"
            id="tspan39">2,2,3,3,4</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.1184px;font-family:Consolas;-inkscape-font-specification:Consolas;direction:ltr;fill:none;stroke:#000000;stroke-width:0.146405;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.1184px;font-family:Consolas;-inkscape-font-specification:Consolas;direction:ltr;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.146405;stroke-dasharray:none;stroke-opacity:1"
          x="50.626625"
          y="69.359886"
          id="text38-3"
          transform="scale(0.959494,1.042216)"><tspan
            sodipodi:role="line"
            id="tspan38-6"
-           style="fill:#ececec;stroke:#ececec;stroke-width:0.146405"
+           style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.146405"
            x="50.626625"
            y="69.359886">Assign</tspan><tspan
            sodipodi:role="line"
-           style="fill:#ececec;stroke:#ececec;stroke-width:0.146405"
+           style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.146405"
            x="50.626625"
            y="73.257889"
            id="tspan39-4">2,2,3,3,4</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.1184px;font-family:Consolas;-inkscape-font-specification:Consolas;direction:ltr;fill:none;stroke:#000000;stroke-width:0.146405;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.1184px;font-family:Consolas;-inkscape-font-specification:Consolas;direction:ltr;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.146405;stroke-dasharray:none;stroke-opacity:1"
          x="50.626625"
          y="103.40974"
          id="text38-6"
          transform="scale(0.959494,1.042216)"><tspan
            sodipodi:role="line"
            id="tspan38-3"
-           style="fill:#ececec;stroke:#ececec;stroke-width:0.146405"
+           style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.146405"
            x="50.626625"
            y="103.40974">Assign</tspan><tspan
            sodipodi:role="line"
-           style="fill:#ececec;stroke:#ececec;stroke-width:0.146405"
+           style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.146405"
            x="50.626625"
            y="107.30774"
            id="tspan39-5">2,2,3,3,4</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.1184px;font-family:Consolas;-inkscape-font-specification:Consolas;direction:ltr;fill:none;stroke:#000000;stroke-width:0.146405;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.1184px;font-family:Consolas;-inkscape-font-specification:Consolas;direction:ltr;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.146405;stroke-dasharray:none;stroke-opacity:1"
          x="50.626625"
          y="137.45959"
          id="text38-4"
          transform="scale(0.959494,1.042216)"><tspan
            sodipodi:role="line"
            id="tspan38-9"
-           style="fill:#ececec;stroke:#ececec;stroke-width:0.146405"
+           style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.146405"
            x="50.626625"
            y="137.45959">Assign</tspan><tspan
            sodipodi:role="line"
-           style="fill:#ececec;stroke:#ececec;stroke-width:0.146405"
+           style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.146405"
            x="50.626625"
            y="141.35759"
            id="tspan39-8">2,2,3,3,4</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.1184px;font-family:Consolas;-inkscape-font-specification:Consolas;direction:ltr;fill:none;stroke:#000000;stroke-width:0.146405;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.1184px;font-family:Consolas;-inkscape-font-specification:Consolas;direction:ltr;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.146405;stroke-dasharray:none;stroke-opacity:1"
          x="50.626625"
          y="171.50945"
          id="text38-7"
          transform="scale(0.959494,1.042216)"><tspan
            sodipodi:role="line"
            id="tspan38-33"
-           style="fill:#ececec;stroke:#ececec;stroke-width:0.146405"
+           style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.146405"
            x="50.626625"
            y="171.50945">Assign</tspan><tspan
            sodipodi:role="line"
-           style="fill:#ececec;stroke:#ececec;stroke-width:0.146405"
+           style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.146405"
            x="50.626625"
            y="175.40744"
            id="tspan39-87">2,2,3,3,4</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82238px;font-family:Consolas;-inkscape-font-specification:Consolas;direction:ltr;fill:#ececec;stroke:#ececec;stroke-width:0.179456;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.82238px;font-family:Consolas;-inkscape-font-specification:Consolas;direction:ltr;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.179456;stroke-dasharray:none;stroke-opacity:1"
          x="43.650639"
          y="31.648834"
          id="text40"><tspan
            sodipodi:role="line"
            id="tspan40"
-           style="stroke-width:0.179456"
+           style="stroke-width:0.179456;fill:#f9f9f9;stroke:#f9f9f9"
            x="43.650639"
            y="31.648834">Add 7</tspan></text>
       <g
@@ -1161,13 +1162,13 @@
          y="18.684204" />
       <text
          xml:space="preserve"
-         style="font-size:5.64444px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ececec;stroke:#ececec;stroke-width:0.264999"
+         style="font-size:5.64444px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.264999"
          x="108.91952"
          y="27.745523"
          id="text2-1-9"><tspan
            sodipodi:role="line"
            id="tspan2-6-8"
-           style="fill:#ececec;stroke:#ececec;stroke-width:0.265"
+           style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.265"
            x="108.91952"
            y="27.745523">Missions</tspan></text>
     </g>
@@ -1184,13 +1185,13 @@
          y="18.684204" />
       <text
          xml:space="preserve"
-         style="font-size:5.64444px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ececec;stroke:#ececec;stroke-width:0.264999"
+         style="font-size:5.64444px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.264999"
          x="105.59018"
          y="27.745523"
          id="text2-1-9-2"><tspan
            sodipodi:role="line"
            id="tspan2-6-8-2"
-           style="fill:#ececec;stroke:#ececec;stroke-width:0.265"
+           style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.265"
            x="105.59018"
            y="27.745523">Exhaustion</tspan></text>
     </g>
@@ -1207,17 +1208,17 @@
          y="18.684204" />
       <text
          xml:space="preserve"
-         style="font-size:5.64444px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ececec;stroke:#ececec;stroke-width:0.264999"
+         style="font-size:5.64444px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.264999"
          x="108.78447"
          y="23.669291"
          id="text2-1-9-9"><tspan
            sodipodi:role="line"
            id="tspan2-6-8-0"
-           style="fill:#ececec;stroke:#ececec;stroke-width:0.265"
+           style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.265"
            x="108.78447"
            y="23.669291">Munition</tspan><tspan
            sodipodi:role="line"
-           style="fill:#ececec;stroke:#ececec;stroke-width:0.265"
+           style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.265"
            x="108.78447"
            y="30.724842"
            id="tspan3">Capacity</tspan></text>
@@ -1235,13 +1236,13 @@
          y="18.684204" />
       <text
          xml:space="preserve"
-         style="font-size:5.64444px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ececec;stroke:#ececec;stroke-width:0.264999"
+         style="font-size:5.64444px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.264999"
          x="114.90571"
          y="27.059261"
          id="text2-1-9-8"><tspan
            sodipodi:role="line"
            id="tspan2-6-8-1"
-           style="fill:#ececec;stroke:#ececec;stroke-width:0.265"
+           style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.265"
            x="114.90571"
            y="27.059261">Sway</tspan></text>
     </g>
@@ -1259,7 +1260,7 @@
            id="tspan2-6-6"
            style="fill:#000000;stroke:#000000;stroke-width:0.265"
            x="71.725021"
-           y="46.642448">Boiling Point</tspan></text>
+           y="46.642448">Stress</tspan></text>
       <path
          style="fill:#000000;stroke:#000000;stroke-width:0.216012;stroke-dasharray:none;stroke-opacity:1"
          d="M 71.393407,47.855538 H 202.28097"
@@ -1270,13 +1271,13 @@
          id="path33-74" />
       <text
          xml:space="preserve"
-         style="font-size:10.463px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ececec;stroke:#ececec;stroke-width:0.400396;stroke-dasharray:none"
+         style="font-size:10.463px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.400396;stroke-dasharray:none"
          x="183.99042"
          y="46.899261"
          id="text4"><tspan
            sodipodi:role="line"
            id="tspan4"
-           style="stroke-width:0.400396"
+           style="stroke-width:0.400396;fill:#f9f9f9;stroke:#f9f9f9"
            x="183.99042"
            y="46.899261">Max</tspan></text>
     </g>
@@ -1305,13 +1306,13 @@
          id="path33-74-8" />
       <text
          xml:space="preserve"
-         style="font-size:10.463px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ececec;stroke:#ececec;stroke-width:0.400396;stroke-dasharray:none"
+         style="font-size:10.463px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.400396;stroke-dasharray:none"
          x="183.99042"
          y="46.899261"
          id="text4-3"><tspan
            sodipodi:role="line"
            id="tspan4-1"
-           style="stroke-width:0.400396"
+           style="stroke-width:0.400396;fill:#f9f9f9;stroke:#f9f9f9"
            x="183.99042"
            y="46.899261">Max</tspan></text>
     </g>
@@ -1340,13 +1341,13 @@
          id="path33-74-7" />
       <text
          xml:space="preserve"
-         style="font-size:10.463px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ececec;stroke:#ececec;stroke-width:0.400396;stroke-dasharray:none"
+         style="font-size:10.463px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.400396;stroke-dasharray:none"
          x="183.99042"
          y="46.899261"
          id="text4-2"><tspan
            sodipodi:role="line"
            id="tspan4-2"
-           style="stroke-width:0.400396"
+           style="stroke-width:0.400396;fill:#f9f9f9;stroke:#f9f9f9"
            x="183.99042"
            y="46.899261">Max</tspan></text>
     </g>
@@ -1375,13 +1376,13 @@
          id="path33-74-7-2" />
       <text
          xml:space="preserve"
-         style="font-size:10.463px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ececec;stroke:#ececec;stroke-width:0.400396;stroke-dasharray:none"
+         style="font-size:10.463px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.400396;stroke-dasharray:none"
          x="183.99042"
          y="46.899261"
          id="text4-2-0"><tspan
            sodipodi:role="line"
            id="tspan4-2-4"
-           style="stroke-width:0.400396"
+           style="stroke-width:0.400396;fill:#f9f9f9;stroke:#f9f9f9"
            x="183.99042"
            y="46.899261">Max</tspan></text>
     </g>
@@ -1410,13 +1411,13 @@
          id="path33-74-7-2-3" />
       <text
          xml:space="preserve"
-         style="font-size:10.463px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ececec;stroke:#ececec;stroke-width:0.400396;stroke-dasharray:none"
+         style="font-size:10.463px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.400396;stroke-dasharray:none"
          x="183.99042"
          y="46.899261"
          id="text4-2-0-5"><tspan
            sodipodi:role="line"
            id="tspan4-2-4-1"
-           style="stroke-width:0.400396"
+           style="stroke-width:0.400396;fill:#f9f9f9;stroke:#f9f9f9"
            x="183.99042"
            y="46.899261">Max</tspan></text>
     </g>
@@ -1445,13 +1446,13 @@
          id="path33-74-7-2-3-5" />
       <text
          xml:space="preserve"
-         style="font-size:10.463px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ececec;stroke:#ececec;stroke-width:0.400396;stroke-dasharray:none"
+         style="font-size:10.463px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.400396;stroke-dasharray:none"
          x="183.99042"
          y="46.899261"
          id="text4-2-0-5-6"><tspan
            sodipodi:role="line"
            id="tspan4-2-4-1-6"
-           style="stroke-width:0.400396"
+           style="stroke-width:0.400396;fill:#f9f9f9;stroke:#f9f9f9"
            x="183.99042"
            y="46.899261">Max</tspan></text>
     </g>
@@ -1480,13 +1481,13 @@
          id="path33-74-7-2-3-9" />
       <text
          xml:space="preserve"
-         style="font-size:10.463px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ececec;stroke:#ececec;stroke-width:0.400396;stroke-dasharray:none"
+         style="font-size:10.463px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.400396;stroke-dasharray:none"
          x="183.99042"
          y="46.899261"
          id="text4-2-0-5-5"><tspan
            sodipodi:role="line"
            id="tspan4-2-4-1-5"
-           style="stroke-width:0.400396"
+           style="stroke-width:0.400396;stroke:#f9f9f9;fill:#f9f9f9"
            x="183.99042"
            y="46.899261">Max</tspan></text>
     </g>
@@ -1515,13 +1516,13 @@
          id="path33-74-7-2-3-92" />
       <text
          xml:space="preserve"
-         style="font-size:10.463px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ececec;stroke:#ececec;stroke-width:0.400396;stroke-dasharray:none"
+         style="font-size:10.463px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.400396;stroke-dasharray:none"
          x="183.99042"
          y="46.899261"
          id="text4-2-0-5-51"><tspan
            sodipodi:role="line"
            id="tspan4-2-4-1-0"
-           style="stroke-width:0.400396"
+           style="stroke-width:0.400396;fill:#f9f9f9;stroke:#f9f9f9"
            x="183.99042"
            y="46.899261">Max</tspan></text>
     </g>
