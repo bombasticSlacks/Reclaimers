@@ -1,6 +1,5 @@
----
-nav_exclude: true
----
+[Bellator](Game/Bellator/Bellator)
+{: .label .label-blue }
 
 ## Edwin Price
 ### Description

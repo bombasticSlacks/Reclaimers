@@ -46,7 +46,7 @@ jobs:
       - name: insert rules blocks
         run: python3 ./replace.py Game/Blocks
       - name: insert story blocks
-        run: python3 ./replace.py Game/Games/Bellator/Characters
+        run: python3 ./replace.py Game/Bellator/Characters
       - name: manipulate anchors
         run: python3 ./convert.py $(find ./Game -type f -name "*.md")
       - name: manipulate anchors strip %20
