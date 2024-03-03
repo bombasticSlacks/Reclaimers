@@ -32,7 +32,8 @@ All Reclaimers have access to a suite of basic equipment that provides them the 
 ![Slash-Mesh](Game/Blocks/Slash-Mesh)
 ![Spacesuit](Game/Blocks/Spacesuit)
 
-## Gear (Select Any Number)
+## Basic Gear
+You always go on [Deployment](Game/Deployment) with all of this:
 ![Ammo](Game/Blocks/Ammo)
 ![Clothing](Game/Blocks/Clothing)
 ![Earpiece](Game/Blocks/Earpiece)
