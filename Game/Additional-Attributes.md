@@ -14,10 +14,10 @@ A way to track how many supplies you can carry on you.
 
 Munition Capacity is equal [Strength](Core/Strength) by default.
 
-## Boiling Point
-A stat tracking how much [Stress](Game/Stress) you can handle before issues begin to arise. Being put in terrible situations or seeing deaths will push you towards your boiling point.
+## Stress
+A stat tracking how much [Stress](Game/Stress) you can handle before issues begin to arise. Being put in terrible situations or seeing deaths will push you towards your max stress.
 
-Boiling Point is equal to [Spirit](Core/Spirit).
+Your max stress is equal to [Spirit](Core/Spirit).
 
 ## Power
 A stat tracking how many times your character can perform certain powerful abilities. Some [Advancements](Game/Progress#Advancements) will require you to expend this resource.

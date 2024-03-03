@@ -18,7 +18,7 @@ Increase your [Exhaustion](Game/Additional-Attributes#Exhaustion) if any of the 
 | ---- | ---- |
 | Time moves forward | +1 |
 | You were [Wounded](Game/Core/Effects#Wounded) | +1 |
-| Reached your [Boiling Point](Game/Additional-Attributes#Boiling%20Point) | +2 |
+| Reached your [Boiling Point](Game/Additional-Attributes#Stress) | +2 |
 | Another Reclaimer Died | +3 |
 | Failed Your Mission | +3 |
 
