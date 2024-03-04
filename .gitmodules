@@ -1,3 +1,6 @@
 [submodule "Game/Core"]
 	path = Game/Core
 	url = https://github.com/bombasticSlacks/3-skill.git
+[submodule ".obsidian"]
+	path = .obsidian
+	url = https://github.com/bombasticSlacks/.obsidian.git
