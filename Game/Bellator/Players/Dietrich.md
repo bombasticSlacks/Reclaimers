@@ -26,6 +26,7 @@ Dietrich is a tall, bony woman with pale skin, sharp features, high cheekbones, 
 
 Most notable about her appearance is the small black feathers protruding sporadically from her skin like freckles down her arms and legs, and clustered thickly over her back.
 
+Part of a [Foreign Affairs](Game/Government.md#Foreign%20Affairs), good at "collecting" information. 
 
 ## Weapons (Select Up To 2)
 ![Break-Action-Driver](Game/Blocks/Break-Action-Driver)
