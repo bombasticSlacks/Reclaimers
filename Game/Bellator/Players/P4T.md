@@ -21,7 +21,9 @@ A [Psych](Game/Psych), [Alchemist](Game/Blocks/Alchemist)
 
 
 ## Details
-DESCRIPTION HERE
+Pat was a support staff worker in a deep space sanitarium, was stationed somewhere where the supply chain broke. P4T maintained leadership and order saving some lives. Doing so became more aware of methods for managing humans including breakthroughs in medical psychology. 
+
+Wears a sweater vest over his jumpsuit (when not wearing armour). Plays soothing sounds out of head, with a screen of soothing blue.
 
 ## Weapons (Select Up To 2)
 ![Break-Action-Driver](Game/Blocks/Break-Action-Driver)
