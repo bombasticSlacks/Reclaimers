@@ -9,5 +9,6 @@
 {: .label .label-yellow }
 #### Air Filter
 *A large hip mounted device that aggressively scrubs the air surrounding a person, removing any problematic materials, bacteria, and viruses.*
+* [Traits](Game/Core/Gear#Traits): [Unskilled](Game/Core/Gear#Unskilled).
 * Everyone within [Reach](Game/Core/Movement#Reach) of you has [Filtered](Game/Core/Armour-Traits#Filtered).
 

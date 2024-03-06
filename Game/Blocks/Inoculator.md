@@ -9,6 +9,6 @@
 {: .label .label-yellow }
 #### Inoculator
 *A high-tech device designed to investigate illness / disease and produce panacea. With enough time, a character can use an inoculator to create a cure for any illness or disease.*
-* Traits: [Toolkits](Game/Core/Gear#Toolkits).
+* Traits: [Toolkits](Game/Core/Gear#Toolkits), [Skilled](Game/Core/Gear#Skilled)([Application](Game/Core/Intelligence#Application)).
 * If you have a sample of a disease or illness, you can create a cure or vaccine for it. Depending on the origin of the illness, it may be too late for those already infected, but others can be vaccinated.
 
