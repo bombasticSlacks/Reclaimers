@@ -2,7 +2,7 @@
 [Weapons](Game/Weapons-List)
 {: .label .label-purple }
 
-[Extermination-Division](Game/Blocks/Extermination-Division)
+[Support-Division](Game/Blocks/Support-Division)
 {: .label .label-blue }
 
 [Requisition 2](Game/Deployment#Requisition)

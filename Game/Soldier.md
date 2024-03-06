@@ -43,7 +43,7 @@ Equipment readily available to you when you deploy to the field. Remember, you c
 ## Specialization
 Even a basic Reclaimer has some specialization in their background and additional training. Select a [Specialization](Game/Specialization-List) to start with providing additional gear. Some recommendations would be:
 ![Assault-Division](Game/Blocks/Assault-Division)
-![Extermination-Division](Game/Blocks/Extermination-Division)
+![Support-Division](Game/Blocks/Support-Division)
 ![Marksman-Division](Game/Blocks/Marksman-Division)
 ![Mechanized-Division](Game/Blocks/Mechanized-Division)
 
