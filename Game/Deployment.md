@@ -49,5 +49,5 @@ Your total number of available requisition points is equal to your [Sway](Game/A
 You can opt to take multiples of any [Equipment](Game/Core/Equipment) that costs at least 1 requisition.
 
 #### Comestibles
-Unless specified, you deploy with one of each [Comestibles](Game/Core/Gear#Comestibles), however you may replenish them when used from your [Supplies](Game/Blocks/Supplies).
+Unless specified, you deploy with one of each [Comestibles](Game/Core/Blocks/Comestibles), however you may replenish them when used from your [Supplies](Game/Blocks/Supplies).
 

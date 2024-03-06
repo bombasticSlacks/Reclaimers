@@ -9,7 +9,7 @@
 {: .label .label-yellow }
 #### Riot Suppression Cans
 *Gas grenades designed to break up a room. Without protection, a person can't breathe inside and irritants can cause issues for minutes afterwards.*
-* Traits: [Comestibles](Game/Core/Gear#Comestibles).
+* Traits: [Comestibles](Game/Core/Blocks/Comestibles).
 
 | Default [Damage](Core/Weapons#Calculating%20Damage) | 0 |
 | :--- | :--- |
