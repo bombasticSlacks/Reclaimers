@@ -9,5 +9,5 @@ ARCH
 {: .label .label-yellow }
 #### Name
 *Description*
-* Traits: 
+* [Traits](Game/Core/Gear#Traits): 
 

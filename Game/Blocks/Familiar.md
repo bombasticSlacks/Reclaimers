@@ -9,7 +9,7 @@
 {: .label .label-yellow }
 #### Familiar
 *A small homunculus of psychically malleable cells, this creature obeys your will through a mental link.*
-* [Traits](Game/Core/Gear#Traits): [Follower](Game/Core/Gear#Follower).
+* [Traits](Game/Core/Gear#Traits): [Follower](Game/Core/Blocks/Follower).
 
 | Initiative | Move                              | Threat | Integrity | Weakness                          | Resistance |
 | ---------- | --------------------------------- | ------ | --------- | --------------------------------- | ---------- |

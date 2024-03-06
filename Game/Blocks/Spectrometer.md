@@ -9,6 +9,6 @@
 {: .label .label-yellow }
 #### Spectrometer
 *A bulky instrument that can measure components of unknown phenomenon via a wide array of conventional sensors as well as esoteric means such as crystal arrays, magnets, and occult fetishes. Capable of measuring electromagnetic fields, temperature fluctuations, chemical composition.*
-* Traits: [Toolkits](Game/Core/Gear#Toolkits), [Skilled](Game/Core/Gear#Skilled)([Insight](Game/Core/Intelligence#Insight)).
+* Traits: [Toolkits](Game/Core/Blocks/Toolkits), [Skilled](Game/Core/Blocks/Skilled)([Insight](Game/Core/Intelligence#Insight)).
 * It can be used to detect the supernatural, magical, psychic energy, miracles, temporal fluctuations, and the astronomically improbable.
 
