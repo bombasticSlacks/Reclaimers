@@ -9,5 +9,6 @@
 {: .label .label-yellow }
 #### Gravity Propulsion
 *This harness provides you with propulsion in any direction as well as letting you comfortably hover.*
+* [Traits](Game/Core/Gear#Traits): [Unskilled](Game/Core/Gear#Unskilled).
 * Your [Armour](Game/Core/Armour) has the [Levitation](Game/Core/Blocks/Levitation) [Armour Traits](Game/Core/Armour#Armour%20Traits).
 

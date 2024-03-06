@@ -9,6 +9,6 @@
 {: .label .label-yellow }
 #### Bypass Kit
 *A collection of physical and digital entry devices, lock picks, RFID spoof, network traffic sniffer, crowbar, rake, and others. *
-* Traits: [Toolkits](Game/Core/Gear#Toolkits)
-* You have all the tools required to get through any lock. This will be an [Application](Game/Core/Intelligence#Application) [Fixed Difficulty](Game/Core/Skills#Fixed%20Difficulty) with difficulty based on the complexity of the lock.
+* Traits: [Toolkits](Game/Core/Gear#Toolkits), [Skilled](Game/Core/Gear#Skilled)([Application](Game/Core/Intelligence#Application)).
+* You have all the tools required to get through any lock. The difficulty will be based on the complexity of the lock.
 
