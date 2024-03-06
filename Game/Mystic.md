@@ -29,8 +29,7 @@ Equipment readily available to you when you deploy to the field. Remember, you c
 
 ### Weapons
 [Deploy](Game/Deployment) With Up To 2
-![Entropy-Amplifier](Game/Blocks/Entropy-Amplifier)
-![Kinetic-Amplifier](Game/Blocks/Kinetic-Amplifier)
+![Psychic-Amplifier](Game/Blocks/Psychic-Amplifier)
 
 
 ### Armour
@@ -41,6 +40,7 @@ Equipment readily available to you when you deploy to the field. Remember, you c
 ![Mind-Shield](Game/Blocks/Mind-Shield)
 ![Neuro-Suit](Game/Blocks/Neuro-Suit)
 ![Spectrometer](Game/Blocks/Spectrometer)
+![Horror-Encyclopedia](Game/Blocks/Horror-Encyclopedia)
 
 ## Specialization
 Even a basic Reclaimer has some specialization in their background and additional training. Select a [Specialization](Game/Specialization-List) to start with providing additional gear. Some recommendations would be:
