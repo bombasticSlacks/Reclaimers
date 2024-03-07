@@ -15,7 +15,7 @@ python3 ./Game/Core/Scripts/lists.py Game/Augment-List.md Augment-List Game/Bloc
 python3 ./Game/Core/Scripts/lists.py Game/Training-List.md Training-List Game/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Modification-List.md Modification-List Game/Blocks
 # Creatures
-python3 ./Game/Core/Scripts/lists.py Game/Black-Mass-Creatures.md Black-Mass-Creatures Game/Blocks
+python3 ./Game/Core/Scripts/lists.py Game/Black-Mass-Creatures.md Black-Mass-Creatures Game/Creatures
 
 
 
