@@ -46,7 +46,7 @@ Even a basic Reclaimer has some specialization in their background and additiona
 ![Interrogator](Game/Blocks/Interrogator)
 ![Riot-Squad](Game/Blocks/Riot-Squad)
 
-## Advancements
+## Recommended Advancements
 Training the Reclaimer can take as they [Progress](Game/Progress) their career. You can take any advancements as you [Progress](Game/Progress), but some recommendations would be:
 
 ![Authority-Figure](Game/Blocks/Authority-Figure)

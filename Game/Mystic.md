@@ -48,7 +48,7 @@ Even a basic Reclaimer has some specialization in their background and additiona
 ![Flesh-Shaper](Game/Blocks/Flesh-Shaper)
 ![Psy-Knight](Game/Blocks/Psy-Knight)
 
-## Advancements
+## Recommended Advancements
 Training the Reclaimer can take as they [Progress](Game/Progress) their career. You can take any advancements as you [Progress](Game/Progress), but some recommendations would be:
 
 ![Awakened-Psychic](Game/Blocks/Awakened-Psychic)

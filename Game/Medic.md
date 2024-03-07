@@ -47,7 +47,7 @@ Even a basic Reclaimer has some specialization in their background and additiona
 ![Medical-Technician](Game/Blocks/Medical-Technician)
 ![Paladin](Game/Blocks/Paladin)
 
-## Advancements
+## Recommended Advancements
 Training the Reclaimer can take as they [Progress](Game/Progress) their career. You can take any advancements as you [Progress](Game/Progress), but some recommendations would be:
 
 ![Auto-Doc](Game/Blocks/Auto-Doc)

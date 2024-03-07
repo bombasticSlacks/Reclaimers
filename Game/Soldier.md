@@ -47,7 +47,7 @@ Even a basic Reclaimer has some specialization in their background and additiona
 ![Marksman-Division](Game/Blocks/Marksman-Division)
 ![Mechanized-Division](Game/Blocks/Mechanized-Division)
 
-## Advancements
+## Recommended Advancements
 Training the Reclaimer can take as they [Progress](Game/Progress) their career. You can take any advancements as you [Progress](Game/Progress), but some recommendations would be:
 
 ![Adrenaline-Nanites](Game/Blocks/Adrenaline-Nanites)
