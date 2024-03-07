@@ -6,7 +6,6 @@ python3 ./Game/Core/Scripts/lists.py Game/Weapons-List.md Weapons-List Game/Bloc
 python3 ./Game/Core/Scripts/lists.py Game/Gear-List.md Gear-List Game/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Basic-List.md Basic-List Game/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Expert-List.md Expert-List Game/Blocks
-python3 ./Game/Core/Scripts/lists.py Game/Team-List.md Team-List Game/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Augment-List.md Augment-List Game/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Training-List.md Training-List Game/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Modification-List.md Modification-List Game/Blocks
