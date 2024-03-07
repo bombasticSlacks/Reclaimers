@@ -19,12 +19,8 @@ You should have an answer for these things before continuing:
 2. What did you do before becoming a Reclaimer?
 3. What great thing got you inducted into the Reclaimers?
 
-## Determine Your Attributes
-*Even before you became a Reclaimer, you were gifted, additional cybernetics and training have further increased that power.*
-
-Assign your [Attributes](Game/Core/Attributes) with values of 4, 3, 3, 2, and 2.
-
-> So, 4 [Strength](Core/Strength), 3 [Agility](Core/Agility), 3 [Intelligence](Core/Intelligence), 2 [Spirit](Core/Spirit), 2 [Communication](Core/Communication) is a valid set of attributes.
+## Grab A Character Sheet
+If you would like to use one, a [Character-Sheet](Game/Content/Character-Sheet.svg) is provided.
 
 
 ## Origin
@@ -38,6 +34,13 @@ Select one of the following and continue there:
 * [Sleuth](Game/Sleuth)
 * [Soldier](Game/Soldier)
 * [Tech](Game/Tech)
+
+## Determine Your Attributes
+*Even before you became a Reclaimer, you were gifted, additional cybernetics and training have further increased that power.*
+
+Assign your [Attributes](Game/Core/Attributes) with values of 4, 3, 3, 2, and 2.
+
+> So, 4 [Strength](Core/Strength), 3 [Agility](Core/Agility), 3 [Intelligence](Core/Intelligence), 2 [Spirit](Core/Spirit), 2 [Communication](Core/Communication) is a valid set of attributes.
 
 ## Distinguishing Characteristic
 Something about you makes you the best of the best. Roll a 12 sided dice to determine what that is, your character starts with this additional benefit.

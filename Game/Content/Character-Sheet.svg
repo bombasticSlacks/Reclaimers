@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showguides="false"
-     inkscape:zoom="1.5382846"
-     inkscape:cx="788.86571"
-     inkscape:cy="331.86316"
-     inkscape:window-width="5053"
+     inkscape:zoom="1.0877315"
+     inkscape:cx="-265.69057"
+     inkscape:cy="400.37455"
+     inkscape:window-width="5058"
      inkscape:window-height="1417"
-     inkscape:window-x="2219"
-     inkscape:window-y="1357"
+     inkscape:window-x="2214"
+     inkscape:window-y="1416"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showgrid="false" />
@@ -48,8 +48,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="display:inline;fill:#1a1a1a;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
-       d="M 72.020546,18.316283 V 290.47254"
+       style="display:inline;fill:#1a1a1a;stroke:#000000;stroke-width:0.264786;stroke-dasharray:none;stroke-opacity:1"
+       d="M 71.954296,18.754176 V 290.47254"
        id="path14"
        inkscape:label="Margins"
        sodipodi:insensitive="true" />
@@ -1152,7 +1152,7 @@
     <g
        id="g3"
        inkscape:label="Missions Box"
-       transform="translate(32.349513,2.0690435e-4)">
+       transform="matrix(0.80277728,0,0,0.80277728,66.054339,3.808323)">
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.125053"
          id="rect3"
@@ -1175,7 +1175,7 @@
     <g
        id="g3-3"
        inkscape:label="Exaustion Box"
-       transform="translate(64.818965,2.0690435e-4)">
+       transform="matrix(0.83291362,0,0,0.80289809,88.95787,3.8043448)">
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.125053"
          id="rect3-1"
@@ -1198,7 +1198,7 @@
     <g
        id="g3-2"
        inkscape:label="Munitions"
-       transform="translate(-0.24499954,2.0690435e-4)">
+       transform="matrix(0.80300044,0,0,0.80300044,39.957939,3.8009746)">
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.125053"
          id="rect3-19"
@@ -1220,31 +1220,31 @@
            sodipodi:role="line"
            style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.265"
            x="108.78447"
-           y="30.724842"
+           y="30.72484"
            id="tspan3">Capacity</tspan></text>
     </g>
     <g
        id="g3-7"
        inkscape:label="Sway"
-       transform="translate(-32.839512,2.0690435e-4)">
+       transform="matrix(0.63207948,0,0,0.63207948,54.245573,6.9944824)">
       <rect
-         style="fill:none;stroke:#000000;stroke-width:0.125053"
+         style="fill:none;stroke:#000000;stroke-width:0.158869"
          id="rect3-0"
-         width="32.46946"
-         height="14.244843"
-         x="104.93002"
+         width="41.249596"
+         height="18.096821"
+         x="69.450439"
          y="18.684204" />
       <text
          xml:space="preserve"
          style="font-size:5.64444px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.264999"
-         x="114.90571"
-         y="27.059261"
+         x="83.816193"
+         y="28.98525"
          id="text2-1-9-8"><tspan
            sodipodi:role="line"
            id="tspan2-6-8-1"
            style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.265"
-           x="114.90571"
-           y="27.059261">Sway</tspan></text>
+           x="83.816193"
+           y="28.98525">Sway</tspan></text>
     </g>
     <g
        id="g4"
@@ -1525,6 +1525,29 @@
            style="stroke-width:0.400396;fill:#f9f9f9;stroke:#f9f9f9"
            x="183.99042"
            y="46.899261">Max</tspan></text>
+    </g>
+    <g
+       id="g3-7-2"
+       inkscape:label="Sway"
+       transform="matrix(0.80300141,0,0,0.80300141,-12.188202,3.8009426)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.125053"
+         id="rect3-0-0"
+         width="32.46946"
+         height="14.244843"
+         x="104.93002"
+         y="18.684204" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.264999"
+         x="109.01598"
+         y="27.059261"
+         id="text2-1-9-8-3"><tspan
+           sodipodi:role="line"
+           id="tspan2-6-8-1-8"
+           style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.265"
+           x="109.01598"
+           y="27.059261">Movement</tspan></text>
     </g>
   </g>
 </svg>
