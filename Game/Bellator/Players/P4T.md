@@ -8,7 +8,7 @@ nav_order: 0
 ---
 # P4T
 {: .no_toc }
-A [Psych](Game/Psych), [Alchemist](Game/Blocks/Alchemist)
+A [Psych](Game/Psych), [Alchemist](Game/Blocks/Alchemist) who is agile.
 
 <details open markdown="block">
   <summary>
@@ -25,6 +25,8 @@ Pat was a support staff worker in a deep space sanitarium, was stationed somewhe
 
 Wears a sweater vest over his jumpsuit (when not wearing armour). Plays soothing sounds out of head, with a screen of soothing blue.
 
+## Trophy
+![Gauss-Gun](Game/Blocks/Gauss-Gun)
 ## Weapons (Select Up To 2)
 ![Break-Action-Driver](Game/Blocks/Break-Action-Driver)
 ![Handgun](Game/Blocks/Handgun)
@@ -48,3 +50,28 @@ Wears a sweater vest over his jumpsuit (when not wearing armour). Plays soothing
 
 ## Abilities
 
+
+## Attributes
+
+| Attribute     | Skill       | Value |
+| ------------- | ----------- | ----- |
+| Strength      |             | 2     |
+|               | Athletics   | 0     |
+|               | Endurance   | 0     |
+|               | Strike      | 0     |
+| Agility       |             | 4     |
+|               | Accuracy    | 0     |
+|               | Reflexes    | 0     |
+|               | Grace       | 2     |
+| Communication |             | 4     |
+|               | Confidence  | 2     |
+|               | Connection  | 3     |
+|               | Mannerism   | 1     |
+| Intelligence  |             | 3     |
+|               | Application | 2     |
+|               | Insight     | 1     |
+|               | Memory      | 0     |
+| Spirit        |             | 2     |
+|               | Attunement  | 0     |
+|               | Identity    | 0     |
+|               | Will        | 0     |

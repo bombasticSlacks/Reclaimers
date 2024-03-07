@@ -9,7 +9,7 @@ nav_order: 0
 # Dietrich
 {: .no_toc }
 
-A [Sleuth](Game/Sleuth) [Interrogator](Game/Blocks/Interrogator).
+A [Sleuth](Game/Sleuth) [Interrogator](Game/Blocks/Interrogator) who is well trained.
 
 <details open markdown="block">
   <summary>
@@ -26,7 +26,10 @@ Dietrich is a tall, bony woman with pale skin, sharp features, high cheekbones, 
 
 Most notable about her appearance is the small black feathers protruding sporadically from her skin like freckles down her arms and legs, and clustered thickly over her back.
 
-Part of a [Foreign Affairs](Game/Government.md#Foreign%20Affairs), good at "collecting" information. 
+Part of a [Foreign Affairs](Game/Government#Foreign%20Affairs), good at "collecting" information. 
+
+## Trophy
+![Vibro-Weapon](Game/Blocks/Vibro-Weapon)
 
 ## Weapons (Select Up To 2)
 ![Break-Action-Driver](Game/Blocks/Break-Action-Driver)
@@ -50,3 +53,28 @@ Part of a [Foreign Affairs](Game/Government.md#Foreign%20Affairs), good at "coll
 
 ## Abilities
 ![Missing-Clue](Game/Blocks/Missing-Clue)
+
+## Attributes
+
+| Attribute     | Skill       | Value |
+| ------------- | ----------- | ----- |
+| Strength      |             | 2     |
+|               | Athletics   | 0     |
+|               | Endurance   | 1     |
+|               | Strike      | 1     |
+| Agility       |             | 2     |
+|               | Accuracy    | 1     |
+|               | Reflexes    | 1     |
+|               | Grace       | 0     |
+| Communication |             | 4     |
+|               | Confidence  | 1     |
+|               | Connection  | 1     |
+|               | Mannerism   |       |
+| Intelligence  |             | 3     |
+|               | Application | 1     |
+|               | Insight     | 1     |
+|               | Memory      |       |
+| Spirit        |             | 3     |
+|               | Attunement  | 0     |
+|               | Identity    | 1     |
+|               | Will        | 2     |
