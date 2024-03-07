@@ -11,8 +11,8 @@ python3 ./Game/Core/Scripts/lists.py Game/Training-List.md Training-List Game/Bl
 python3 ./Game/Core/Scripts/lists.py Game/Modification-List.md Modification-List Game/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Core/Weapon-Traits.md Weapon-Traits Game/Core/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Core/Armour-Traits.md Armour-Traits Game/Core/Blocks
-python3 ./Game/Core/Scripts/lists.py Game/Core/Gear.md Gear Trait Game/Blocks
-python3 ./Game/Core/Scripts/lists.py Game/Core/Gear.md Gear Trait Game/Core/Blocks
+python3 ./Game/Core/Scripts/lists.py Game/Core/Gear.md Gear-Trait Game/Blocks
+python3 ./Game/Core/Scripts/lists.py Game/Core/Gear.md Gear-Trait Game/Core/Blocks
 
 
 

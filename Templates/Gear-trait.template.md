@@ -1,5 +1,5 @@
 
-[Gear Trait](Game/Core/Gear#Traits)
+[gear-trait](Game/Core/Gear#Traits)
 {: .label .label-purple }
 
 ### Name
