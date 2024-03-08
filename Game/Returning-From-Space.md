@@ -34,6 +34,7 @@ Any injuries you suffered while on [Deployment](Game/Deployment) are fixed. You 
 
 ## Reprimand
 *If any Reclaimers were reported to have been abusive of their fellow citizens while in space, they may be reprimanded.* 
+
 This should not happen lightly, but if a player is behaving poorly while in space the [Game Master](Game/Core/Terminology#Game%20Master) may reprimand them. Some example punishments are:
 * Weapons Restriction - You cannot go on [Deployment](Game/Deployment) with weapons until behaviour improves.
 * Re-education - You do not get an [Advancement](#Advancement) instead being required to spend that time being re-educated.
@@ -41,6 +42,7 @@ This should not happen lightly, but if a player is behaving poorly while in spac
 
 ## Most Valuable Reclaimer
 *During your debrief notes will be taken on who stood out during the deployment. Hard work does not go unnoticed at the Reclaimers.*
+
 Every Reclaimer who departed should discuss who was the most valuable Reclaimer was during the session. You cannot nominate yourself, but should try to honour a meaningful moment, sacrifice, great role play, or other feat. The person the group determines did something outstanding gets an [Excellence](Game/Additional-Attributes#Excellence).
 
 ## Advancement
