@@ -18,4 +18,4 @@ nav_order: 1
 {:toc}
 </details>
 
-<div class="test">Something?</div>
+<fieldset class="filter"><legend>Filter Entries:</legend></fieldset>
