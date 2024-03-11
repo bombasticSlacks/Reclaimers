@@ -38,4 +38,5 @@ First name with a notable family name.
 ## Recommended Advancements
 ![External-Funding](Game/Blocks/External-Funding)
 ![Good-Breeding](Game/Blocks/Good-Breeding)
+![Super-Soldier-Serum](Game/Blocks/Super-Soldier-Serum)
 
