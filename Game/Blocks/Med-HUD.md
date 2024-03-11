@@ -1,11 +1,11 @@
 
-[Basic](Game/Basic-List)
+[Basic](Game/Advancement-List?Basic=true)
 {: .label .label-purple }
 
 [Medic](Game/Medic)
 {: .label .label-blue }
 
-[Modification](Game/Modification-List)
+[Modification](Game/Advancement-List?Modification=true)
 {: .label .label-green }
 ### Med HUD
 *You have a medical scanner integrated into your [Heads-Up-Display](Game/Blocks/Heads-Up-Display) providing you with instant medical details on anyone you look at.*

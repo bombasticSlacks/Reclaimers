@@ -1,11 +1,11 @@
 
-[Basic](Game/Basic-List)
+[Basic](Game/Advancement-List?Basic=true)
 {: .label .label-purple }
 
 [Psych](Game/Psych)
 {: .label .label-blue }
 
-[Specialization](Game/Specialization-List)
+[Specialization](Game/Advancement-List?Specialization=true)
 {: .label .label-green }
 ### Padre
 *You've got combat training experience and the equipment of a military chaplain, helping you to improve and direct morale in a combat zone.*

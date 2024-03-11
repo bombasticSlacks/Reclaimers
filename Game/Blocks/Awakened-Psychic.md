@@ -1,11 +1,11 @@
 
-[Expert](Game/Expert-List)
+[Expert](Game/Advancement-List?Expert=true)
 {: .label .label-purple }
 
 [Mystic](Game/Mystic)
 {: .label .label-blue }
 
-[Training](Game/Training-List)
+[Training](Game/Advancement-List?Training=true)
 {: .label .label-green }
 ### Awakened Psychic
 *Your consciousness has expanded to a massive size, building neural pathways that are inscrutable to normal people and could destroy you if you aren't careful.*

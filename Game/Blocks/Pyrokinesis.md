@@ -1,11 +1,11 @@
 
-[Basic](Game/Basic-List)
+[Basic](Game/Advancement-List?Basic=true)
 {: .label .label-purple }
 
 [Mystic](Game/Mystic)
 {: .label .label-blue }
 
-[Training](Game/Training-List)
+[Training](Game/Advancement-List?Training=true)
 {: .label .label-green }
 ### Pyrokinesis
 *You've developed your potential for manipulating the world around you, creating and manipulating energy without the need for external tools.*

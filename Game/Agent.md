@@ -41,7 +41,7 @@ Equipment readily available to you when you deploy to the field. Remember, you c
 ![Surveillance-Gear](Game/Blocks/Surveillance-Gear)
 
 ## Specialization
-Even a basic Reclaimer has some specialization in their background and additional training. Select a [Specialization](Game/Specialization-List) to start with providing additional gear. Some recommendations would be:
+Even a basic Reclaimer has some specialization in their background and additional training. Select a [Specialization](Game/Advancement-List?Specialization=true) to start with providing additional gear. Some recommendations would be:
 ![Entropy-Dancer](Game/Blocks/Entropy-Dancer)
 ![Explorer](Game/Blocks/Explorer)
 ![Ninja](Game/Blocks/Ninja)

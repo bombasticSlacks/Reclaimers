@@ -1,5 +1,5 @@
 
-[Basic](Game/Basic-List)
+[Basic](Game/Advancement-List?Basic=true)
 {: .label .label-purple }
 
 [Psych](Game/Psych)

@@ -1,11 +1,11 @@
 
-[Basic](Game/Basic-List)
+[Basic](Game/Advancement-List?Basic=true)
 {: .label .label-purple }
 
 [Standard-Advancements](Game/Standard-Advancements)
 {: .label .label-blue }
 
-[Specialization](Game/Specialization-List)
+[Specialization](Game/Advancement-List?Specialization=true)
 {: .label .label-green }
 ### Additional Basic Training
 *You've taken additional training to qualify for use of gear that isn't standard to your character.*

@@ -41,7 +41,7 @@ Equipment readily available to you when you deploy to the field. Remember, you c
 ![Manacles](Game/Blocks/Manacles)
 
 ## Specialization
-Even a basic Reclaimer has some specialization in their background and additional training. Select a [Specialization](Game/Specialization-List) to start with providing additional gear. Some recommendations would be:
+Even a basic Reclaimer has some specialization in their background and additional training. Select a [Specialization](Game/Advancement-List?Specialization=true) to start with providing additional gear. Some recommendations would be:
 ![Breacher](Game/Blocks/Breacher)
 ![Interrogator](Game/Blocks/Interrogator)
 ![Riot-Squad](Game/Blocks/Riot-Squad)

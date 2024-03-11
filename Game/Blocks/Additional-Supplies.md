@@ -1,11 +1,11 @@
 
-[Expert](Game/Expert-List)
+[Expert](Game/Advancement-List?Expert=true)
 {: .label .label-purple }
 
 [Psych](Game/Psych)
 {: .label .label-blue }
 
-[Modification](Game/Modification-List)
+[Modification](Game/Advancement-List?Modification=true)
 {: .label .label-green }
 ### Additional Supplies
 *You've negotiated additional supplies for your team.*

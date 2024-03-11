@@ -1,11 +1,11 @@
 
-[Basic](Game/Basic-List)
+[Basic](Game/Advancement-List?Basic=true)
 {: .label .label-purple }
 
 [Outsider](Game/Outsider)
 {: .label .label-blue }
 
-[Training](Game/Training-List)
+[Training](Game/Advancement-List?Training=true)
 {: .label .label-green }
 ### Ascetic
 *You have mastery over your bodies needs.*

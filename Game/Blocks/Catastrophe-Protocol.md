@@ -1,11 +1,11 @@
 
-[Basic](Game/Basic-List)
+[Basic](Game/Advancement-List?Basic=true)
 {: .label .label-purple }
 
 [IPC](Game/IPC)
 {: .label .label-blue }
 
-[Training](Game/Training-List) 
+[Training](Game/Advancement-List?Training=true) 
 {: .label .label-green }
 ### Catastrophe Protocol
 *Your brain is always planning for the worst outcome and is ready for it.*

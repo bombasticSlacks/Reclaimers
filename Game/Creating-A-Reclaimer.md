@@ -55,10 +55,10 @@ Something about you makes you the best of the best. Roll a 12 sided dice to dete
 | 6 | Communicative | +1 [Communication](Game/Core/Communication) |
 | 7 | Skilled | +3 [Skills](Game/Core/Skills) of your choice |
 | 8 | Augmented | Select a [Basic](Game/Progress#Basic) [Augment](Game/Advancement-List?Augment=true) of your choice |
-| 9 | Trained | Select a [Basic](Game/Progress#Basic) [Training](Game/Training-List) of your choice |
-| 10 | Tinkerer | Select a [Basic](Game/Progress#Basic) [Modification](Game/Modification-List) of your choice |
-| 11 | Specialized | Select a [Basic](Game/Progress#Basic) [Specialization](Game/Specialization-List) of your choice |
-| 12 | Mastery | Select an [Expert](Game/Expert-List) advancement of your choice |
+| 9 | Trained | Select a [Basic](Game/Progress#Basic) [Training](Game/Advancement-List?Training=true) of your choice |
+| 10 | Tinkerer | Select a [Basic](Game/Progress#Basic) [Modification](Game/Advancement-List?Modification=true) of your choice |
+| 11 | Specialized | Select a [Basic](Game/Progress#Basic) [Specialization](Game/Advancement-List?Specialization=true) of your choice |
+| 12 | Mastery | Select an [Expert](Game/Advancement-List?Expert=true) advancement of your choice |
 
 ## Equipment
 Your character will not begin play with any [Equipment](Core/Equipment), when you go on [Deployment](Deployment) you will be provided with equipment based on [Origin](#Origin) and mission [Severity](Deployment#Severity).

@@ -39,7 +39,7 @@ Deploy With Up To 2
 ![Problem-Solving-Pen](Game/Blocks/Problem-Solving-Pen)
 
 ## Specialization
-Even a basic Reclaimer has some specialization in their background and additional training. Select a [Specialization](Game/Specialization-List) to start with providing additional gear. Some recommendations would be:
+Even a basic Reclaimer has some specialization in their background and additional training. Select a [Specialization](Game/Advancement-List?Specialization=true) to start with providing additional gear. Some recommendations would be:
 ![Armourer](Game/Blocks/Armourer)
 ![Drone-Controller](Game/Blocks/Drone-Controller)
 ![Hardlight-Architect](Game/Blocks/Hardlight-Architect)

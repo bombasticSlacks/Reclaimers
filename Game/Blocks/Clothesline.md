@@ -1,11 +1,11 @@
 
-[Expert](Game/Expert-List)
+[Expert](Game/Advancement-List?Expert=true)
 {: .label .label-purple }
 
 [Sleuth](Game/Sleuth)
 {: .label .label-blue }
 
-[Training](Game/Training-List)
+[Training](Game/Advancement-List?Training=true)
 {: .label .label-green }
 ### Clothesline
 *Someone running at you has never been a problem.*

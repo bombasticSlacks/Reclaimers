@@ -9,13 +9,4 @@ nav_order: 1
 # Advancement List
 {: .no_toc }
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-
 <fieldset class="filter"><legend>Filter Advancements:</legend></fieldset>

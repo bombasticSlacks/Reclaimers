@@ -1,11 +1,11 @@
 
-[Expert](Game/Expert-List)
+[Expert](Game/Advancement-List?Expert=true)
 {: .label .label-purple }
 
 [Medic](Game/Medic)
 {: .label .label-blue }
 
-[Training](Game/Training-List)
+[Training](Game/Advancement-List?Training=true)
 {: .label .label-green }
 ### Trauma Doc
 *You are an expert at administering medicine and can easily reduce the tax of even the worst of afflictions for a person.*

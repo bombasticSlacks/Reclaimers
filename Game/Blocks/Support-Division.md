@@ -1,11 +1,11 @@
 
-[Basic](Game/Basic-List)
+[Basic](Game/Advancement-List?Basic=true)
 {: .label .label-purple }
 
 [Soldier](Game/Soldier)
 {: .label .label-blue }
 
-[Specialization](Game/Specialization-List)
+[Specialization](Game/Advancement-List?Specialization=true)
 {: .label .label-green }
 ### Support Division
 *You’ve been trained to deal with serious situations with serious firepower. You are gifted with the best equipment that central has for dealing with serious issues.*

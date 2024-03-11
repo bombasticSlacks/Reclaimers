@@ -1,11 +1,11 @@
 
-[Basic](Game/Basic-List)
+[Basic](Game/Advancement-List?Basic=true)
 {: .label .label-purple }
 
 [Mystic](Game/Mystic)
 {: .label .label-blue }
 
-[Specialization](Game/Specialization-List)
+[Specialization](Game/Advancement-List?Specialization=true)
 {: .label .label-green }
 ### Exorcist
 *You have the tools and knowhow to deal with the otherworldly in more than one way.*

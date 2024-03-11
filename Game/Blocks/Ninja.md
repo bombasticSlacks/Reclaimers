@@ -1,11 +1,11 @@
 
-[Basic](Game/Basic-List)
+[Basic](Game/Advancement-List?Basic=true)
 {: .label .label-purple }
 
 [Agent](Game/Agent)
 {: .label .label-blue }
 
-[Specialization](Game/Specialization-List)
+[Specialization](Game/Advancement-List?Specialization=true)
 {: .label .label-green }
 ### Ninja
 *You've trained as an expert in combat, mastering speed, agility, and lethality with gear to aid in this.*

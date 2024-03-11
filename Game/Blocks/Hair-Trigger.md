@@ -1,11 +1,11 @@
 
-[Basic](Game/Basic-List)
+[Basic](Game/Advancement-List?Basic=true)
 {: .label .label-purple }
 
 [Soldier](Game/Soldier)
 {: .label .label-blue }
 
-[Modification](Game/Modification-List)
+[Modification](Game/Advancement-List?Modification=true)
 {: .label .label-green }
 ### Hair Trigger
 *You have modified your weapons to have rapid fire triggers or potentially to cycle on their own, allowing automatic fire.*

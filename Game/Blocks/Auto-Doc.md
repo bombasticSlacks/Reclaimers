@@ -1,11 +1,11 @@
 
-[Basic](Game/Basic-List)
+[Basic](Game/Advancement-List?Basic=true)
 {: .label .label-purple }
 
 [Medic](Game/Medic)
 {: .label .label-blue }
 
-[Training](Game/Training-List)
+[Training](Game/Advancement-List?Training=true)
 {: .label .label-green }
 ### Auto Doc
 *An unfortunate reality is ending up in a situation where you are the only one with medical training and you have suffered an injury. You've trained for this situation.*

@@ -1,11 +1,11 @@
 
-[Expert](Game/Expert-List)
+[Expert](Game/Advancement-List?Expert=true)
 {: .label .label-purple }
 
 [Medic](Game/Medic)
 {: .label .label-blue }
 
-[Training](Game/Training-List)
+[Training](Game/Advancement-List?Training=true)
 {: .label .label-green }
 ### Playing God
 *Your medical knowledge pushes past what many would consider impossible. You can bring back from the brink of death, or beyond, even the most hopeless.*

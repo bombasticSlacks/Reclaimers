@@ -42,7 +42,7 @@ Equipment readily available to you when you deploy to the field. Remember, you c
 ![Sedatives](Game/Blocks/Sedatives)
 
 ## Specialization
-Even a basic Reclaimer has some specialization in their background and additional training. Select a [Specialization](Game/Specialization-List) to start with providing additional gear. Some recommendations would be:
+Even a basic Reclaimer has some specialization in their background and additional training. Select a [Specialization](Game/Advancement-List?Specialization=true) to start with providing additional gear. Some recommendations would be:
 ![Alchemist](Game/Blocks/Alchemist)
 ![Mad-Doctor](Game/Blocks/Mad-Doctor)
 ![Neuromaster](Game/Blocks/Neuromaster)

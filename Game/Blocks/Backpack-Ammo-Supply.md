@@ -1,11 +1,11 @@
 
-[Expert](Game/Expert-List)
+[Expert](Game/Advancement-List?Expert=true)
 {: .label .label-purple }
 
 [Soldier](Game/Soldier)
 {: .label .label-blue }
 
-[Modification](Game/Modification-List)
+[Modification](Game/Advancement-List?Modification=true)
 {: .label .label-green }
 ### Backpack Ammo Supply
 *You have a massive backpack ammo supply, providing one of your weapons with an almost unending amount of ammo.*

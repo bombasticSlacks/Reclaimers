@@ -1,11 +1,11 @@
 
-[Expert](Game/Expert-List)
+[Expert](Game/Advancement-List?Expert=true)
 {: .label .label-purple }
 
 [Tech](Game/Tech)
 {: .label .label-blue }
 
-[Modification](Game/Modification-List)
+[Modification](Game/Advancement-List?Modification=true)
 {: .label .label-green }
 ### Master Work
 *You know just how to empower everyone's gear, giving them that extra edge.*

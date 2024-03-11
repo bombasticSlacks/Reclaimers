@@ -5,7 +5,7 @@
 [Medic](Game/Medic)
 {: .label .label-blue }
 
-[Training](Game/Training-List)
+[Training](Game/Advancement-List?Training=true)
 {: .label .label-green }
 ### Surgeons Hand
 *You give new meaning to "under the knife" with your skills with blade and saw.*

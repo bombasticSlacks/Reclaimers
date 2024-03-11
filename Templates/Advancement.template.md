@@ -1,11 +1,11 @@
 
-[Basic](Game/Basic-List) Or [Expert](Game/Expert-List)
+[Basic](Game/Advancement-List?Basic=true) Or [Expert](Game/Advancement-List?Expert=true)
 {: .label .label-purple }
 
 ARCH
 {: .label .label-blue }
 
-[Training](Game/Training-List) OR [Augment](Game/Augment-List) OR [Modification](Game/Modification-List) OR [Specialization](Game/Specialization-List)
+[Training](Game/Advancement-List?Training=true) OR [Augment](Game/Advancement-List?Augment=true) OR [Modification](Game/Advancement-List?Modification=true) OR [Specialization](Game/Advancement-List?Specialization=true)
 {: .label .label-green }
 ### Name
 *Description*

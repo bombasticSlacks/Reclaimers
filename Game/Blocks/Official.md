@@ -1,11 +1,11 @@
 
-[Basic](Game/Basic-List)
+[Basic](Game/Advancement-List?Basic=true)
 {: .label .label-purple }
 
 [Prole](Game/Prole)
 {: .label .label-blue }
 
-[Specialization](Game/Specialization-List)
+[Specialization](Game/Advancement-List?Specialization=true)
 {: .label .label-green }
 ### Official
 *You've received training as a dignitary, having access to a few of the more subtle and powerful tools [CentGov](Game/Terms-And-Jargon#CentGov) has for their representatives in space.*
