@@ -8,7 +8,7 @@ python3 ./Game/Core/Scripts/lists.py Game/Core/Gear.md Gear-Trait Game/Core/Bloc
 python3 ./Game/Core/Scripts/lists.py Game/Armour-List.md Armour-List Game/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Weapons-List.md Weapons-List Game/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Gear-List.md Gear-List Game/Blocks
-python3 ./Game/Core/Scripts/lists.py Game/Advancement-List.md Basic-List,Expert-List Game/Blocks
+python3 ./Game/Core/Scripts/lists.py Game/Advancement-List.md Basic=true,Expert=true Game/Blocks
 # Creatures
 python3 ./Game/Core/Scripts/lists.py Game/Black-Mass-Creatures.md Black-Mass-Creatures Game/Creatures
 
