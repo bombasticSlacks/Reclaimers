@@ -5,7 +5,7 @@
 [Unborn](Game/Unborn)
 {: .label .label-blue }
 
-[Augment](Game/Augment-List)
+[Augment](Game/Advancement-List?Augment=true)
 {: .label .label-green }
 ### Vermin Speaker
 *You have a heightened connection with your primitive side, allowing you an increased telepathic connection to vermin, rodents, and other scavengers.*

@@ -5,7 +5,7 @@
 [Mystic](Game/Mystic)
 {: .label .label-blue }
 
-[Augment](Game/Augment-List)
+[Augment](Game/Advancement-List?Augment=true)
 {: .label .label-green }
 ### Dead Tales
 *You are attuned to the spirits of the lost; they cry out all around you. You know how to make them speak.*

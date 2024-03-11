@@ -5,7 +5,7 @@
 [Unborn](Game/Unborn)
 {: .label .label-blue }
 
-[Augment](Game/Augment-List)
+[Augment](Game/Advancement-List?Augment=true)
 {: .label .label-green }
 ### Primal Power
 *You have learned to tap into your primal force to lend you aid.*

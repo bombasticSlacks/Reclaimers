@@ -5,7 +5,7 @@
 [Envoy](Game/Envoy)
 {: .label .label-blue }
 
-[Augment](Game/Augment-List)
+[Augment](Game/Advancement-List?Augment=true)
 {: .label .label-green }
 ### Composure
 *You have deigned to separate your bodily senses fully from your mind, making pain and suffering just passing thoughts.*

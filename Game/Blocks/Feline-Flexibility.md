@@ -5,7 +5,7 @@
 [Agent](Game/Agent)
 {: .label .label-blue }
 
-[Augment](Game/Augment-List)
+[Augment](Game/Advancement-List?Augment=true)
 {: .label .label-green }
 ### Feline Flexibility
 *Your bones and tendons have been augmented to bend and flex like those of a cat.*

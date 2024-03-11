@@ -54,7 +54,7 @@ Something about you makes you the best of the best. Roll a 12 sided dice to dete
 | 5 | Spirited | +1 [Spirit](Game/Core/Spirit) |
 | 6 | Communicative | +1 [Communication](Game/Core/Communication) |
 | 7 | Skilled | +3 [Skills](Game/Core/Skills) of your choice |
-| 8 | Augmented | Select a [Basic](Game/Progress#Basic) [Augment](Game/Augment-List) of your choice |
+| 8 | Augmented | Select a [Basic](Game/Progress#Basic) [Augment](Game/Advancement-List?Augment=true) of your choice |
 | 9 | Trained | Select a [Basic](Game/Progress#Basic) [Training](Game/Training-List) of your choice |
 | 10 | Tinkerer | Select a [Basic](Game/Progress#Basic) [Modification](Game/Modification-List) of your choice |
 | 11 | Specialized | Select a [Basic](Game/Progress#Basic) [Specialization](Game/Specialization-List) of your choice |

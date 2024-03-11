@@ -5,7 +5,7 @@
 [Soldier](Game/Soldier)
 {: .label .label-blue }
 
-[Augment](Game/Augment-List)
+[Augment](Game/Advancement-List?Augment=true)
 {: .label .label-green }
 ### Mega Muscle Implants
 *Synthetic muscles introduced into critical muscle groups to increase power. A very obvious modification with large patches of synthetic grey muscle and carbon tubing portruding / replacing skin.*
