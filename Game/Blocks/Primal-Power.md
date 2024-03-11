@@ -1,5 +1,5 @@
 
-[Expert](Game/Progress#Expert)
+[Expert](Game/Advancement-List?Expert=true)
 {: .label .label-purple }
 
 [Unborn](Game/Unborn)

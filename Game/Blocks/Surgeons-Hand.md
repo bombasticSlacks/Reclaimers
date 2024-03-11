@@ -1,5 +1,5 @@
 
-[Basic](Game/Progress#Basic)
+[Basic](Game/Advancement-List?Basic=true)
 {: .label .label-purple }
 
 [Medic](Game/Medic)

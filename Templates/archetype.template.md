@@ -31,7 +31,7 @@ Equipment readily available to you when you deploy to the field. Remember, you c
 [Deploy](Game/Deployment) With Any Number
 
 
-## Advancements
+## Recommended Advancements
 Training the Reclaimer can take as they [Progress](Game/Progress) their career. Remember, you can always take advancements from the [Standard-Advancements](Game/Standard-Advancements) as well.
 
 
