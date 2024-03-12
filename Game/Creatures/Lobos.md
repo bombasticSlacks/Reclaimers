@@ -1,14 +1,13 @@
 Fodder
 {: .label .label-purple }
 
-[Black-Mass-Creatures](Game/Black-Mass-Creatures)
+[Traitors](Game/Hostile-Groups#Traitors)
 {: .label .label-blue }
-### Mass Fragment
-*A chunk of mass come to life looking to infect those around it.*
+## Lobos
+*A once living body that has been modified with cybernetics to continue to perform menial tasks in perpetuity.*
 
 | Move                              | Threat | Integrity | Weakness | Resistance |
 | --------------------------------- | ------ | --------- | -------- | ---------- |
 | [Reach](Game/Core/Movement#Reach) | 1      | -         | -        | -          |
 
-* [Attack(+3, Impact, 1)](Game/Core/Blocks/Attack)
-* [Grapple(+4, 0)](Game/Core/Blocks/Grapple)
+* [Attack](Game/Core/Blocks/Attack)(+3, [Impact](Game/Core/Injury#Impact), 1)
