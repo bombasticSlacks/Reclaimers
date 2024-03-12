@@ -53,6 +53,7 @@ Part of a [Foreign Affairs](Game/Government#Foreign%20Affairs), good at "collect
 
 ## Abilities
 ![Missing-Clue](Game/Blocks/Missing-Clue)
+![Security-HUD](Game/Blocks/Security-HUD)
 
 ## Attributes
 
