@@ -6,7 +6,7 @@ parent: Players
 grand_parent: Bellator
 nav_order: 0
 ---
-# Dietrich
+# Dietrich (She / Her)
 {: .no_toc }
 
 A [Sleuth](Game/Sleuth) [Interrogator](Game/Blocks/Interrogator) who is well trained.

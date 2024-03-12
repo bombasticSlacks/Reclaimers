@@ -6,7 +6,7 @@ parent: Players
 grand_parent: Bellator
 nav_order: 0
 ---
-# Ken Hawthorne
+# Ken Hawthorne(He / Him)
 {: .no_toc }
 
 <details open markdown="block">
@@ -20,7 +20,9 @@ nav_order: 0
 
 
 ## Details
-DESCRIPTION HERE
+Used to be a priest, fascination with the occult and exorcism. Travelled outside the dome helping outsider cultures. Noticed for his psychic aptitude and ability to perform banishment.
+
+Ken has a black jumpsuit with the priests collar. Dangles a rosary off his waist. Younger man with a goatee and greasy black hair.
 
 ## Weapons (Select Up To 2)
 ![Break-Action-Driver](Game/Blocks/Break-Action-Driver)

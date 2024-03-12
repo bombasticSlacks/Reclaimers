@@ -6,7 +6,7 @@ parent: Players
 grand_parent: Bellator
 nav_order: 0
 ---
-# Mabushi Taiyo
+# Mabushi Taiyo (She / Her)
 {: .no_toc }
 
 <details open markdown="block">
@@ -20,7 +20,7 @@ nav_order: 0
 
 
 ## Details
-DESCRIPTION HERE
+A space samurai, honour bound and dedicated to care and protection. Late 20's, very fit and augmented. Prodigy child to humanitarian barons but was betrayed and thrown in a Corpo jail cell. 
 
 ## Weapons (Select Up To 2)
 ![Break-Action-Driver](Game/Blocks/Break-Action-Driver)
