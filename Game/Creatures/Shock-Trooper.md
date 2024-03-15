@@ -13,7 +13,7 @@ Boss
 
 * [Attack](Game/Core/Blocks/Attack)(+7, [Rending](Game/Core/Injury#Impact), 3) when it swings its sword.
 * [Attack](Game/Core/Blocks/Attack)(+4, [Heat](Game/Core/Injury#Heat), 4) when it energizes its sword with heat.
-* [Ranged Attack](Game/Core/Blocks/Ranged%20Attack)(+6, [Heat](Game/Core/Injury#Heat), 3, [Close](Game/Core/Movement#Close)) when it burns people with its mind, causes [On Fire](Game/Core/Effects#On%20Fire).
+* [Ranged-Attack](Game/Core/Blocks/Ranged-Attack)(+6, [Heat](Game/Core/Injury#Heat), 3, [Close](Game/Core/Movement#Close)) when it burns people with its mind, causes [On Fire](Game/Core/Effects#On%20Fire).
 * [Reaction](Game/Core/Blocks/Reaction)(+3, 2) (+3) against ranged attacks as it propels a barrier.
 * [Resilience](Game/Core/Blocks/Resilience)(+3).
 
