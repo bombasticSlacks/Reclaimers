@@ -39,3 +39,5 @@ A group of highly advanced humans who have a large cathedral like mega ship that
 ### Profiteers
 Pirates coming from a history of anarcho-capitalists and military looters. Having stolen and scuttled ships capable of travel they now attempt to increase their reach over the galaxy, sowing chaos and taking anything they want in the process.
 
+### Traitors
+Sometimes for whatever reason, members of [CentGov](Game/Terms-And-Jargon#CentGov) decide to work against it.

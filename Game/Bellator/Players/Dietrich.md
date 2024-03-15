@@ -28,6 +28,10 @@ Most notable about her appearance is the small black feathers protruding sporadi
 
 Part of a [Foreign Affairs](Game/Government#Foreign%20Affairs), good at "collecting" information. 
 
+## Side Stories 
+Dietrich has been studying Xeno Biology.
+
+
 ## Trophy
 ![Vibro-Weapon](Game/Blocks/Vibro-Weapon)
 
