@@ -9,4 +9,4 @@ nav_order: 1
 # Advancement List
 {: .no_toc }
 
-<fieldset class="filter"><legend>Filter Advancements:</legend></fieldset>
+<details><summary>Filter Advancements</summary><fieldset class="filter"></fieldset></details>
