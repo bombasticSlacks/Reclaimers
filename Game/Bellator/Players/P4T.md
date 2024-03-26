@@ -49,7 +49,7 @@ Wears a sweater vest over his jumpsuit (when not wearing armour). Plays soothing
 ![Synthesis-Kit](Game/Blocks/Synthesis-Kit)
 
 ## Abilities
-
+![Aggression-Detector](Game/Blocks/Aggression-Detector)
 
 ## Attributes
 
