@@ -10,13 +10,12 @@
 #### Micro Weapon
 *A small jewellery disguised weapon that can disperse two high-energy laser shots before requiring recharge.*
 
-| Default [Damage](Core/Weapons#Calculating%20Damage) | 3(-3) |
-| :--- | :--- |
-| [Damage Bonus](Game/Core/Weapons#Damage%20Bonus) | 13 |
-| [Damage Type](Core/Weapons#Damage%20Type) | [Heat](Game/Core/Injury#Heat) |
-| [Range](Core/Weapons#Range) | [Short](Game/Core/Movement#Short) |
-| [Threat](Core/Weapons#Threat) | 0 |
-| [Weapon Traits](Core/Weapon-Traits) | [Handless](Game/Core/Blocks/Handless), [Targeted](Game/Core/Blocks/Targeted), [Advanced](Game/Core/Blocks/Advanced), [Capacity](Game/Core/Blocks/Capacity)(2, [Energy](Game/Munition-Details#Energy)), [Disguised](Game/Core/Blocks/Disguised)   |
+| Default [Damage](Core/Weapons#Calculating%20Damage) | 3(-3)                                                                                                                                                                                                                                          |
+| :-------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Damage Bonus](Game/Core/Weapons#Damage%20Bonus)    | 13                                                                                                                                                                                                                                             |
+| [Damage Type](Core/Weapons#Damage%20Type)           | [Heat](Game/Core/Injury#Heat)                                                                                                                                                                                                                  |
+| [Range](Core/Weapons#Range)                         | [Short](Game/Core/Movement#Short)                                                                                                                                                                                                              |
+| [Weapon Traits](Core/Weapon-Traits)                 | [Handless](Game/Core/Blocks/Handless), [Targeted](Game/Core/Blocks/Targeted), [Advanced](Game/Core/Blocks/Advanced), [Capacity](Game/Core/Blocks/Capacity)(2, [Energy](Game/Munition-Details#Energy)), [Disguised](Game/Core/Blocks/Disguised) |
 
 * This weapon cannot be reloaded and must be recharged which takes a few minutes.
 
