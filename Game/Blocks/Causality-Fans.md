@@ -10,13 +10,12 @@
 #### Causality Fans
 *A strange pair of incredibly lethal decorative fans reinforced with a strange black metal and fabric that seems to shift and warp as they move through space. With proper practice, a skilled user can summon these from out of thin air and use them to brutal effectiveness.*
 
-| Default [Damage](Core/Weapons#Calculating%20Damage) | 3(-4) |
-| :--- | :--- |
-| [Damage Bonus](Game/Core/Weapons#Damage%20Bonus) | 12 |
-| [Damage Type](Core/Weapons#Damage%20Type) | [Rending](Game/Core/Injury#Rending) |
-| [Range](Core/Weapons#Range) | [Reach](Game/Core/Movement#Reach) |
-| [Threat](Core/Weapons#Threat) | 1 |
-| [Weapon Traits](Core/Weapon-Traits) | [Two Handed](Game/Core/Blocks/Two-Handed), [Striking](Game/Core/Blocks/Striking), [Paired](Game/Core/Blocks/Paired), [Bound](Game/Core/Blocks/Bound) |
+| Default [Damage](Core/Weapons#Calculating%20Damage) | 3(-4)                                                                                                                                                |
+| :-------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Damage Bonus](Game/Core/Weapons#Damage%20Bonus)    | 12                                                                                                                                                   |
+| [Damage Type](Core/Weapons#Damage%20Type)           | [Rending](Game/Core/Injury#Rending)                                                                                                                  |
+| [Range](Core/Weapons#Range)                         | [Reach](Game/Core/Movement#Reach)                                                                                                                    |
+| [Weapon Traits](Core/Weapon-Traits)                 | [Two Handed](Game/Core/Blocks/Two-Handed), [Striking](Game/Core/Blocks/Striking), [Paired](Game/Core/Blocks/Paired), [Bound](Game/Core/Blocks/Bound) |
 
 * At the start of combat, and as a free action on each of your turns you roll 1d6 to determine what traits the fans have from the following:
 

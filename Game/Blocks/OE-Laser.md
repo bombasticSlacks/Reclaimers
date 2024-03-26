@@ -10,10 +10,9 @@
 #### OE Laser
 *A devastating weapon used to destroy armoured vehicles while liquifying the passengers. Releases devastating blasts of pure energy that disintegrates victims and can cause fires. It should not be fired in small rooms.*
 
-| Default [Damage](Core/Weapons#Calculating%20Damage) | 3(-3) |
-| :--- | :--- |
-| [Damage Bonus](Game/Core/Weapons#Damage%20Bonus) | 13 |
-| [Damage Type](Core/Weapons#Damage%20Type) | [Heat](Core/Injury#Heat) |
-| [Range](Core/Weapons#Range) | [Short](Core/Movement#Short) |
-| [Threat](Core/Weapons#Threat) | 4 |
-| [Weapon Traits](Core/Weapon-Traits) | [Two Handed](Game/Core/Blocks/Two-Handed), [Capacity](Core/Weapon-Traits#Capacity(X,%20Type))(4, [Energy](Munition-Details#Energy)), [Loading](Game/Core/Blocks/Loading)(2), [Area](Game/Core/Blocks/Area), [Advanced](Game/Core/Blocks/Advanced), [Targeted](Game/Core/Blocks/Targeted) |
+| Default [Damage](Core/Weapons#Calculating%20Damage) | 3(-3)                                                                                                                                                                                                                                                                                                                                                |
+| :-------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Damage Bonus](Game/Core/Weapons#Damage%20Bonus)    | 13                                                                                                                                                                                                                                                                                                                                                   |
+| [Damage Type](Core/Weapons#Damage%20Type)           | [Heat](Core/Injury#Heat)                                                                                                                                                                                                                                                                                                                             |
+| [Range](Core/Weapons#Range)                         | [Short](Core/Movement#Short)                                                                                                                                                                                                                                                                                                                         |
+| [Weapon Traits](Core/Weapon-Traits)                 | [Two Handed](Game/Core/Blocks/Two-Handed), [Capacity](Core/Weapon-Traits#Capacity(X,%20Type))(4, [Energy](Munition-Details#Energy)), [Loading](Game/Core/Blocks/Loading)(2), [Area](Game/Core/Blocks/Area), [Advanced](Game/Core/Blocks/Advanced), [Targeted](Game/Core/Blocks/Targeted), [Very Threatening](Game/Core/Blocks/Very%20Threatening) |

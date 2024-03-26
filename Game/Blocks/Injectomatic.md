@@ -15,7 +15,6 @@
 | [Damage Bonus](Game/Core/Weapons#Damage%20Bonus)    | 0                                                                                                                                                                                                          |
 | [Damage Type](Core/Weapons#Damage%20Type)           | -                                                                                                                                                                                                          |
 | [Range](Core/Weapons#Range)                         | [Far](Game/Core/Movement#Far)                                                                                                                                                                              |
-| [Threat](Core/Weapons#Threat)                       | 1                                                                                                                                                                                                          |
 | [Weapon Traits](Core/Weapon-Traits)                 | [Two Handed](Game/Core/Blocks/Two-Handed), [Capacity](Game/Core/Blocks/Capacity)(1, [Injector](Game/Blocks/Injector)), [Loading](Game/Core/Blocks/Loading)(0), [Salvageable](Game/Core/Blocks/Salvageable) |
 
 * Anyone struck by this is affected by the fired injector, they do not need to be [Compliant](Game/Core/Terminology#Compliant).

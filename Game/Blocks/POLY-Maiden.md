@@ -14,9 +14,9 @@
 | :---- | :---- |
 | [Armour-Traits](Game/Core/Armour-Traits) | [Living](Game/Core/Blocks/Living), [Regenerating](Game/Core/Blocks/Regenerating) |
 
-|  | [Ancillary](Game/Core/Injury#Ancillary) | [Vitals](Game/Core/Injury#Vitals) |
-| ---- | ---- | ---- |
-| [Skill Penalty](Game/Core/Armour#Skill%20Penalty) | (0) | (0) |
-| [Weakness](Game/Core/Armour#Weakness%20and%20Resistance) | [Rending](Core/Injury#Rending) | [Rending](Core/Injury#Rending) |
+|                                                            | [Ancillary](Game/Core/Injury#Ancillary)                                          | [Vitals](Game/Core/Injury#Vitals)                                                |
+| ---------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| [Skill Penalty](Game/Core/Armour#Skill%20Penalty)          | -                                                                                | -                                                                                |
+| [Weakness](Game/Core/Armour#Weakness%20and%20Resistance)   | [Rending](Core/Injury#Rending)                                                   | [Rending](Core/Injury#Rending)                                                   |
 | [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) | [Impact](Core/Injury#Impact), [Cold](Core/Injury#Cold), [Life](Core/Injury#Life) | [Impact](Core/Injury#Impact), [Cold](Core/Injury#Cold), [Life](Core/Injury#Life) |
 

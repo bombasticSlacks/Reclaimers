@@ -14,5 +14,4 @@
 | [Damage Bonus](Game/Core/Weapons#Damage%20Bonus)    | 6 + [Spirit](Game/Core/Spirit)                                                                                                                                              |
 | [Damage Type](Core/Weapons#Damage%20Type)           | [Heat](Game/Core/Injury#Heat), [Cold](Game/Core/Injury#Cold)                                                                                                                |
 | [Range](Core/Weapons#Range)                         | [Close](Game/Core/Movement#Close)                                                                                                                                           |
-| [Threat](Core/Weapons#Threat)                       | 1                                                                                                                                                                           |
 | [Weapon Traits](Core/Weapon-Traits)                 | [One Handed](Game/Core/Blocks/One-Handed), [Mind Over Matter](Game/Core/Blocks/Mind-Over-Matter), [Magical](Game/Core/Blocks/Magical), [Spirit](Game/Core/Blocks/Spiritual) |

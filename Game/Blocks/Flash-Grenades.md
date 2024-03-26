@@ -11,10 +11,9 @@
 *Grenades designed for non-lethal takedowns and entries, causing a bright light + loud explosion that is enough to cause temporary blindness and deafness.*
 * Traits: [Comestibles](Game/Core/Blocks/Comestibles)
 
-| Default [Damage](Core/Weapons#Calculating%20Damage) | 0 |
-| :--- | :--- |
-| [Damage Bonus](Game/Core/Weapons#Damage%20Bonus) | 0 |
-| [Damage Type](Core/Weapons#Damage%20Type) | - |
-| [Range](Core/Weapons#Range) | [Close](Game/Core/Movement#Close) |
-| [Threat](Core/Weapons#Threat) | 1 |
-| [Weapon Traits](Core/Weapon-Traits) | [One Handed](Game/Core/Blocks/One-Handed), [Thrown](Game/Core/Blocks/Thrown), [Powerful Stunning](Game/Core/Blocks/Powerful-Stunning), [Massive Explosion](Game/Core/Blocks/Massive-Explosion) |
+| Default [Damage](Core/Weapons#Calculating%20Damage) | 0                                                                                                                                                                                              |
+| :-------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Damage Bonus](Game/Core/Weapons#Damage%20Bonus)    | 0                                                                                                                                                                                              |
+| [Damage Type](Core/Weapons#Damage%20Type)           | -                                                                                                                                                                                              |
+| [Range](Core/Weapons#Range)                         | [Close](Game/Core/Movement#Close)                                                                                                                                                              |
+| [Weapon Traits](Core/Weapon-Traits)                 | [One Handed](Game/Core/Blocks/One-Handed), [Thrown](Game/Core/Blocks/Thrown), [Powerful Stunning](Game/Core/Blocks/Powerful-Stunning), [Massive Explosion](Game/Core/Blocks/Massive-Explosion) |
