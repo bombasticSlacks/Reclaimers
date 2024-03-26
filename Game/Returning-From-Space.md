@@ -14,13 +14,14 @@ nav_order: 0
 
 Increase your [Exhaustion](Game/Additional-Attributes#Exhaustion) if any of the following has happened (note, you always gain at least 1 exhaustion):
 
-| Event | Increase |
-| ---- | ---- |
-| Time moves forward | +1 |
-| You were [Wounded](Game/Core/Effects#Wounded) | +1 |
-| Reached your max [Stress](Game/Additional-Attributes#Stress) | +2 |
-| Another Reclaimer Died | +3 |
-| Failed Your Mission | +3 |
+| Event                                                        | Increase |
+| ------------------------------------------------------------ | -------- |
+| Time moves forward                                           | +1       |
+| Another Reclaimer Was [Wounded](Game/Core/Effects#Wounded)   | +1       |
+| You were [Wounded](Game/Core/Effects#Wounded)                | +2       |
+| Reached your max [Stress](Game/Additional-Attributes#Stress) | +2       |
+| Another Reclaimer Died                                       | +3       |
+| Failed Your Mission                                          | +3       |
 
 ### Retiring
 When your character reaches their [Exhaustion](Game/Additional-Attributes#Exhaustion) value they can go on one more [Deployment](Game/Deployment) but then are expected to retire. When your character retires they are no longer playable, however when creating a replacement for your retiree they may start with a piece of gear your old character had access to as a [Trophy](#Trophy), and when determining your [Distinguishing Characteristic](Game/Creating-A-Reclaimer#Distinguishing%20Characteristic) you may roll twice and use the result you prefer.
