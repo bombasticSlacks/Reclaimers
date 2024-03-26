@@ -4,20 +4,12 @@
 ## Military Base
 ```mermaid
 graph TD
-
 Checkpoint <--> Parade
-
-Checkpoint <--> Watchtower  <--> Security <--> Bunks <--> Maintenance <--> Command <--> Medical <--> Checkpoint
-
+Checkpoint <--> Watchtower<-->Security <--> Bunks <--> Maintenance <--> Command <--> Medical <--> Checkpoint
 Watchtower <--> Parade
-
 Security <--> Parade
-
 Bunks <--> Parade
-
 Maintenance <--> Parade
-
 Command <--> Parade
-
 Medical <--> Parade
 ```

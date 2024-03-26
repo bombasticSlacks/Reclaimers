@@ -4,6 +4,10 @@ python3 ./Game/Core/Scripts/lists.py Game/Core/Weapon-Traits.md Weapon-Traits Ga
 python3 ./Game/Core/Scripts/lists.py Game/Core/Armour-Traits.md Armour-Traits Game/Core/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Core/Gear.md Gear-Trait Game/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Core/Gear.md Gear-Trait Game/Core/Blocks
+python3 ./Game/Core/Scripts/lists.py Game/Core/Character-Actions.md Character-Actions Game/Core/Blocks
+python3 ./Game/Core/Scripts/lists.py Game/Core/Character-Traits.md Character-Traits Game/Core/Blocks
+python3 ./Game/Core/Scripts/lists.py Game/Core/Character-Traps.md Character-Traps Game/Core/Blocks
+
 # Reclaimers Lists
 python3 ./Game/Core/Scripts/lists.py Game/Armour-List.md Armour-List Game/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Weapons-List.md Weapons-List Game/Blocks
