@@ -15,7 +15,7 @@
 | [Damage Bonus](Game/Core/Weapons#Damage%20Bonus)    | -                                                                                                                                                                                  |
 | [Damage Type](Core/Weapons#Damage%20Type)           | [Heat](Game/Core/Injury#Heat)                                                                                                                                                      |
 | [Range](Core/Weapons#Range)                         | [Reach](Game/Core/Movement#Reach)                                                                                                                                                  |
-| [Weapon Traits](Core/Weapon-Traits)                 | [One Handed](Game/Core/Blocks/One-Handed), [Striking](Game/Core/Blocks/Striking), [Shield(4)](Game/Core/Blocks/Shield), [Very Threatening](Game/Core/Blocks/Very%20Threatening) |
+| [Weapon Traits](Core/Weapon-Traits)                 | [One Handed](Game/Core/Blocks/One-Handed), [Striking](Game/Core/Blocks/Striking), [Shield(4)](Game/Core/Blocks/Shield), [Very-Threatening](Game/Core/Blocks/Very-Threatening) |
 
 * Anyone you allow within [Reach](Game/Core/Movement#Reach) also benefits from this [Shield](Game/Core/Terminology#Shield).
 
