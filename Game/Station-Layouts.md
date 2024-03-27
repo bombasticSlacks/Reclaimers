@@ -11,4 +11,3 @@ nav_order: 0
 
 This is a list of common station layouts for space stations and facilities.
 
-![Spoke](Game/Blocks/Spoke)
