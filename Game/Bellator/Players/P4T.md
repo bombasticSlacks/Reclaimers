@@ -50,6 +50,7 @@ Wears a sweater vest over his jumpsuit (when not wearing armour). Plays soothing
 
 ## Abilities
 ![Aggression-Detector](Game/Blocks/Aggression-Detector)
+![Expanders](Game/Bellator/Advancements/Expanders)
 
 ## Attributes
 

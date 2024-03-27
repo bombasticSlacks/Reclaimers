@@ -28,7 +28,7 @@ Most notable about her appearance is the small black feathers protruding sporadi
 
 Part of a [Foreign Affairs](Game/Government#Foreign%20Affairs), good at "collecting" information. 
 
-## Side Stories 
+## Side Stories
 Dietrich has been studying Xeno Biology.
 
 
@@ -56,6 +56,7 @@ Dietrich has been studying Xeno Biology.
 ![Manacles](Game/Blocks/Manacles)
 
 ## Abilities
+![Expanders](Game/Bellator/Advancements/Expanders)
 ![Missing-Clue](Game/Blocks/Missing-Clue)
 ![Security-HUD](Game/Blocks/Security-HUD)
 

@@ -49,3 +49,4 @@ Was designated as a war hero, held out behind enemy lines.
 
 ## Abilities
 ![Composure](Game/Blocks/Composure)
+![Expanders](Game/Bellator/Advancements/Expanders)
