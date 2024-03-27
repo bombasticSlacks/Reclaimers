@@ -9,4 +9,4 @@
 {: .label .label-green }
 ### Tingles
 *You are extra sensitive to the otherworldly and can feel when something is wrong.*
-* You detect magical or otherworldly phenomenons when are near them.
+* You detect magical or otherworldly phenomenons when you are near them.
