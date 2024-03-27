@@ -47,4 +47,4 @@ Would have been on eradication squads clearing out decimated portions of earth.
 ![Painkillers](Game/Blocks/Painkillers)
 
 ## Abilities
-![Expanders](Game/Bellator/Advancements/Expanders)
+![Expanders](Game/Blocks/Expanders)

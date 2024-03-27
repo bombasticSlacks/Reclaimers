@@ -45,5 +45,5 @@ Ken has a black jumpsuit with the priests collar. Dangles a rosary off his waist
 ![Spectrometer](Game/Blocks/Spectrometer)
 
 ## Abilities
-![Expanders](Game/Bellator/Advancements/Expanders)
+![Expanders](Game/Blocks/Expanders)
 ![Tingles](Game/Blocks/Tingles)

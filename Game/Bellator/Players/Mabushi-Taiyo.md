@@ -43,5 +43,5 @@ A space samurai, honour bound and dedicated to care and protection. Late 20's, v
 ![Problem-Solving-Pen](Game/Blocks/Problem-Solving-Pen)
 
 ## Abilities
-![Expanders](Game/Bellator/Advancements/Expanders)
+![Expanders](Game/Blocks/Expanders)
 ![Weapon-Expert](Game/Blocks/Weapon-Expert)
