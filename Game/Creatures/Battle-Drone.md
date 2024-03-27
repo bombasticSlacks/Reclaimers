@@ -9,6 +9,7 @@
 | Move                              | Integrity | Weakness                      | Resistance                          |
 | --------------------------------- | --------- | ----------------------------- | ----------------------------------- |
 | [Close](Game/Core/Movement#Close) | 3         | [Cold](Game/Core/Injury#Cold) | [Rending](Game/Core/Injury#Rending) |
+
 #### Attacks
 * [Ranged-Attack](Game/Core/Blocks/Ranged-Attack)(+4, [Heat](Game/Core/Injury#Heat), 2, [Short](Game/Core/Movement#Short)) when it fires its laser.
 

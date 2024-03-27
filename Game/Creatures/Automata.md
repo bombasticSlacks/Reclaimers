@@ -9,6 +9,7 @@
 | Move                                 | Integrity | Weakness                         | Resistance                           |
 | ------------------------------------ | --------- | -------------------------------- | ------------------------------------ |
 | [Close](Game/Core/Movement#Close) | 4         | [Cold](Game/Core/Injury#Cold) | [Impact](Game/Core/Injury#Impact) |
+
 #### Actions
 * [Attack](Game/Core/Blocks/Attack)(+5, [Impact](Game/Core/Injury#Impact), 2) *may be armed with a weapon dealing more or different damage*
 * [Grapple](Game/Core/Blocks/Grapple)(4, -2)
