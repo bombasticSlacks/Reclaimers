@@ -22,6 +22,10 @@ nav_order: 0
 ## Details
 A [Medic](Game/Medic) [Eradicator](Game/Blocks/Eradicator).
 
+Hot pink jumpsuit, very ghostbusters aesthetic. French braids, for style and function.
+
+Would have been on eradication squads clearing out decimated portions of earth.
+
 ## Weapons (Select Up To 2)
 ![Break-Action-Driver](Game/Blocks/Break-Action-Driver)
 ![Chem-Thrower](Game/Blocks/Chem-Thrower)

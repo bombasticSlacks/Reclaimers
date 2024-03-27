@@ -6,9 +6,13 @@ Label
 ### Name
 *Description.*
 
-| Move | Threat | Integrity | Weakness | Resistance |
-| ---- | ------ | --------- | -------- | ---------- |
-|      |        |           |          |            |
-
+| Move | Integrity | Weakness | Resistance |
+| ---- | --------- | -------- | ---------- |
+|      |           |          |            |
+#### Actions
 * [Attack](Game/Core/Blocks/Attack)(+X, TYPE, DAM)
-* [Reaction](Game/Core/Blocks/Reaction)(+X, 1)
+
+#### Traits
+* 
+#### Traps
+* 

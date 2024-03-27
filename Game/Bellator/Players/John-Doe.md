@@ -22,6 +22,9 @@ nav_order: 0
 ## Details
 A [Mechanized-Division](Game/Blocks/Mechanized-Division) [Soldier](Game/Soldier).
 
+Born off world, didn't know their family, adopted by Cent-Gov as a soldier early in life. Serious, severe, honour bound person. Wants to do the right thing. Slender / gaunt, buzz cut, and 18 (very young).
+
+Was designated as a war hero, held out behind enemy lines.
 
 
 ## Weapons (Select Up To 2)
