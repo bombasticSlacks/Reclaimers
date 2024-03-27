@@ -15,7 +15,7 @@ python3 ./Game/Core/Scripts/lists.py Game/Gear-List.md Gear-List Game/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Advancement-List.md Basic=true,Expert=true Game/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Station-Layouts.md Station-Layouts Game/Blocks
 # Creatures
-python3 ./Game/Core/Scripts/lists.py Game/Creatures.md Creatures Game/Creatures
+python3 ./Game/Core/Scripts/lists.py Game/Creatures.md Boss=true,Elite=true,Fodder=true Game/Creatures
 
 
 
