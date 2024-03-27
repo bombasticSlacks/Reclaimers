@@ -1,4 +1,4 @@
-Elite
+[Creatures](Game/Creatures?Elite=true)
 {: .label .label-purple }
 
 [Black Mass](Game/Hostile-Groups#Black%20Mass)

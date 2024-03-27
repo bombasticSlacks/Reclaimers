@@ -1,4 +1,4 @@
-Boss
+[Creatures](Game/Creatures?Boss=true)
 {: .label .label-purple }
 
 [Coalition Of The God King](Game/Hostile-Groups#Coalition%20Of%20The%20God%20King)

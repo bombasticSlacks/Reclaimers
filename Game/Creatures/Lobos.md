@@ -1,4 +1,4 @@
-Fodder
+[Creatures](Game/Creatures?Fodder=true)
 {: .label .label-purple }
 
 [Traitors](Game/Hostile-Groups#Traitors)

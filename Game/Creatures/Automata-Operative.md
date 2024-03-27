@@ -1,4 +1,4 @@
-Boss
+[Creatures](Game/Creatures?Boss=true)
 {: .label .label-purple }
 
 [The Free](Game/Hostile-Groups#The%20Free)

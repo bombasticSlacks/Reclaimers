@@ -1,4 +1,4 @@
-Elite
+[Creatures](Game/Creatures?Elite=true)
 {: .label .label-purple }
 
 [Traitors](Game/Hostile-Groups#Traitors)

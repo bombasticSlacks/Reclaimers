@@ -1,4 +1,4 @@
-Elite
+[Creatures](Game/Creatures?Elite=true)
 {: .label .label-purple }
 
 [The Free](Game/Hostile-Groups#The%20Free)

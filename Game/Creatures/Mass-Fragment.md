@@ -1,4 +1,4 @@
-Fodder
+[Creatures](Game/Creatures?Fodder=true)
 {: .label .label-purple }
 
 [Black Mass](Game/Hostile-Groups#Black%20Mass)
