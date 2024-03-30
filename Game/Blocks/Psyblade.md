@@ -10,10 +10,10 @@
 #### Psyblade
 *A focus into which you can channel mental energy and form into a lethal blade. A mass of mental energy capable of tearing through near anything.*
 
-| Default [Damage](Core/Weapons#Calculating%20Damage) | 1(-1 + [Strength](Game/Core/Strength) + [Spirit](Game/Core/Spirit))                                                                                                                                |
-| :-------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Damage Bonus](Game/Core/Weapons#Damage%20Bonus)    | 5 + [Strength](Game/Core/Strength) + [Spirit](Game/Core/Spirit)                                                                                                                                    |
-| [Damage Type](Core/Weapons#Damage%20Type)           | [Rending](Game/Core/Injury#Rending), [Life](Game/Core/Injury#Life)                                                                                                                                 |
-| [Range](Core/Weapons#Range)                         | [Reach](Game/Core/Movement#Reach)                                                                                                                                                                  |
-| [Weapon Traits](Core/Weapon-Traits)                 | [One Handed](Game/Core/Blocks/One-Handed), [Mass](Game/Core/Blocks/Mass), [Spirit](Game/Core/Blocks/Spiritual), [Striking](Game/Core/Blocks/Striking), [Threatening](Game/Core/Blocks/Threatening) |
+| Default [Damage](Core/Weapons#Calculating%20Damage)       | 1                                                                                                                                                                                                  |
+| :-------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Extra Damage](Game/Core/Attacks#Extra%20Damage) Modifier | (-1 + [Strength](Game/Core/Strength) + [Spirit](Game/Core/Spirit))                                                                                                                                 |
+| [Damage Type](Core/Weapons#Damage%20Type)                 | [Rending](Game/Core/Injury#Rending), [Life](Game/Core/Injury#Life)                                                                                                                                 |
+| [Range](Core/Weapons#Range)                               | [Reach](Game/Core/Movement#Reach)                                                                                                                                                                  |
+| [Weapon Traits](Core/Weapon-Traits)                       | [One Handed](Game/Core/Blocks/One-Handed), [Mass](Game/Core/Blocks/Mass), [Spirit](Game/Core/Blocks/Spiritual), [Striking](Game/Core/Blocks/Striking), [Threatening](Game/Core/Blocks/Threatening) |
 
