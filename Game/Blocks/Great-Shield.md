@@ -10,7 +10,7 @@
 #### Great Shield
 *A powerful directional field generator that is held in one hand. This massive force field stretches to either side of you, protecting yourself and nearby allies.*
 
-| Default [Damage](Core/Weapons#Calculating%20Damage)       | 2                                                                                                                                                                             |
+| Default [Damage](Core/Weapons#Calculating%20Damage)       | 4                                                                                                                                                                             |
 | :-------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Extra Damage](Game/Core/Attacks#Extra%20Damage) Modifier | -                                                                                                                                                                             |
 | [Damage Type](Core/Weapons#Damage%20Type)                 | [Heat](Game/Core/Injury#Heat)                                                                                                                                                 |
