@@ -23,7 +23,7 @@ Sleuth reclaimers specialize in using deduction to solve problems.
 
 
 ## Skills
-You begin with a rank in [Insight](Game/Core/Intelligence#Insight), [Connection](Game/Core/Communication#Connection), [Identity](Game/Core/Spirit#Identity), [Will](Game/Core/Spirit#Will), and 7 additional skill ranks of your choice.
+You begin with a rank in [Understanding](Game/Core/Intelligence#Understanding), [Connection](Game/Core/Communication#Connection), [Identity](Game/Core/Spirit#Identity), [Will](Game/Core/Spirit#Will), and 7 additional skill ranks of your choice.
 
 ## Equipment
 Equipment readily available to you when you deploy to the field. Remember, you can always select gear from the [Standard-Equipment](Game/Standard-Equipment) list.

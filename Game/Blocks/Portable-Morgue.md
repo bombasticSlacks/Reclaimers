@@ -9,7 +9,7 @@
 {: .label .label-yellow }
 #### Portable Morgue
 *A kit consisting of everything you need to be a morgue on the go, body bags, autopsy equipment, toxicology scanning tools, and solvents designed to destroy problematic corpses.*
-* Traits: [Toolkits](Game/Core/Blocks/Toolkits), [Skilled](Game/Core/Blocks/Skilled)([Insight](Game/Core/Intelligence#Insight)).
+* Traits: [Toolkits](Game/Core/Blocks/Toolkits), [Skilled](Game/Core/Blocks/Skilled)([Understanding](Game/Core/Intelligence#Understanding)).
 * You can effectively investigate dead bodies.
 * You can dispose and destroy dead bodies with ease.
 
