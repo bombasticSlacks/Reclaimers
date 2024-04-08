@@ -10,7 +10,7 @@
 #### Plate Carrier
 *A small lightweight chest armour consisting of advanced fabric covering the torso and neck and 2 high density hard plates made of advanced polymers designed to stop projectiles, one for each of the chest and back. Usually includes a helmet or hood.*
 
-| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 2 |
+| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 4 |
 | :---- | :---- |
 | [Armour-Traits](Game/Core/Armour-Traits) | - |
 

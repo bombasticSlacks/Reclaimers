@@ -10,7 +10,7 @@
 #### Full Plate
 *A massive suit of heavy armour designed to hold up against almost any force or issue. This suit is space proof, internally filtered and very hard to move in.*
 
-| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 4                                    |
+| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 8                                    |
 | :------------------------------------------------------ | :----------------------------------- |
 | [Armour-Traits](Game/Core/Armour-Traits)                | [Sealed](Game/Core/Blocks/Sealed) |
 

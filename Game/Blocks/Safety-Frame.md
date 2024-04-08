@@ -10,7 +10,7 @@
 #### Safety Frame
 *The Safety Frame is the ultimate in space age on site protection for labourers. This suit is built on a slightly sluggish mechanized frame with notable plating protecting the user. The real unique part of this EXO frame is the addition of an automated mechanical arm which assists in repairs and safety.*
 
-| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 6 |
+| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 12 |
 | :---- | :---- |
 | [Armour-Traits](Game/Core/Armour-Traits) | [Sealed](Game/Core/Blocks/Sealed), [Mechanized](Game/Core/Blocks/Mechanized), [Helping-Hand](Game/Core/Blocks/Helping-Hand) |
 

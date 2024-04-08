@@ -11,7 +11,7 @@
 #### Hardsuit
 *A fully enclosed hard suit protecting you from chemicals, lack of environment and pressure damage. It is designed to seal automatically on detecting a loss in pressure.*
 
-| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 4 |
+| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 8 |
 | :---- | :---- |
 | [Armour-Traits](Game/Core/Armour-Traits) | [Sealed](Game/Core/Blocks/Sealed) |
 

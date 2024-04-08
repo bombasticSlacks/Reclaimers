@@ -10,7 +10,7 @@
 #### Praetorian Armour
 *A suit of trimmed down salvaged power armour focusing on heightened mobility while reducing the overall protection.*
 
-| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 4 |
+| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 8 |
 | :---- | :---- |
 | [Armour-Traits](Game/Core/Armour-Traits) | - |
 

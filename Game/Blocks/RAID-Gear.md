@@ -10,7 +10,7 @@
 #### RAID Gear
 *A tactical choice for detectives going into zones of civil unrest. This armour is a combination of SWAT style riot suppressing armour with a professional long coat and a gas mask designed to protect against airborne problems.*
 
-| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 4 |
+| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 8 |
 | :---- | :---- |
 | [Armour-Traits](Game/Core/Armour-Traits) | [Filtered](Game/Core/Blocks/Filtered) |
 

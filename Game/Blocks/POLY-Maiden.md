@@ -10,7 +10,7 @@
 #### POLY Maiden
 *A strange suit of armour assault troopers joke about being their coffin. This grafted suit of armour is basically impossible to remove in the field without advanced lab equipment. The plating of this armour is a living compound that regrows on tearing, making this armour impossible to destroy but also making it very difficult to provide first aid or surgery to anyone wearing it.*
 
-| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 4 |
+| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 8 |
 | :---- | :---- |
 | [Armour-Traits](Game/Core/Armour-Traits) | [Living](Game/Core/Blocks/Living), [Regenerating](Game/Core/Blocks/Regenerating) |
 

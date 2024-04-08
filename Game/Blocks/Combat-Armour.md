@@ -10,7 +10,7 @@
 #### Combat Armour
 *Heavy armour with military grade plating for maximum protection. The maximum amount of weight a soldier could be expected to carry without mechanized support. Has a reinforced ballistic hood that can be rolled out for head protection.*
 
-| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 4 |
+| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 8 |
 | :---- | :---- |
 | [Armour-Traits](Game/Core/Armour-Traits) | - |
 
