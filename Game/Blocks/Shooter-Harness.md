@@ -10,6 +10,6 @@
 #### Shooter Harness
 *This advanced mechanical arm integrates with your weapon, providing you intel on distances accuracy, drop-off and anything else you can imagine.*
 * [Traits](Game/Core/Gear#Traits): [Passive](Game/Core/Blocks/Passive).
-* (+1) to [Accuracy](Game/Core/Agility#Accuracy) for [Attacks](Game/Core/Terminology#Attack).
+* (+1) to [Coordination](Game/Core/Agility#Coordination) for [Attacks](Game/Core/Terminology#Attack).
 * Ignore any [Distance Penalty](Game/Core/Attack-Bonuses#Distance%20Penalty) when attacking.
 

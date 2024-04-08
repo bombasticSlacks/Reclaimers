@@ -20,7 +20,7 @@ Agents are the Reclaimers working in the shadows, using subterfuge and less than
 </details>
 
 ## Skills
-You begin with a rank in [Accuracy](Game/Core/Agility#Accuracy), [Reflexes](Game/Core/Agility#Reflexes), [Grace](Game/Core/Agility#Grace), [Mannerism](Game/Core/Communication#Mannerism) and 7 additional skill ranks of your choice.
+You begin with a rank in [Volition](Game/Core/Spirit#Volition), [Reflexes](Game/Core/Agility#Reflexes), [Coordination](Game/Core/Agility#Coordination), [Connection](Game/Core/Communication#Connection) and 4 additional skill ranks of your choice.
 
 ## Equipment
 Equipment readily available to you when you deploy to the field. Remember, you can always select gear from the [Standard-Equipment](Game/Standard-Equipment) list.

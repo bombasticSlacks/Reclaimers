@@ -10,4 +10,4 @@
 #### Neuro Suit
 *A modified jumpsuit that amplifies the user’s connection to the strange and the unknown. The glove gives off an ambient glow and tracks the users' mental activation. Some even claim to be able to determine a psychics mood based on the colours.*
 * [Traits](Game/Core/Gear#Traits): [Passive](Game/Core/Blocks/Passive).
-* You receive a (+1) to [Attunement](Game/Core/Spirit#Attunement), and [Will](Game/Core/Spirit#Will).
+* You receive a (+1) to [Ascendancy](Game/Core/Spirit#Ascendancy), and [Ascendancy](Game/Core/Spirit#Ascendancy).

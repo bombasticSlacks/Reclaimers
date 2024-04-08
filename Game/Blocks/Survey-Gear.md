@@ -9,6 +9,6 @@
 {: .label .label-yellow }
 #### Survey Gear
 *Everything a character needs to travel and survey an area, including rope, grapnel, a mechanical winch, marking flags, lamps, an automated shovel, and others.*
-* Traits: [Toolkits](Game/Core/Blocks/Toolkits), [Skilled](Game/Core/Blocks/Skilled)([Athletics](Game/Core/Strength#Athletics)).
+* Traits: [Toolkits](Game/Core/Blocks/Toolkits), [Skilled](Game/Core/Blocks/Skilled)([Physique](Game/Core/Strength#Physique)).
 * You have anything you could need when exploring or surveying an area.
 
