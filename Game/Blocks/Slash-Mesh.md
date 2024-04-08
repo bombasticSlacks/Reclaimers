@@ -10,7 +10,7 @@
 #### Slash Mesh
 *A lightweight weave of flexible carbon tubing worn as an undershirt and leggings. This weave helps to mitigate energy as well as stopping most basic bladed weapons from causing any serious damage.*
 
-| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 2 |
+| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 4 |
 | :---- | :---- |
 | [Armour-Traits](Game/Core/Armour-Traits) | - |
 

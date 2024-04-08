@@ -10,7 +10,7 @@
 #### EXO Frame
 *Armour reinforced with a mechanized exosuit to manage the cumbersome weight. Completely sealed with front facing cameras providing HUD and vision.*
 
-| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 6 |
+| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 12 |
 | :---- | :---- |
 | [Armour-Traits](Game/Core/Armour-Traits) | [Sealed](Game/Core/Blocks/Sealed), [Mechanized](Game/Core/Blocks/Mechanized) |
 

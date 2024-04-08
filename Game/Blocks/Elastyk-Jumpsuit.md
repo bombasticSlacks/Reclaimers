@@ -10,7 +10,7 @@
 #### Elastyk Jumpsuit
 *A unique jumpsuit wired with thousands of electrical receptors which improve reflexes and keep the body relaxed, leading to incredible flexibility and response.*
 
-| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 2 |
+| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 4 |
 | :---- | :---- |
 | [Armour-Traits](Game/Core/Armour-Traits) | [Reactive](Game/Core/Blocks/Reactive) |
 
