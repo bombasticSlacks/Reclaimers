@@ -22,7 +22,7 @@ Mystics explore the strange and the exotic, delving into the unknown.
 
 ## Skills
 
-You begin with a rank in [Ascendancy](Game/Core/Spirit#Ascendancy), [Ascendancy](Game/Core/Spirit#Ascendancy), [Volition](Game/Core/Spirit#Volition), [Understanding](Game/Core/Intelligence#Understanding) and 7 additional skill ranks of your choice.
+You begin with a rank in [Ascendancy](Game/Core/Spirit#Ascendancy), [Reflexes](Game/Core/Agility#Reflexes), [Volition](Game/Core/Spirit#Volition), [Understanding](Game/Core/Intelligence#Understanding) and 4 additional skill ranks of your choice.
 
 ## Equipment
 Equipment readily available to you when you deploy to the field. Remember, you can always select gear from the [Standard-Equipment](Game/Standard-Equipment) list.

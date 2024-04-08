@@ -21,7 +21,7 @@ Techs use tools, and repairing to solve problems.
 
 ## Skills
 
-You begin with a rank in [Application](Game/Core/Intelligence#Application), [Understanding](Game/Core/Intelligence#Understanding), [Coordination](Game/Core/Agility#Coordination), [Physique](Game/Core/Strength#Physique) and 7 additional skill ranks of your choice.
+You begin with a rank in [Application](Game/Core/Intelligence#Application), [Understanding](Game/Core/Intelligence#Understanding), [Coordination](Game/Core/Agility#Coordination), [Physique](Game/Core/Strength#Physique) and 4 additional skill ranks of your choice.
 
 ## Equipment
 Equipment readily available to you when you deploy to the field. Remember, you can always select gear from the [Standard-Equipment](Game/Standard-Equipment) list.

@@ -23,7 +23,7 @@ Soldier Reclaimers specialize in using force to solve problems having the gear a
 
 
 ## Skills
-You begin with a rank in [Physique](Game/Core/Strength#Physique), [Endurance](Game/Core/Strength#Endurance), [Physique](Game/Core/Strength#Physique), [Coordination](Game/Core/Agility#Coordination) and 7 additional skill ranks of your choice.
+You begin with a rank in [Physique](Game/Core/Strength#Physique), [Endurance](Game/Core/Strength#Endurance), [Confidence](Game/Core/Communication#Confidence), [Coordination](Game/Core/Agility#Coordination) and 4 additional skill ranks of your choice.
 
 ## Equipment
 Equipment readily available to you when you deploy to the field. Remember, you can always select gear from the [Standard-Equipment](Game/Standard-Equipment) list.

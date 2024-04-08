@@ -21,7 +21,7 @@ Psych Reclaimers help to keep the people they meet happy and content, no matter 
 </details>
 
 ## Skills
-You begin with a rank in [Confidence](Game/Core/Communication#Confidence), [Connection](Game/Core/Communication#Connection), [Understanding](Game/Core/Intelligence#Understanding) and 7 additional skill ranks of your choice.
+You begin with a rank in [Confidence](Game/Core/Communication#Confidence), [Connection](Game/Core/Communication#Connection), [Understanding](Game/Core/Intelligence#Understanding), [Volition](Game/Core/Spirit#Volition) and 4 additional skill ranks of your choice.
 
 ## Equipment
 Equipment readily available to you when you deploy to the field. Remember, you can always select gear from the [Standard-Equipment](Game/Standard-Equipment) list.
