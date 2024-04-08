@@ -9,6 +9,6 @@
 {: .label .label-green }
 ### Surgeons Hand
 *You give new meaning to "under the knife" with your skills with blade and saw.*
-* You can [Substitute](Game/Core/Terminology#Substitute) [Application](Game/Core/Intelligence#Application) for [Strike](Game/Core/Strength#Strike).
+* You can [Substitute](Game/Core/Terminology#Substitute) [Application](Game/Core/Intelligence#Application) for [Physique](Game/Core/Strength#Physique).
 
 
