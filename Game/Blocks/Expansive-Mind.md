@@ -10,4 +10,4 @@
 ### Expansive Mind
 *With the inclusion of additional cybernetics modifying your neural pathways, your psychic power is almost overwhelming.*
 * You can use the [Cone](Game/Core/Magical-Attacks#Cone), [Area](Game/Core/Magical-Attacks#Area), [Magical-Attacks](Game/Core/Magical-Attacks) modifiers. 
-* You deal +1 [Damage](Game/Core/Terminology#Damage) with [Attack](Game/Core/Terminology#Attack) with [Mind-Over-Matter](Game/Core/Blocks/Mind-Over-Matter).
+* You deal +1 [Damage](Game/Core/Terminology#Damage) with [Attack](Game/Core/Terminology#Attack) with [Otherworldly](Game/Core/Blocks/Otherworldly).
