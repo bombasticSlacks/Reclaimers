@@ -10,11 +10,11 @@
 #### Riot Shield
 *A massive slab of hardened ceramic designed for controlling crowds and protecting the user from attack. A connection point on the side, and the fact it straps to the arm, means you can still use two-handed weapons while using it.*
 
-| Default [Damage](Core/Weapons#Calculating%20Damage) | 1                                                                                                                  |
-| :-------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------- |
-| [Damage Bonus](Game/Core/Weapons#Damage%20Bonus)    | -                                                                                                                  |
-| [Damage Type](Core/Weapons#Damage%20Type)           | [Impact](Game/Core/Injury#Impact)                                                                                  |
-| [Range](Core/Weapons#Range)                         | [Reach](Game/Core/Movement#Reach)                                                                                  |
-| [Weapon Traits](Core/Weapon-Traits)                 | [Handless](Game/Core/Blocks/Handless), [Striking](Game/Core/Blocks/Striking), [Shield(2)](Game/Core/Blocks/Shield) |
+| Default [Damage](Core/Weapons#Calculating%20Damage)       | 1                                                                                                                  |
+| :-------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------- |
+| [Extra Damage](Game/Core/Attacks#Extra%20Damage) Modifier | -                                                                                                                  |
+| [Damage Type](Core/Weapons#Damage%20Type)                 | [Impact](Game/Core/Injury#Impact)                                                                                  |
+| [Range](Core/Weapons#Range)                               | [Reach](Game/Core/Movement#Reach)                                                                                  |
+| [Weapon Traits](Core/Weapon-Traits)                       | [Handless](Game/Core/Blocks/Handless), [Striking](Game/Core/Blocks/Striking), [Shield(2)](Game/Core/Blocks/Shield) |
 
 
