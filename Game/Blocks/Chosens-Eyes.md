@@ -11,9 +11,9 @@
 *Your eyes have been replaced with glorious golden eyes burning with fire and rippling with psychic potential.*
 * Spend 1 power to make the following attack:
 
-| Default [Damage](Core/Weapons#Calculating%20Damage) | 6(-2)                                                                                                                                                                                          |
-| :-------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Damage Bonus](Game/Core/Weapons#Damage%20Bonus)    | X                                                                                                                                                                                              |
-| [Damage Type](Core/Weapons#Damage%20Type)           |                                                                                                                                                                                                |
-| [Range](Core/Weapons#Range)                         |                                                                                                                                                                                                |
-| [Weapon Traits](Core/Weapon-Traits)                 | [One Handed](Game/Core/Blocks/One-Handed.md), [Two Handed](Game/Core/Blocks/Two-Handed.md), [Capacity](Game/Core/Blocks/Capacity.md)(5, Ammunition), [Loading](Game/Core/Blocks/Loading.md)(1) |
+| Default [Damage](Core/Weapons#Calculating%20Damage)       | 6                                                                                                                            |
+| :-------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- |
+| [Extra Damage](Game/Core/Attacks#Extra%20Damage) Modifier | (-2)                                                                                                                         |
+| [Damage Type](Core/Weapons#Damage%20Type)                 | [Heat](Game/Core/Injury#Heat)                                                                                                |
+| [Range](Core/Weapons#Range)                               | [[Game/Core/Movement#s\|Movement]]                                                                                           |
+| [Weapon Traits](Core/Weapon-Traits)                       | [Handless](Game/Core/Blocks/Handless), [Burning](Game/Core/Blocks/Burning), [Otherworldly](Game/Core/Blocks/Otherworldly) |
