@@ -18,6 +18,7 @@ Rewarded to Reclaimers who go above and beyond the call of duty, excellence can 
 * Give yourself or another person a re-roll on any [Skill Test](Game/Core/Terminology#Skill%20Test).
 * Gain an additional point for [Requisition](Game/Deployment#Requisition).
 * Gain an additional [Charge](Game/Core/Blocks/Charges) of something.
+
 ## Exhaustion
 A measure of how much horror a person can see before they are no longer fit for the work. When you take your [Baseline Test](Game/Returning-From-Space#Baseline%20Test) you will gain exhaustion, when you hit your max exhaustion you will have to [Retire](Game/Progress#Retiring).
 
