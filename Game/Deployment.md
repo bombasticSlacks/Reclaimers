@@ -18,12 +18,11 @@ Anytime you leave the planet for a mission, this is called deployment. When on d
 During deploying is a great time to jump into [Narrative-Time](Game/Core/Narrative-Time) and role-play interactions between the team, or flashback / montage what each [Player Character](Game/Core/Terminology#Player%20Character) has been doing since last deployment.
 
 When deploying, you will do a few useful things.
-
-- Be briefed on what information [CentGov](Game/Terms-And-Jargon#CentGov) has on the mission and situation.
-- Be informed of the [Severity](#Severity) of the mission.
-- Perform a
-- [Requisition](#Requisition) gear.
-- Depart for your target location, starting [Narrative-Time](Game/Core/Narrative-Time).
+* Be briefed on what information [CentGov](Game/Terms-And-Jargon#CentGov) has on the mission and situation.
+* Be informed of the [Severity](#Severity) of the mission.
+* Perform a [Departure-Activities](Game/Departure-Activities)
+* [Requisition](#Requisition) gear.
+* Depart for your target location, starting [Narrative-Time](Game/Core/Narrative-Time).
 
 ### Severity
 
