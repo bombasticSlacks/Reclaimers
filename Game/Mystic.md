@@ -34,11 +34,11 @@ Equipment readily available to you when you deploy to the field. Remember, you c
 
 ### Armour
 [Deploy](Game/Deployment) With Up To 1
+![Neuro-Suit](Game/Blocks/Neuro-Suit)
 
 ### Gear
 [Deploy](Game/Deployment) With Any Number
 ![Mind-Shield](Game/Blocks/Mind-Shield)
-![Neuro-Suit](Game/Blocks/Neuro-Suit)
 ![Spectrometer](Game/Blocks/Spectrometer)
 ![Horror-Encyclopedia](Game/Blocks/Horror-Encyclopedia)
 

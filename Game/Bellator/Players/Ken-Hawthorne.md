@@ -37,6 +37,7 @@ Phase Cat 1 req point.
 ![Psychic-Amplifier](Game/Blocks/Psychic-Amplifier)
 
 ## Armour (Select 1)
+![Neuro-Suit](Game/Blocks/Neuro-Suit)
 ![Plate-Carrier](Game/Blocks/Plate-Carrier)
 ![Slash-Mesh](Game/Blocks/Slash-Mesh)
 ![Spacesuit](Game/Blocks/Spacesuit)
@@ -44,7 +45,6 @@ Phase Cat 1 req point.
 ## Gear (Select Any Number)
 ![Horror-Encyclopedia](Game/Blocks/Horror-Encyclopedia)
 ![Mind-Shield](Game/Blocks/Mind-Shield)
-![Neuro-Suit](Game/Blocks/Neuro-Suit)
 ![Ritualism-Kit](Game/Blocks/Ritualism-Kit)
 ![Spectrometer](Game/Blocks/Spectrometer)
 

@@ -1,4 +1,3 @@
-
 [Expert](Game/Advancement-List?Expert=true)
 {: .label .label-purple }
 
@@ -7,7 +6,9 @@
 
 [Modification](Game/Advancement-List?Modification=true)
 {: .label .label-green }
-### External Funding
-*You've negotiated additional funding for your squad, lending to additional equipment.*
-* Everyone you go on [Deployment](Game/Deployment) with counts as having 1 additional [Sway](Game/Additional-Attributes#Sway).
 
+### External Funding
+
+_You've negotiated additional funding for your squad, lending to additional equipment._
+
+- Everyone you go on [Deployment](Game/Deployment) with counts as having 1 additional [Sway](Game/Blocks/Sway).
