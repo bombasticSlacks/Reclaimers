@@ -17,7 +17,7 @@ During deploying is a great time to jump into [Narrative-Time](Game/Core/Narrati
 When deploying, you will do a few useful things.
 * Be briefed on what information [CentGov](Game/Terms-And-Jargon#CentGov) has on the mission and situation.
 * Be informed of the [Severity](#Severity) of the mission.
-* Perform a 
+* Perform a [Departure-Activities](Game/Departure-Activities)
 * [Requisition](#Requisition) gear.
 * Depart for your target location, starting [Narrative-Time](Game/Core/Narrative-Time).
 

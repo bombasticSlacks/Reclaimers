@@ -1,7 +1,7 @@
 [Station-Layouts](Game/Station-Layouts)
 {: .label .label-blue }
 
-## Warehouse
+## Medical Facility
 ```mermaid
 flowchart TD
 
