@@ -1,18 +1,17 @@
-Elite
+[Creatures](Game/Creatures?Elite=true)
 {: .label .label-purple }
 
-Label
+Faction
 {: .label .label-blue }
 ### Name
 *Description.*
 
-| Move | Integrity | Weakness | Resistance |
-| ---- | --------- | -------- | ---------- |
-|      |           |          |            |
-#### Actions
-* [Attack](Game/Core/Blocks/Attack)(+X, TYPE, DAM)
+| Move | Integrity | Weakness (* is vitals only) | Resistance (* is ancillary only) |
+| ---- | --------- | --------------------------- | -------------------------------- |
+|      |           |                             |                                  |
 
+#### Actions
+* [Attack](Game/Core/Blocks/Attack)(+X, Type, Damage)
 #### Traits
-* 
+
 #### Traps
-* 
