@@ -2,10 +2,10 @@
 layout: default
 title: Session
 has_children: false
-parent: 
+parent: Bellator
 grand_parent: 
 nav_order: 0
-nav_exclude: true
+nav_exclude: false
 ---
 # Session 4
 {: .no_toc }
