@@ -6,7 +6,7 @@ Faction
 ### Name
 *Description.*
 
-| Move | Integrity | Weakness (* is vitals only) | Resistance (* is ancillary only) |
+| Move | Integrity | Weakness (! is vitals only) | Resistance (! is ancillary only) |
 | ---- | --------- | --------------------------- | -------------------------------- |
 |      |           |                             |                                  |
 
