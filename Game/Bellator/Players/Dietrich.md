@@ -60,6 +60,7 @@ Dietrich has been studying Xeno Biology.
 ![Expanders](Game/Blocks/Expanders)
 ![Missing-Clue](Game/Blocks/Missing-Clue)
 ![Security-HUD](Game/Blocks/Security-HUD)
+![Master-Work](Game/Blocks/Master-Work)
 
 ## Attributes
 

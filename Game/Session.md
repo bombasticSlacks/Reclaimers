@@ -23,7 +23,7 @@ nav_exclude: false
 ### Cecilia Shaw (She/Her)
 * Head of research.
 
-### Additional Personelle
+### Additional Personnele
 Additional crew as part of their teams equalling 15-30 people (depending on shifts).
 
 ## Layout
