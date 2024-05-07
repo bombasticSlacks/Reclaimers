@@ -56,6 +56,7 @@ Dietrich has been studying Xeno Biology.
 ![Manacles](Game/Blocks/Manacles)
 
 ## Abilities
+![Aggression-Detector](Game/Blocks/Aggression-Detector)
 ![Chosens-Eyes](Game/Blocks/Chosens-Eyes)
 ![Expanders](Game/Blocks/Expanders)
 ![Missing-Clue](Game/Blocks/Missing-Clue)

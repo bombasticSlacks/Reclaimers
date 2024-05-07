@@ -24,7 +24,7 @@ Used to be a priest, fascination with the occult and exorcism. Travelled outside
 
 Ken has a black jumpsuit with the priests collar. Dangles a rosary off his waist. Younger man with a goatee and greasy black hair.
 
-## Trophy 
+## Trophy
 Phase Cat 1 req point.
 ![Phase-Cat](Game/Creatures/Phase-Cat)
 
@@ -39,15 +39,18 @@ Phase Cat 1 req point.
 ## Armour (Select 1)
 ![Neuro-Suit](Game/Blocks/Neuro-Suit)
 ![Plate-Carrier](Game/Blocks/Plate-Carrier)
+![Safety-Frame](Game/Blocks/Safety-Frame)
 ![Slash-Mesh](Game/Blocks/Slash-Mesh)
 ![Spacesuit](Game/Blocks/Spacesuit)
 
 ## Gear (Select Any Number)
 ![Horror-Encyclopedia](Game/Blocks/Horror-Encyclopedia)
 ![Mind-Shield](Game/Blocks/Mind-Shield)
+![Patching-Kit](Game/Blocks/Patching-Kit)
 ![Ritualism-Kit](Game/Blocks/Ritualism-Kit)
 ![Spectrometer](Game/Blocks/Spectrometer)
 
 ## Abilities
 ![Expanders](Game/Blocks/Expanders)
 ![Tingles](Game/Blocks/Tingles)
+![Armourer](Game/Blocks/Armourer)
