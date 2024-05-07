@@ -7,26 +7,16 @@ grand_parent:
 nav_order: 0
 nav_exclude: false
 ---
-# Session 4
+# Session 5
 {: .no_toc }
 
 ## Message
-3 Identical Warnings Of "Mutiny" from site.
+Message of "No Signal" from station IX408, an unknown station which has been flagged for processing by a small crew.
 
-**Hazard Level 3 Apocalypse**
+Mission Rating: [Level 2 (Catastrophe)](Game/Deployment#Level%202%20(Catastrophe))
+
 ## Relevant Crew
-### T4V (They/Them)
-* Head of military detail.
-### Whistling Mushroom (It/Its)
-* Head of engineering / excavation team.
-
-### Cecilia Shaw (She/Her)
-* Head of research.
-
-### Additional Personnele
-Additional crew as part of their teams equalling 15-30 people (depending on shifts).
+None You Are on Your Own
 
 ## Layout
-3 standard survival shelters in a crater with an excavation site.
-
-![Survival-Shelter](Game/Blocks/Survival-Shelter)
+![Spoke](Game/Blocks/Spoke)
