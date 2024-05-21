@@ -7,16 +7,31 @@ grand_parent:
 nav_order: 0
 nav_exclude: false
 ---
-# Session 5
+# Session 6
 {: .no_toc }
 
 ## Message
-Message of "No Signal" from station IX408, an unknown station which has been flagged for processing by a small crew.
+"Wartime Contraband Shipments" from Baron Hahn's Estate. Going to take a tour as CentGov emissaries, investigate while there.
 
-Mission Rating: [Level 2 (Catastrophe)](Game/Deployment#Level%202%20(Catastrophe))
+Baron, though not a member of CentGov, is a large provider to the space backbone. Need to be careful not to upset him unless something is truly wrong. 
+
+Mission Rating: [Level 0 (Appearance)](Game/Deployment#Level%200%20(Appearance))* 
 
 ## Relevant Crew
-None You Are on Your Own
+
+### Keir Hahn (He/Him)
+The Baron
+A rough skinned man with blue eyes and silver long hair braided with ancient "datajack" (chords and connectors directly attached to the skull) technology not used in centuries. 
+### 5YD (They/Them)
+Head Of Research
+No photo available.
+### Page Lundqvist (She/They)
+Head Of Service
+Ex-military for CentGov, top knot silver hair, brown eyes, a CentGov issued prosthetic leg and a collection of military tattoos from multiple deployments.
+### Merfyn Grey Beans (He/Him)
+Head Of Security
+No photo available.
 
 ## Layout
-![Spoke](Game/Blocks/Spoke)
+![Mansion](Game/Blocks/Mansion)
+![Survival-Shelter](Game/Blocks/Survival-Shelter)

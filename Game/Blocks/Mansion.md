@@ -3,7 +3,7 @@
 
 ## Mansion
 ```mermaid
-graph LR    
+graph LR
 
 subgraph H1[House F1]
 
