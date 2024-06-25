@@ -1,4 +1,3 @@
-
 [Weapons](Game/Core/Weapons)
 {: .label .label-purple }
 
@@ -7,10 +6,12 @@
 
 [Requisition 2](Game/Deployment#Requisition)
 {: .label .label-yellow }
-#### Combat Shotgun
-*A larger shotgun with shells fed by belt and stored in a box magazine. This weapon fires fully automatic advanced flechette shells. This chain shotgun is used for opening bulkheads and tearing through armour.*
 
-| Default [Damage](Core/Weapons#Calculating%20Damage)       | 4                                                                                                                                                                                                                                                                                                                                                |
+#### Combat Shotgun
+
+_A larger shotgun with shells fed by belt and stored in a box magazine. This weapon fires fully automatic advanced flechette shells. This chain shotgun is used for opening bulkheads and tearing through armour._
+
+| Default [Damage](Core/Weapons#Damage)                     | 4                                                                                                                                                                                                                                                                                                                                                |
 | :-------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Extra Damage](Game/Core/Attacks#Extra%20Damage) Modifier | (-1)                                                                                                                                                                                                                                                                                                                                             |
 | [Damage Type](Core/Weapons#Damage%20Type)                 | [Piercing](Game/Core/Injury#Piercing)                                                                                                                                                                                                                                                                                                            |

@@ -1,4 +1,3 @@
-
 [Weapons](Game/Weapons-List)
 {: .label .label-purple }
 
@@ -7,10 +6,12 @@
 
 [Requisition 1](Game/Deployment#Requisition)
 {: .label .label-yellow }
-#### Strobe Gun
-*This low - powered laser weapon pulses energy, causing severe burns to any it touches. It's notable for its rechargeable batteries and numerous built in energy generation methods, making it basically impossible to run out of charge.*
 
-| Default [Damage](Core/Weapons#Calculating%20Damage)       | 4                                                                                                                             |
+#### Strobe Gun
+
+_This low - powered laser weapon pulses energy, causing severe burns to any it touches. It's notable for its rechargeable batteries and numerous built in energy generation methods, making it basically impossible to run out of charge._
+
+| Default [Damage](Core/Weapons#Damage)                     | 4                                                                                                                             |
 | :-------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------- |
 | [Extra Damage](Game/Core/Attacks#Extra%20Damage) Modifier | (-1)                                                                                                                          |
 | [Damage Type](Core/Weapons#Damage%20Type)                 | [Heat](Game/Core/Injury#Heat)                                                                                                 |

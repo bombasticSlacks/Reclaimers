@@ -1,4 +1,3 @@
-
 [Gear](Game/Gear-List)
 {: .label .label-purple }
 
@@ -7,11 +6,14 @@
 
 [Requisition 2](Game/Deployment#Requisition)
 {: .label .label-yellow }
-#### Riot Suppression Cans
-*Gas grenades designed to break up a room. Without protection, a person can't breathe inside and irritants can cause issues for minutes afterwards.*
-* Traits: [Comestibles](Game/Core/Blocks/Comestibles).
 
-| Default [Damage](Core/Weapons#Calculating%20Damage)       | 0                                                                                                                                                                                                                                          |
+#### Riot Suppression Cans
+
+_Gas grenades designed to break up a room. Without protection, a person can't breathe inside and irritants can cause issues for minutes afterwards._
+
+- Traits: [Comestibles](Game/Core/Blocks/Comestibles).
+
+| Default [Damage](Core/Weapons#Damage)                     | 0                                                                                                                                                                                                                                          |
 | :-------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Extra Damage](Game/Core/Attacks#Extra%20Damage) Modifier | -                                                                                                                                                                                                                                          |
 | [Damage Type](Core/Weapons#Damage%20Type)                 | -                                                                                                                                                                                                                                          |

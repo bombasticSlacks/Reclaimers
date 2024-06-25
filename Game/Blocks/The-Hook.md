@@ -1,4 +1,3 @@
-
 [Weapons](Game/Weapons-List)
 {: .label .label-purple }
 
@@ -7,10 +6,12 @@
 
 [Requisition 2](Game/Deployment#Requisition)
 {: .label .label-yellow }
-#### The Hook
-*A grotesque arm mounted implement of the secret police. This hooked grappling gun is designed to rip into targets attempting to escape and bring them to you.*
 
-| Default [Damage](Core/Weapons#Calculating%20Damage)       | 6                                                                                                                                                                                                                                           |
+#### The Hook
+
+_A grotesque arm mounted implement of the secret police. This hooked grappling gun is designed to rip into targets attempting to escape and bring them to you._
+
+| Default [Damage](Core/Weapons#Damage)                     | 6                                                                                                                                                                                                                                           |
 | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Extra Damage](Game/Core/Attacks#Extra%20Damage) Modifier | (-1)                                                                                                                                                                                                                                        |
 | [Damage Type](Core/Weapons#Damage%20Type)                 | [Rending](Game/Core/Injury#Rending)                                                                                                                                                                                                         |

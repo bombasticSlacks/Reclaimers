@@ -1,4 +1,3 @@
-
 [Weapons](Game/Weapons-List)
 {: .label .label-purple }
 
@@ -7,10 +6,12 @@
 
 [Requisition 0](Game/Deployment#Requisition)
 {: .label .label-yellow }
-#### Handgun
-*A reliable sidearm for military and non-military personnel. Reclaimers usually prefer either rapid firing semi-automatic pistols, or higher calibre slower fire rate revolvers, though either provides similar overall damage potential.*
 
-| Default [Damage](Core/Weapons#Calculating%20Damage)       | 4                                                                                                                                                                                                                                                                            |
+#### Handgun
+
+_A reliable sidearm for military and non-military personnel. Reclaimers usually prefer either rapid firing semi-automatic pistols, or higher calibre slower fire rate revolvers, though either provides similar overall damage potential._
+
+| Default [Damage](Core/Weapons#Damage)                     | 4                                                                                                                                                                                                                                                                            |
 | :-------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Extra Damage](Game/Core/Attacks#Extra%20Damage) Modifier | (-2)                                                                                                                                                                                                                                                                         |
 | [Damage Type](Core/Weapons#Damage%20Type)                 | [Piercing](Game/Core/Injury#Piercing)                                                                                                                                                                                                                                        |

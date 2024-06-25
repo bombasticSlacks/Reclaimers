@@ -1,4 +1,3 @@
-
 [Weapons](Game/Weapons-List)
 {: .label .label-purple }
 
@@ -7,10 +6,12 @@
 
 [Requisition 2](Game/Deployment#Requisition)
 {: .label .label-yellow }
-#### Scrambler
-*A large device that resembles a medical scanner, this object is designed to disrupt and scramble brainwaves and can cause people to completely lose track of where they are and what they were doing.*
 
-| Default [Damage](Core/Weapons#Calculating%20Damage)       | 0                                                                                                                                                                                                                                                                                   |
+#### Scrambler
+
+_A large device that resembles a medical scanner, this object is designed to disrupt and scramble brainwaves and can cause people to completely lose track of where they are and what they were doing._
+
+| Default [Damage](Core/Weapons#Damage)                     | 0                                                                                                                                                                                                                                                                                   |
 | :-------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Extra Damage](Game/Core/Attacks#Extra%20Damage) Modifier | -                                                                                                                                                                                                                                                                                   |
 | [Damage Type](Core/Weapons#Damage%20Type)                 | [Life](Game/Core/Injury#Life)                                                                                                                                                                                                                                                       |
