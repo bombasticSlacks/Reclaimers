@@ -10,9 +10,9 @@
 #### Survival Suit
 *An ancient military CBRN suit that has been augmented with advanced tech to support recycling oxygen and water keeping the wearer stable in even the harshest environments.*
 
-| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 8 |
-| :---- | :---- |
-| [Armour-Traits](Game/Core/Armour-Traits) | [Sealed](Game/Core/Blocks/Sealed), [Recycling](Game/Core/Blocks/Recycling) |
+| [Armour Integrity](Game/Core/Armour#Armour%20Integrity) | 8                                                                          |
+| :------------------------------------------------------ | :------------------------------------------------------------------------- |
+| [Armour-Traits](Game/Core/Armour-Traits)                | [Sealed](Game/Core/Blocks/Sealed), [Recycling](Game/Core/Blocks/Recycling) |
 
 |                                                            | [Ancillary](Game/Core/Injury#Ancillary)                                                     | [Vitals](Game/Core/Injury#Vitals)                                                           |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
