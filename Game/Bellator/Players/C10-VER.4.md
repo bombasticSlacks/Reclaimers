@@ -43,4 +43,4 @@ C10-VER.4 is an IPC Xeno-Biologist who has created a compendium of the extra-ter
 ![Trauma-Kit](Game/Blocks/Trauma-Kit)
 
 ## Abilities
-
+![Med-HUD](Game/Blocks/Med-HUD)
