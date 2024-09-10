@@ -7,56 +7,56 @@ grand_parent:
 nav_order: 0
 nav_exclude: false
 ---
-# Session 7
+# Session 8
 {: .no_toc }
 
 ## Message
-"Capitalist Propaganda" on station K68, logistics station.
+"Accidental Death" on station J58, rehab station.
 
 *Mission Rating: [Level 0 (Appearance)](Game/Deployment#Level%200%20(Appearance))* 
 
 ## Relevant Crew
-### Dallas Hammond (He/Him)
+### Tommie Red Beans (He/They)
 * Captain
-* Culture: Prole.
-* Appearance: Long flowing Blonde hair, Blue eyes, Have dark skin. 
+* Appearance: Patchy Red hair, Brown eyes. 
 
-### Rosemary Parish (She/Her)
+### Custódia Ford (She/Her)
 * Security
 * Culture: Prole.
-* Appearance: Bunned Bleached hair, Brown piercing eyes. 
+* Appearance: Top Knot Silver and Pink hair, Brown eyes, Have many tattoos. 
 
-### Dreaming Forest (She/Her)
+### 050 (They/Them)
 * Security
-* Culture: Kaar.
-* Appearance: Black burnt eyes. 
+* Culture: IPC.
+* Appearance: No hair, Blue on white eyes, Are well dressed. 
 
-### Aubrey Snider (She/They)
+### Randi Hahn (She/Her)
 * Maintenance
 * Culture: Prole.
-* Appearance: Long flowing Silver hair, Blue eyes, Are scrawny. 
-### Reuben Kato (He/Him)
-* Maintenance
-* Culture: Prole.
-* Appearance: Top Knot Greying hair, Brown eyes. 
+* Appearance: Bald Strawberry Blonde hair, Brown eyes, Are tall, Have hollow eyes. 
 
-### Leonardo Lynton (He/Him)
-* Medical
+### Eric Gully (He/Him)
+* Head Doctor
 * Culture: Prole.
-* Appearance: Bald Strawberry Blonde fuzz, Blue eyes, Have burnt hands. 
-### Robbie Hammond (He/Him)
-* Warehouse Staff
-* Culture: Prole.
-* Appearance: Top Knot Silver hair, Brown eyes, Has a cheek scar. 
-### Remington Henderson (He/Him)
-* Warehouse Staff
-* Culture: Prole.
-* Appearance: Short Cropped Purple hair, cybernetic eyes. 
+* Appearance: Top Knot Greying hair, Blue eyes, Are well dressed, Have burnt hands. 
 
-### Whistling Lake (They/Them)
-* Warehouse Staff
-* Culture: Kaar.
-* Appearance: Are stout. 
+### Tommie Lynton (They/Them)
+* Assistant
+
+### Reuben Michaud (He/Him)
+* Assistant
+
+### Rose (He/They)
+* Assistant
+
+### Lacy Lynton (He/They)
+* Assistant
+
+### Sukhon Spencer (She/Her)
+* Assistant
+
+### Whistling Brook (He/Him)
+* Assistant
 
 ## Layout
-![Warehouse](Game/Blocks/Warehouse)
+![Medical-Facility](Game/Blocks/Medical-Facility)
