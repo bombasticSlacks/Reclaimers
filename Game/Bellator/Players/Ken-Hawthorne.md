@@ -25,7 +25,7 @@ Used to be a priest, fascination with the occult and exorcism. Travelled outside
 Ken has a black jumpsuit with the priests collar. Dangles a rosary off his waist. Younger man with a goatee and greasy black hair.
 
 ## Trophy
-Phase Cat 1 req point.
+Phase Cat (pattern) 1 req point.
 ![Phase-Cat](Game/Creatures/Phase-Cat)
 
 ## Weapons (Select Up To 2)
