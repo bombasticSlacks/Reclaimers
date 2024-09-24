@@ -7,56 +7,20 @@ grand_parent:
 nav_order: 0
 nav_exclude: false
 ---
-# Session 8
+# Session 9
 {: .no_toc }
 
 ## Message
-"Accidental Death" on station J58, rehab station.
+"Research Recovery" on Vantoo, autonomous habitation area.
 
-*Mission Rating: [Level 0 (Appearance)](Game/Deployment#Level%200%20(Appearance))* 
+*Mission Rating: [Level 2 (Catastrophe)](Game/Deployment#Level%202%20(Catastrophe))* 
+
+**NOTE: Weaponry is restricted (+1 point cost)**
 
 ## Relevant Crew
-### Tommie Red Beans (He/They)
-* Captain
-* Appearance: Patchy Red hair, Brown eyes. 
-
-### Custódia Ford (She/Her)
-* Security
-* Culture: Prole.
-* Appearance: Top Knot Silver and Pink hair, Brown eyes, Have many tattoos. 
-
-### 050 (They/Them)
-* Security
-* Culture: IPC.
-* Appearance: No hair, Blue on white eyes, Are well dressed. 
-
-### Randi Hahn (She/Her)
-* Maintenance
-* Culture: Prole.
-* Appearance: Bald Strawberry Blonde hair, Brown eyes, Are tall, Have hollow eyes. 
-
-### Eric Gully (He/Him)
-* Head Doctor
-* Culture: Prole.
-* Appearance: Top Knot Greying hair, Blue eyes, Are well dressed, Have burnt hands. 
-
-### Tommie Lynton (They/Them)
-* Assistant
-
-### Reuben Michaud (He/Him)
-* Assistant
-
-### Rose (He/They)
-* Assistant
-
-### Lacy Lynton (He/They)
-* Assistant
-
-### Sukhon Spencer (She/Her)
-* Assistant
-
-### Whistling Brook (He/Him)
-* Assistant
+### Yuliana Shaw (She/Her)
+* Head of security on station NOT CentGov
+* Appearance: Stubbled Black hair, Blue eyes, piercing eyes. 
 
 ## Layout
-![Medical-Facility](Game/Blocks/Medical-Facility)
+![Habitation-Dome](Game/Blocks/Habitation-Dome)
