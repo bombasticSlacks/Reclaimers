@@ -48,3 +48,4 @@ Would have been on eradication squads clearing out decimated portions of earth.
 
 ## Abilities
 ![Expanders](Game/Blocks/Expanders)
+![Med-HUD](Game/Blocks/Med-HUD)

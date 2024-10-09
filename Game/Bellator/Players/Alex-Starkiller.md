@@ -52,4 +52,6 @@ A [Tech](Game/Tech) [Zero-G-Pilot](Game/Blocks/Zero-G-Pilot), a retired pilot fr
 ![Tinkering-Kit](Game/Blocks/Tinkering-Kit)
 
 ## Abilities
+![Expanders](Game/Blocks/Expanders)
+![Good-Breeding](Game/Blocks/Good-Breeding)
 
